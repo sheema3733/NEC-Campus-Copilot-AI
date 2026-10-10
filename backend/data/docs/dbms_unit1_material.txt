@@ -1,0 +1,39 @@
+===============================================================================
+NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)
+DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING
+ACADEMIC STUDY MATERIAL: CS301 DATABASE MANAGEMENT SYSTEMS
+UNIT 1: INTRODUCTION & ER MODELING
+Regulation: R20 / R23 Autonomous Syllabus | Credits: 4
+===============================================================================
+
+1. PURPOSE OF DATABASE SYSTEMS & OVERVIEW:
+A Database Management System (DBMS) is software designed to store, manage, and retrieve data efficiently, securely, and consistently. Traditional file processing systems suffered from data redundancy, inconsistency, difficulty accessing data, data isolation, integrity problems, atomicity issues, concurrent access anomalies, and security vulnerabilities. DBMS resolves these drawbacks by providing centralized control and unified data models.
+
+2. THREE-SCHEMA DATABASE ARCHITECTURE:
+The ANSI/SPARC 3-Schema Architecture separates user views from physical database storage:
+- Physical (Internal) Level: Lowest level describing how data is physically stored on disk (block addresses, indices, B-Trees).
+- Logical (Conceptual) Level: Describes what data is stored in the database and the relationships among data items without storage details.
+- External (View) Level: Highest level describing end-user views. Different users see different customized views of the database.
+Data Independence:
+- Physical Data Independence: Capacity to modify internal schema without altering conceptual schema (e.g. changing file index).
+- Logical Data Independence: Capacity to modify conceptual schema without altering external views (e.g. adding new attributes).
+
+3. ENTITY-RELATIONSHIP (ER) DATA MODELING:
+The ER model represents real-world enterprises conceptually:
+- Entity: An object identifiable from other objects (e.g. Student with ID 101).
+- Entity Set: Collection of entities of the same type (e.g. All Students).
+- Attributes: Properties of entities. Types: Simple, Composite (Name -> First, Last), Single-valued, Multi-valued (Phone_Numbers), Derived (Age from DOB).
+- Keys:
+  * Super Key: A set of one or more attributes that uniquely identifies an entity.
+  * Candidate Key: A minimal super key with no redundant attributes.
+  * Primary Key: Candidate key chosen by the database designer as the principal identifier.
+  * Foreign Key: Attribute referencing primary key of another relation to maintain referential integrity.
+- Weak Entity Set: An entity set that does not have sufficient attributes to form a primary key. It relies on an identifying owner entity set and has a discriminator (partial key). Represented by double rectangle and double diamond.
+- Relationships & Cardinalities: One-to-One (1:1), One-to-Many (1:N), Many-to-One (N:1), Many-to-Many (M:N).
+
+4. IMPORTANT EXAM QUESTIONS & ANSWERS:
+Q1: Explain the 3-Schema Architecture with a neat diagram and distinguish between Physical and Logical Data Independence.
+Answer: 3-Schema architecture consists of External/View Level, Conceptual/Logical Level, and Internal/Physical Level. Physical data independence is easier to achieve because modifying physical indexes or storage paths does not affect queries at the conceptual level. Logical data independence is harder because modifying table schemas often requires altering application views.
+
+Q2: What is a Weak Entity Set? Explain with a real-world example.
+Answer: A weak entity set cannot be uniquely identified by its own attributes alone. Example: DEPENDENT of an EMPLOYEE. Dependent name is only unique per employee; the primary key is (Employee_ID, Dependent_Name).

@@ -1,0 +1,52 @@
+===============================================================================
+NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)
+DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING
+ACADEMIC STUDY MATERIAL: CS301 DATABASE MANAGEMENT SYSTEMS
+UNIT 2: RELATIONAL MODEL & SQL
+Regulation: R20 / R23 Autonomous Syllabus | Credits: 4
+===============================================================================
+
+1. RELATIONAL MODEL CONCEPTS:
+A relation is a mathematical table with columns (attributes) and rows (tuples).
+- Domain: Set of permitted atomic values for an attribute.
+- Degree: Number of attributes in a relation.
+- Cardinality: Number of tuples in a relation.
+- Integrity Constraints: Domain Constraints (valid types), Key Constraints (no duplicate primary keys), Entity Integrity (Primary key cannot contain NULL), Referential Integrity (Foreign key must reference existing primary key or be NULL).
+
+2. RELATIONAL ALGEBRA OPERATIONS:
+Relational algebra is a procedural query language consisting of fundamental operators:
+- Selection (σ): Selects tuples that satisfy a given predicate. Syntax: σ_{department='CSE'}(Student).
+- Projection (π): Selects specified columns and eliminates duplicate rows. Syntax: π_{name, gpa}(Student).
+- Union (∪): Combines tuples from two union-compatible relations. Syntax: R ∪ S.
+- Set Difference (-): Tuples in relation R but not in relation S. Syntax: R - S.
+- Cartesian Product (×): Combines every tuple of R with every tuple of S. Syntax: R × S.
+- Natural Join (⨝): Combines tuples from two relations having equal values on common attributes.
+- Outer Joins: Left Outer Join (⟕), Right Outer Join (⟖), Full Outer Join (⟗) preserve non-matching tuples with NULLs.
+
+3. STRUCTURED QUERY LANGUAGE (SQL):
+SQL is the standard declarative query language for relational databases.
+- DDL (Data Definition Language):
+  CREATE TABLE Student (roll_no INT PRIMARY KEY, name VARCHAR(50) NOT NULL, dept VARCHAR(10), gpa DECIMAL(3,2));
+  ALTER TABLE Student ADD COLUMN email VARCHAR(100);
+  DROP TABLE Student;
+- DML (Data Manipulation Language):
+  INSERT INTO Student VALUES (101, 'Kiran', 'CSE', 8.9);
+  UPDATE Student SET gpa = 9.2 WHERE roll_no = 101;
+  DELETE FROM Student WHERE roll_no = 101;
+- DQL (Data Query Language):
+  SELECT dept, AVG(gpa) AS avg_gpa FROM Student GROUP BY dept HAVING AVG(gpa) >= 7.5 ORDER BY avg_gpa DESC;
+- Joins in SQL:
+  INNER JOIN: SELECT S.name, C.course_name FROM Student S INNER JOIN Enroll E ON S.roll_no = E.roll_no INNER JOIN Course C ON E.course_id = C.course_id;
+  LEFT JOIN: Retains all rows from the left table even if no match exists in the right table.
+- Subqueries:
+  SELECT name FROM Student WHERE gpa > (SELECT AVG(gpa) FROM Student);
+- Views & Triggers:
+  CREATE VIEW TopStudents AS SELECT roll_no, name FROM Student WHERE gpa >= 9.0;
+  Triggers execute automatically in response to INSERT, UPDATE, or DELETE events.
+
+4. IMPORTANT EXAM QUESTIONS & ANSWERS:
+Q1: Compare Relational Algebra and SQL. Explain Natural Join with an example.
+Answer: Relational algebra is procedural (specifies how to retrieve data), whereas SQL is declarative (specifies what data to retrieve). Natural Join matches tuples with identical values on all shared attributes and removes redundant attribute copies.
+
+Q2: Explain GROUP BY and HAVING clauses in SQL with an illustrative query.
+Answer: GROUP BY aggregates rows sharing common column values into summary rows. HAVING filters aggregated groups based on aggregate functions (e.g., HAVING COUNT(*) > 5), whereas WHERE filters individual rows prior to grouping.

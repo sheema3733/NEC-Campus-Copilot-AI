@@ -1,0 +1,72 @@
+===============================================================================
+NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)
+DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING
+ACADEMIC STUDY MATERIAL: JAVA101 JAVA PROGRAMMING & OOP
+UNIT 1: JAVA FUNDAMENTALS & OOP CONCEPTS
+Regulation: R20 / R23 Autonomous Syllabus | Credits: 4
+===============================================================================
+
+1. JAVA ARCHITECTURE & PLATFORM INDEPENDENCE:
+Java is an object-oriented, class-based, platform-independent language developed by James Gosling at Sun Microsystems.
+- Java Architecture:
+  * JDK (Java Development Kit): Full development environment containing compiler (javac), debugger, and JRE.
+  * JRE (Java Runtime Environment): Provides libraries, JVM, and core components to execute compiled Java programs.
+  * JVM (Java Virtual Machine): Abstract computing machine that executes compiled Java Bytecode (.class files).
+  * Bytecode & "Write Once, Run Anywhere" (WORA): javac compiles Java source code (.java) into platform-neutral Bytecode (.class). The host OS-specific JVM interprets and executes bytecode using JIT (Just-In-Time) compilation.
+
+2. CORE OBJECT-ORIENTED PROGRAMMING (OOP) PRINCIPLES:
+- Encapsulation: Binding data (fields) and methods into a single class unit and hiding internal state via private access modifiers.
+- Abstraction: Displaying only essential features to users while hiding background implementation details.
+- Inheritance: Mechanism where child class inherits attributes and methods of parent class for code reusability.
+- Polymorphism: Ability of an entity to take multiple forms (Compile-time overloading and Runtime overriding).
+
+3. BASIC JAVA SYNTAX & CONTROL STATEMENTS:
+- Primitive Data Types: byte (1B), short (2B), int (4B), long (8B), float (4B), double (8B), char (2B, Unicode), boolean.
+- Operators: Arithmetic (+, -, *, /, %), Relational (==, !=, <, >), Logical (&&, ||, !), Bitwise, Ternary (? :).
+- Control Structures:
+  * Decision Making: if-else, nested-if, switch statement.
+  * Loops: for, while, do-while, enhanced for-each loop.
+  * Jump Statements: break, continue, return.
+
+4. PRACTICAL CODE EXAMPLE:
+```java
+// Java Program demonstrating basic OOP encapsulation, control flow, and arrays
+public class StudentGradeDemo {
+    private String studentName;
+    private int[] marks;
+
+    public StudentGradeDemo(String name, int[] marks) {
+        this.studentName = name;
+        this.marks = marks;
+    }
+
+    public double calculateAverage() {
+        int sum = 0;
+        for (int mark : marks) {
+            sum += mark;
+        }
+        return (double) sum / marks.length;
+    }
+
+    public void displayReport() {
+        double avg = calculateAverage();
+        char grade = (avg >= 90) ? 'A' : (avg >= 75) ? 'B' : (avg >= 50) ? 'C' : 'F';
+        System.out.println("Student: " + studentName + " | Average: " + avg + " | Grade: " + grade);
+    }
+
+    public static void main(String[] args) {
+        int[] scores = {85, 92, 78, 88, 95};
+        StudentGradeDemo s = new StudentGradeDemo("Sita", scores);
+        s.displayReport();
+    }
+}
+```
+Output:
+Student: Sita | Average: 87.6 | Grade: B
+
+5. IMPORTANT EXAM QUESTIONS & ANSWERS:
+Q1: Explain JVM architecture and justify why Java is platform-independent.
+Answer: JVM consists of ClassLoader, Bytecode Verifier, Memory Areas (Method Area, Heap, Java Stacks, PC Registers, Native Method Stacks), and Execution Engine (Interpreter + JIT Compiler). Java source code compiles into platform-independent Bytecode. Because different OS platforms run platform-specific JVM implementations that accept the identical bytecode, Java is platform-independent.
+
+Q2: Differentiate between JDK, JRE, and JVM.
+Answer: JVM is the runtime engine executing bytecode. JRE contains JVM plus standard class libraries. JDK is the software development kit containing JRE plus development tools (javac, javadoc, jar).

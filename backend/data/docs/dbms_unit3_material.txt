@@ -1,0 +1,48 @@
+===============================================================================
+NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)
+DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING
+ACADEMIC STUDY MATERIAL: CS301 DATABASE MANAGEMENT SYSTEMS
+UNIT 3: NORMALIZATION & DATABASE DESIGN
+Regulation: R20 / R23 Autonomous Syllabus | Credits: 4
+===============================================================================
+
+1. PURPOSE OF NORMALIZATION & ANOMALIES:
+Normalization organizes database tables to minimize data redundancy and prevent update, insertion, and deletion anomalies.
+- Insertion Anomaly: Inability to insert information without adding unrelated attributes (e.g. cannot add course without enrolled student).
+- Deletion Anomaly: Unintended loss of crucial information upon deleting a record (e.g. deleting last student deletes course information).
+- Update Anomaly: Inconsistent data when a duplicated value is changed in one row but not others.
+
+2. FUNCTIONAL DEPENDENCY (FD) & CLOSURE ALGORITHM:
+An FD X -> Y holds on relation R if whenever two tuples agree on attribute X, they must also agree on attribute Y.
+- Armstrong's Axioms:
+  1. Reflexivity: If Y ⊆ X, then X -> Y.
+  2. Augmentation: If X -> Y, then XZ -> YZ.
+  3. Transitivity: If X -> Y and Y -> Z, then X -> Z.
+- Attribute Closure Algorithm (X+):
+  Calculates all attributes functionally determined by attribute set X.
+  Step 1: Set X+ = X.
+  Step 2: For each FD A -> B in F, if A ⊆ X+, add B to X+.
+  Step 3: Repeat until X+ does not change.
+  If X+ contains all attributes of R, then X is a Super Key of R.
+
+3. NORMAL FORMS (1NF to BCNF):
+- First Normal Form (1NF): Every attribute domain contains only atomic (indivisible) values. No multi-valued or composite attributes.
+- Second Normal Form (2NF): Must be in 1NF and have NO Partial Dependency (no non-prime attribute depends on a proper subset of any candidate key).
+- Third Normal Form (3NF): Must be in 2NF and have NO Transitive Dependency. For every non-trivial FD X -> Y, either:
+  * X is a Super Key, OR
+  * Y is a Prime Attribute (member of some candidate key).
+- Boyce-Codd Normal Form (BCNF): Strict 3NF form. For every non-trivial FD X -> Y:
+  * X MUST BE A SUPER KEY.
+  Every BCNF relation is in 3NF, but not all 3NF relations are in BCNF.
+
+4. DECOMPOSITION PROPERTIES & TRADE-OFFS:
+- Lossless-Join Decomposition: A decomposition of R into R1 and R2 is lossless if and only if R1 ∩ R2 -> R1 or R1 ∩ R2 -> R2 (common attributes form a superkey of at least one relation).
+- Dependency Preservation: A decomposition preserves dependencies if the union of FDs of decomposed relations covers the original FD set.
+- 3NF vs BCNF Trade-off: 3NF always guarantees both Lossless Join and Dependency Preservation. BCNF guarantees Lossless Join and eliminates all redundancy based on FDs, but cannot always preserve functional dependencies.
+
+5. IMPORTANT EXAM QUESTIONS & ANSWERS:
+Q1: Differentiate between 3NF and BCNF with a suitable example.
+Answer: In 3NF, for X -> Y, Y can be a prime attribute even if X is not a superkey. In BCNF, X must strictly be a superkey. Example: Relation R(Student, Subject, Teacher) with FDs { (Student, Subject) -> Teacher, Teacher -> Subject }. Candidate keys are (Student, Subject) and (Student, Teacher). Teacher -> Subject violates BCNF because Teacher is not a superkey, but satisfies 3NF because Subject is a prime attribute.
+
+Q2: Given R(A, B, C, D, E) and F = { A -> BC, CD -> E, B -> D, E -> A }. Find candidate keys and highest normal form.
+Answer: Closure of A: A+ = {A, B, C, D, E}. A is candidate key. E+ = {E, A, B, C, D}. E is candidate key. BC+ = {B, C, D, E, A}. BC is candidate key. CD+ = {C, D, E, A, B}. CD is candidate key. B -> D violates 2NF because D is non-prime and depends on B (subset of key BC). Therefore, highest normal form is 1NF.

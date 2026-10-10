@@ -1,0 +1,46 @@
+===============================================================================
+NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)
+DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING
+ACADEMIC STUDY MATERIAL: CS301 DATABASE MANAGEMENT SYSTEMS
+UNIT 4: TRANSACTION PROCESSING & CONCURRENCY CONTROL
+Regulation: R20 / R23 Autonomous Syllabus | Credits: 4
+===============================================================================
+
+1. TRANSACTION CONCEPTS & ACID PROPERTIES:
+A transaction is a logical unit of database processing that includes one or more database access operations (read, write).
+- ACID Properties:
+  * Atomicity: All or nothing execution. If a transaction fails midway, all changes are rolled back (managed by Recovery Manager).
+  * Consistency: Execution of a transaction in isolation preserves database integrity constraints.
+  * Isolation: Concurrently executing transactions do not interfere with each other (managed by Concurrency Control Manager).
+  * Durability: Once a transaction commits, its updates persist permanently even across system crashes.
+- Transaction States: Active -> Partially Committed -> Committed; or Active / Partially Committed -> Failed -> Aborted.
+
+2. SERIALIZABILITY & SCHEDULES:
+- Schedule: Chronological execution sequence of operations from concurrent transactions.
+- Serial Schedule: Transactions execute sequentially without interleaving.
+- Conflict Serializability: A schedule is conflict serializable if it can be transformed into a serial schedule by swapping non-conflicting operations. Two operations conflict if they belong to different transactions, access the same data item, and at least one is a Write.
+- Precedence (Serialization) Graph: A directed graph where transactions are nodes and directed edge Ti -> Tj exists if Ti performs an operation conflicting with an operation of Tj executed later. A schedule is conflict serializable IF AND ONLY IF the precedence graph is ACYCLIC.
+
+3. CONCURRENCY CONTROL PROTOCOLS:
+- Lock-Based Protocols:
+  * Shared Lock (S): Acquired for Read operations. Multiple transactions can hold shared locks simultaneously.
+  * Exclusive Lock (X): Acquired for Write operations. Only one transaction can hold an exclusive lock.
+- Two-Phase Locking (2PL) Protocol:
+  * Growing Phase: Transaction acquires locks; no locks are released.
+  * Shrinking Phase: Transaction releases locks; no new locks can be acquired.
+  * 2PL guarantees Conflict Serializability.
+  * Strict 2PL: Releases all exclusive locks only after commit/abort. Prevents cascading rollbacks.
+  * Rigorous 2PL: Releases all locks (shared and exclusive) only after commit.
+- Timestamp-Based Ordering: Ensures transactions execute in order of their entry timestamp TS(Ti). Thomas' Write Rule allows obsolete writes to be ignored.
+
+4. DEADLOCK HANDLING:
+A deadlock occurs when two or more transactions are waiting indefinitely for locks held by each other (Wait-For Graph cycle).
+- Deadlock Prevention: Wait-Die scheme (older transaction waits, younger dies), Wound-Wait scheme (older transaction wounds younger).
+- Deadlock Detection: Periodically construct Wait-For Graph. If a cycle exists, select a victim transaction to abort and rollback.
+
+5. IMPORTANT EXAM QUESTIONS & ANSWERS:
+Q1: Explain 2PL Protocol and show how it ensures serializability but does not prevent deadlocks.
+Answer: Two-Phase Locking ensures that all lock acquisitions precede any lock release. Since lock points can be ordered sequentially, the resulting precedence graph is acyclic, ensuring serializability. However, mutual waiting for locks held by other transactions in their growing phase can cause deadlocks (e.g. T1 locks A waiting for B; T2 locks B waiting for A).
+
+Q2: Detail the ACID properties and explain how a database ensures each property.
+Answer: Atomicity via Write-Ahead Logging & UNDO; Consistency via integrity constraint validation; Isolation via Concurrency Control (2PL / Timestamping); Durability via checkpoints and REDO log flushing to non-volatile disk.

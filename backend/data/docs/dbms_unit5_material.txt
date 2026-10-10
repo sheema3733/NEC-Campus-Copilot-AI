@@ -1,0 +1,45 @@
+===============================================================================
+NARASARAOPETA ENGINEERING COLLEGE (AUTONOMOUS)
+DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING
+ACADEMIC STUDY MATERIAL: CS301 DATABASE MANAGEMENT SYSTEMS
+UNIT 5: RECOVERY SYSTEMS & STORAGE INDEXING
+Regulation: R20 / R23 Autonomous Syllabus | Credits: 4
+===============================================================================
+
+1. RECOVERY SYSTEMS & FAILURE TYPES:
+Failures include Transaction failures (logical errors, deadlocks), System crashes (power outage, OS crash, volatile RAM loss), and Disk failures (head crash, bad sectors).
+- Recovery Objective: Maintain Atomicity and Durability using redundancy.
+- Write-Ahead Logging (WAL):
+  Log records containing transaction ID, data item, old value, and new value must be written to stable non-volatile storage BEFORE the corresponding database page is flushed to disk.
+  Log format: <Ti, start>, <Ti, X, V_old, V_new>, <Ti, commit>, <Ti, abort>.
+
+2. LOG-BASED RECOVERY TECHNIQUES:
+- Deferred Database Modification:
+  Updates are kept in buffer/log and written to disk only after transaction commits. No UNDO needed; only REDO required.
+- Immediate Database Modification:
+  Updates may be written to disk before commit. If failure occurs:
+  * UNDO: Active transactions without <commit> are rolled back (restore old values).
+  * REDO: Committed transactions with <commit> are reapplied (restore new values).
+- Checkpointing:
+  Periodically freezes database activity, flushes all modified buffer blocks and log records to disk, and writes <checkpoint L> to log. Dramatically reduces recovery time because transactions committed before checkpoint do not need REDO processing.
+- Shadow Paging:
+  Alternative to log-based recovery. Maintains two page tables: Current Page Table (active transactions) and Shadow Page Table (pointing to unmodified original database pages on disk). On crash, pointer simply reverts to shadow page table.
+
+3. INDEXING STRUCTURES & STORAGE:
+- File Organization: Heap file (unordered), Sequential file (ordered by search key), Hash file.
+- Primary Index: Created on ordered key attribute.
+- Secondary Index: Created on non-ordering or non-key attribute.
+- B-Tree Index: Balanced search tree where each node contains keys and record pointers.
+- B+ Tree Index:
+  * All actual data pointers reside strictly in the Leaf Nodes.
+  * Leaf nodes are linked as a doubly-linked list for highly efficient sequential range scans.
+  * Internal nodes contain only search keys and child node pointers for fast O(log N) tree navigation.
+  * Height remains balanced even after frequent insertions and deletions.
+- Hashing: Static hashing uses fixed hash buckets; Dynamic hashing (Extendible Hashing) expands directory dynamically without full rehashing.
+
+4. IMPORTANT EXAM QUESTIONS & ANSWERS:
+Q1: Differentiate between B-Tree and B+ Tree indexing structures. Why are B+ Trees preferred in DBMS?
+Answer: In B-Trees, keys and record pointers are stored in both internal and leaf nodes. In B+ Trees, internal nodes only store navigation keys, allowing higher fan-out (more keys per node block) and lower tree height. All leaf nodes are linked sequentially, enabling rapid range queries (e.g. BETWEEN 20 AND 50) without traversing internal nodes repeatedly.
+
+Q2: Explain the checkpoint recovery mechanism with an illustrative log sequence.
+Answer: When a system fails, the recovery algorithm scans backwards to the most recent checkpoint. Transactions active at or started after the checkpoint are placed into UNDO list if uncommitted, or REDO list if committed. Log records before the checkpoint are safely disregarded.
