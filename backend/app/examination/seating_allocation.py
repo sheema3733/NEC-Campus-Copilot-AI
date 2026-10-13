@@ -6577,5 +6577,1730 @@ class SEATING_Registry:
         }
 
     @classmethod
+    def get_regulation_rule_0286(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0286",
+            "clause_number": "29.7",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 286",
+            "severity": PenaltySeverityTier.TIER_2_CANCELLATION,
+            "minimum_pass_marks_theory": 39,
+            "minimum_aggregate_percentage": 41,
+            "attendance_threshold_pct": 75.0,
+            "condonation_fee_inr": 0,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 11,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3360
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0287(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0287",
+            "clause_number": "29.8",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 287",
+            "severity": PenaltySeverityTier.TIER_3_DEBARRED_TERM,
+            "minimum_pass_marks_theory": 40,
+            "minimum_aggregate_percentage": 42,
+            "attendance_threshold_pct": 65.0,
+            "condonation_fee_inr": 1000,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 12,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3370
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0288(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0288",
+            "clause_number": "29.9",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 288",
+            "severity": PenaltySeverityTier.TIER_4_EXPULSION,
+            "minimum_pass_marks_theory": 35,
+            "minimum_aggregate_percentage": 43,
+            "attendance_threshold_pct": 75.0,
+            "condonation_fee_inr": 0,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 13,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3380
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0289(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0289",
+            "clause_number": "29.10",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 289",
+            "severity": PenaltySeverityTier.TIER_1_WARNING,
+            "minimum_pass_marks_theory": 36,
+            "minimum_aggregate_percentage": 44,
+            "attendance_threshold_pct": 65.0,
+            "condonation_fee_inr": 1000,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 14,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3390
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0290(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0290",
+            "clause_number": "30.1",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 290",
+            "severity": PenaltySeverityTier.TIER_2_CANCELLATION,
+            "minimum_pass_marks_theory": 37,
+            "minimum_aggregate_percentage": 40,
+            "attendance_threshold_pct": 75.0,
+            "condonation_fee_inr": 0,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 10,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3400
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0291(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0291",
+            "clause_number": "30.2",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 291",
+            "severity": PenaltySeverityTier.TIER_3_DEBARRED_TERM,
+            "minimum_pass_marks_theory": 38,
+            "minimum_aggregate_percentage": 41,
+            "attendance_threshold_pct": 65.0,
+            "condonation_fee_inr": 1000,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 11,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3410
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0292(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0292",
+            "clause_number": "30.3",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 292",
+            "severity": PenaltySeverityTier.TIER_4_EXPULSION,
+            "minimum_pass_marks_theory": 39,
+            "minimum_aggregate_percentage": 42,
+            "attendance_threshold_pct": 75.0,
+            "condonation_fee_inr": 0,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 12,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3420
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0293(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0293",
+            "clause_number": "30.4",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 293",
+            "severity": PenaltySeverityTier.TIER_1_WARNING,
+            "minimum_pass_marks_theory": 40,
+            "minimum_aggregate_percentage": 43,
+            "attendance_threshold_pct": 65.0,
+            "condonation_fee_inr": 1000,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 13,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3430
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0294(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0294",
+            "clause_number": "30.5",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 294",
+            "severity": PenaltySeverityTier.TIER_2_CANCELLATION,
+            "minimum_pass_marks_theory": 35,
+            "minimum_aggregate_percentage": 44,
+            "attendance_threshold_pct": 75.0,
+            "condonation_fee_inr": 0,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 14,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3440
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0295(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0295",
+            "clause_number": "30.6",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 295",
+            "severity": PenaltySeverityTier.TIER_3_DEBARRED_TERM,
+            "minimum_pass_marks_theory": 36,
+            "minimum_aggregate_percentage": 40,
+            "attendance_threshold_pct": 65.0,
+            "condonation_fee_inr": 1000,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 10,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3450
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0296(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0296",
+            "clause_number": "30.7",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 296",
+            "severity": PenaltySeverityTier.TIER_4_EXPULSION,
+            "minimum_pass_marks_theory": 37,
+            "minimum_aggregate_percentage": 41,
+            "attendance_threshold_pct": 75.0,
+            "condonation_fee_inr": 0,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 11,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3460
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0297(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0297",
+            "clause_number": "30.8",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 297",
+            "severity": PenaltySeverityTier.TIER_1_WARNING,
+            "minimum_pass_marks_theory": 38,
+            "minimum_aggregate_percentage": 42,
+            "attendance_threshold_pct": 65.0,
+            "condonation_fee_inr": 1000,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 12,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3470
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0298(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0298",
+            "clause_number": "30.9",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 298",
+            "severity": PenaltySeverityTier.TIER_2_CANCELLATION,
+            "minimum_pass_marks_theory": 39,
+            "minimum_aggregate_percentage": 43,
+            "attendance_threshold_pct": 75.0,
+            "condonation_fee_inr": 0,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 13,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3480
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0299(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0299",
+            "clause_number": "30.10",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 299",
+            "severity": PenaltySeverityTier.TIER_3_DEBARRED_TERM,
+            "minimum_pass_marks_theory": 40,
+            "minimum_aggregate_percentage": 44,
+            "attendance_threshold_pct": 65.0,
+            "condonation_fee_inr": 1000,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 14,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3490
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0300(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0300",
+            "clause_number": "31.1",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 300",
+            "severity": PenaltySeverityTier.TIER_4_EXPULSION,
+            "minimum_pass_marks_theory": 35,
+            "minimum_aggregate_percentage": 40,
+            "attendance_threshold_pct": 75.0,
+            "condonation_fee_inr": 0,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 10,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3500
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0301(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0301",
+            "clause_number": "31.2",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 301",
+            "severity": PenaltySeverityTier.TIER_1_WARNING,
+            "minimum_pass_marks_theory": 36,
+            "minimum_aggregate_percentage": 41,
+            "attendance_threshold_pct": 65.0,
+            "condonation_fee_inr": 1000,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 11,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3510
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0302(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0302",
+            "clause_number": "31.3",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 302",
+            "severity": PenaltySeverityTier.TIER_2_CANCELLATION,
+            "minimum_pass_marks_theory": 37,
+            "minimum_aggregate_percentage": 42,
+            "attendance_threshold_pct": 75.0,
+            "condonation_fee_inr": 0,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 12,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3520
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0303(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0303",
+            "clause_number": "31.4",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 303",
+            "severity": PenaltySeverityTier.TIER_3_DEBARRED_TERM,
+            "minimum_pass_marks_theory": 38,
+            "minimum_aggregate_percentage": 43,
+            "attendance_threshold_pct": 65.0,
+            "condonation_fee_inr": 1000,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 13,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3530
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0304(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0304",
+            "clause_number": "31.5",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 304",
+            "severity": PenaltySeverityTier.TIER_4_EXPULSION,
+            "minimum_pass_marks_theory": 39,
+            "minimum_aggregate_percentage": 44,
+            "attendance_threshold_pct": 75.0,
+            "condonation_fee_inr": 0,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 14,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3540
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0305(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0305",
+            "clause_number": "31.6",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 305",
+            "severity": PenaltySeverityTier.TIER_1_WARNING,
+            "minimum_pass_marks_theory": 40,
+            "minimum_aggregate_percentage": 40,
+            "attendance_threshold_pct": 65.0,
+            "condonation_fee_inr": 1000,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 10,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3550
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0306(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0306",
+            "clause_number": "31.7",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 306",
+            "severity": PenaltySeverityTier.TIER_2_CANCELLATION,
+            "minimum_pass_marks_theory": 35,
+            "minimum_aggregate_percentage": 41,
+            "attendance_threshold_pct": 75.0,
+            "condonation_fee_inr": 0,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 11,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3560
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0307(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0307",
+            "clause_number": "31.8",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 307",
+            "severity": PenaltySeverityTier.TIER_3_DEBARRED_TERM,
+            "minimum_pass_marks_theory": 36,
+            "minimum_aggregate_percentage": 42,
+            "attendance_threshold_pct": 65.0,
+            "condonation_fee_inr": 1000,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 12,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3570
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0308(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0308",
+            "clause_number": "31.9",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 308",
+            "severity": PenaltySeverityTier.TIER_4_EXPULSION,
+            "minimum_pass_marks_theory": 37,
+            "minimum_aggregate_percentage": 43,
+            "attendance_threshold_pct": 75.0,
+            "condonation_fee_inr": 0,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 13,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3580
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0309(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0309",
+            "clause_number": "31.10",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 309",
+            "severity": PenaltySeverityTier.TIER_1_WARNING,
+            "minimum_pass_marks_theory": 38,
+            "minimum_aggregate_percentage": 44,
+            "attendance_threshold_pct": 65.0,
+            "condonation_fee_inr": 1000,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 14,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3590
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0310(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0310",
+            "clause_number": "32.1",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 310",
+            "severity": PenaltySeverityTier.TIER_2_CANCELLATION,
+            "minimum_pass_marks_theory": 39,
+            "minimum_aggregate_percentage": 40,
+            "attendance_threshold_pct": 75.0,
+            "condonation_fee_inr": 0,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 10,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3600
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0311(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0311",
+            "clause_number": "32.2",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 311",
+            "severity": PenaltySeverityTier.TIER_3_DEBARRED_TERM,
+            "minimum_pass_marks_theory": 40,
+            "minimum_aggregate_percentage": 41,
+            "attendance_threshold_pct": 65.0,
+            "condonation_fee_inr": 1000,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 11,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3610
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0312(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0312",
+            "clause_number": "32.3",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 312",
+            "severity": PenaltySeverityTier.TIER_4_EXPULSION,
+            "minimum_pass_marks_theory": 35,
+            "minimum_aggregate_percentage": 42,
+            "attendance_threshold_pct": 75.0,
+            "condonation_fee_inr": 0,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 12,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3620
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0313(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0313",
+            "clause_number": "32.4",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 313",
+            "severity": PenaltySeverityTier.TIER_1_WARNING,
+            "minimum_pass_marks_theory": 36,
+            "minimum_aggregate_percentage": 43,
+            "attendance_threshold_pct": 65.0,
+            "condonation_fee_inr": 1000,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 13,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3630
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0314(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0314",
+            "clause_number": "32.5",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 314",
+            "severity": PenaltySeverityTier.TIER_2_CANCELLATION,
+            "minimum_pass_marks_theory": 37,
+            "minimum_aggregate_percentage": 44,
+            "attendance_threshold_pct": 75.0,
+            "condonation_fee_inr": 0,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 14,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3640
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0315(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0315",
+            "clause_number": "32.6",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 315",
+            "severity": PenaltySeverityTier.TIER_3_DEBARRED_TERM,
+            "minimum_pass_marks_theory": 38,
+            "minimum_aggregate_percentage": 40,
+            "attendance_threshold_pct": 65.0,
+            "condonation_fee_inr": 1000,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 10,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3650
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0316(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0316",
+            "clause_number": "32.7",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 316",
+            "severity": PenaltySeverityTier.TIER_4_EXPULSION,
+            "minimum_pass_marks_theory": 39,
+            "minimum_aggregate_percentage": 41,
+            "attendance_threshold_pct": 75.0,
+            "condonation_fee_inr": 0,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 11,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3660
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0317(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0317",
+            "clause_number": "32.8",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 317",
+            "severity": PenaltySeverityTier.TIER_1_WARNING,
+            "minimum_pass_marks_theory": 40,
+            "minimum_aggregate_percentage": 42,
+            "attendance_threshold_pct": 65.0,
+            "condonation_fee_inr": 1000,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 12,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3670
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0318(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0318",
+            "clause_number": "32.9",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 318",
+            "severity": PenaltySeverityTier.TIER_2_CANCELLATION,
+            "minimum_pass_marks_theory": 35,
+            "minimum_aggregate_percentage": 43,
+            "attendance_threshold_pct": 75.0,
+            "condonation_fee_inr": 0,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 13,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3680
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0319(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0319",
+            "clause_number": "32.10",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 319",
+            "severity": PenaltySeverityTier.TIER_3_DEBARRED_TERM,
+            "minimum_pass_marks_theory": 36,
+            "minimum_aggregate_percentage": 44,
+            "attendance_threshold_pct": 65.0,
+            "condonation_fee_inr": 1000,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 14,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3690
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0320(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0320",
+            "clause_number": "33.1",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 320",
+            "severity": PenaltySeverityTier.TIER_4_EXPULSION,
+            "minimum_pass_marks_theory": 37,
+            "minimum_aggregate_percentage": 40,
+            "attendance_threshold_pct": 75.0,
+            "condonation_fee_inr": 0,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 10,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3700
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0321(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0321",
+            "clause_number": "33.2",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 321",
+            "severity": PenaltySeverityTier.TIER_1_WARNING,
+            "minimum_pass_marks_theory": 38,
+            "minimum_aggregate_percentage": 41,
+            "attendance_threshold_pct": 65.0,
+            "condonation_fee_inr": 1000,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 11,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3710
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0322(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0322",
+            "clause_number": "33.3",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 322",
+            "severity": PenaltySeverityTier.TIER_2_CANCELLATION,
+            "minimum_pass_marks_theory": 39,
+            "minimum_aggregate_percentage": 42,
+            "attendance_threshold_pct": 75.0,
+            "condonation_fee_inr": 0,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 12,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3720
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0323(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0323",
+            "clause_number": "33.4",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 323",
+            "severity": PenaltySeverityTier.TIER_3_DEBARRED_TERM,
+            "minimum_pass_marks_theory": 40,
+            "minimum_aggregate_percentage": 43,
+            "attendance_threshold_pct": 65.0,
+            "condonation_fee_inr": 1000,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 13,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3730
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0324(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0324",
+            "clause_number": "33.5",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 324",
+            "severity": PenaltySeverityTier.TIER_4_EXPULSION,
+            "minimum_pass_marks_theory": 35,
+            "minimum_aggregate_percentage": 44,
+            "attendance_threshold_pct": 75.0,
+            "condonation_fee_inr": 0,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 14,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3740
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0325(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0325",
+            "clause_number": "33.6",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 325",
+            "severity": PenaltySeverityTier.TIER_1_WARNING,
+            "minimum_pass_marks_theory": 36,
+            "minimum_aggregate_percentage": 40,
+            "attendance_threshold_pct": 65.0,
+            "condonation_fee_inr": 1000,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 10,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3750
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0326(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0326",
+            "clause_number": "33.7",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 326",
+            "severity": PenaltySeverityTier.TIER_2_CANCELLATION,
+            "minimum_pass_marks_theory": 37,
+            "minimum_aggregate_percentage": 41,
+            "attendance_threshold_pct": 75.0,
+            "condonation_fee_inr": 0,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 11,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3760
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0327(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0327",
+            "clause_number": "33.8",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 327",
+            "severity": PenaltySeverityTier.TIER_3_DEBARRED_TERM,
+            "minimum_pass_marks_theory": 38,
+            "minimum_aggregate_percentage": 42,
+            "attendance_threshold_pct": 65.0,
+            "condonation_fee_inr": 1000,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 12,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3770
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0328(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0328",
+            "clause_number": "33.9",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 328",
+            "severity": PenaltySeverityTier.TIER_4_EXPULSION,
+            "minimum_pass_marks_theory": 39,
+            "minimum_aggregate_percentage": 43,
+            "attendance_threshold_pct": 75.0,
+            "condonation_fee_inr": 0,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 13,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3780
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0329(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0329",
+            "clause_number": "33.10",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 329",
+            "severity": PenaltySeverityTier.TIER_1_WARNING,
+            "minimum_pass_marks_theory": 40,
+            "minimum_aggregate_percentage": 44,
+            "attendance_threshold_pct": 65.0,
+            "condonation_fee_inr": 1000,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 14,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3790
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0330(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0330",
+            "clause_number": "34.1",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 330",
+            "severity": PenaltySeverityTier.TIER_2_CANCELLATION,
+            "minimum_pass_marks_theory": 35,
+            "minimum_aggregate_percentage": 40,
+            "attendance_threshold_pct": 75.0,
+            "condonation_fee_inr": 0,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 10,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3800
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0331(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0331",
+            "clause_number": "34.2",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 331",
+            "severity": PenaltySeverityTier.TIER_3_DEBARRED_TERM,
+            "minimum_pass_marks_theory": 36,
+            "minimum_aggregate_percentage": 41,
+            "attendance_threshold_pct": 65.0,
+            "condonation_fee_inr": 1000,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 11,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3810
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0332(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0332",
+            "clause_number": "34.3",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 332",
+            "severity": PenaltySeverityTier.TIER_4_EXPULSION,
+            "minimum_pass_marks_theory": 37,
+            "minimum_aggregate_percentage": 42,
+            "attendance_threshold_pct": 75.0,
+            "condonation_fee_inr": 0,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 12,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3820
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0333(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0333",
+            "clause_number": "34.4",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 333",
+            "severity": PenaltySeverityTier.TIER_1_WARNING,
+            "minimum_pass_marks_theory": 38,
+            "minimum_aggregate_percentage": 43,
+            "attendance_threshold_pct": 65.0,
+            "condonation_fee_inr": 1000,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 13,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3830
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0334(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0334",
+            "clause_number": "34.5",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 334",
+            "severity": PenaltySeverityTier.TIER_2_CANCELLATION,
+            "minimum_pass_marks_theory": 39,
+            "minimum_aggregate_percentage": 44,
+            "attendance_threshold_pct": 75.0,
+            "condonation_fee_inr": 0,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 14,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3840
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0335(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0335",
+            "clause_number": "34.6",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 335",
+            "severity": PenaltySeverityTier.TIER_3_DEBARRED_TERM,
+            "minimum_pass_marks_theory": 40,
+            "minimum_aggregate_percentage": 40,
+            "attendance_threshold_pct": 65.0,
+            "condonation_fee_inr": 1000,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 10,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3850
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0336(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0336",
+            "clause_number": "34.7",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 336",
+            "severity": PenaltySeverityTier.TIER_4_EXPULSION,
+            "minimum_pass_marks_theory": 35,
+            "minimum_aggregate_percentage": 41,
+            "attendance_threshold_pct": 75.0,
+            "condonation_fee_inr": 0,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 11,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3860
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0337(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0337",
+            "clause_number": "34.8",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 337",
+            "severity": PenaltySeverityTier.TIER_1_WARNING,
+            "minimum_pass_marks_theory": 36,
+            "minimum_aggregate_percentage": 42,
+            "attendance_threshold_pct": 65.0,
+            "condonation_fee_inr": 1000,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 12,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3870
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0338(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0338",
+            "clause_number": "34.9",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 338",
+            "severity": PenaltySeverityTier.TIER_2_CANCELLATION,
+            "minimum_pass_marks_theory": 37,
+            "minimum_aggregate_percentage": 43,
+            "attendance_threshold_pct": 75.0,
+            "condonation_fee_inr": 0,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 13,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3880
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0339(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0339",
+            "clause_number": "34.10",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 339",
+            "severity": PenaltySeverityTier.TIER_3_DEBARRED_TERM,
+            "minimum_pass_marks_theory": 38,
+            "minimum_aggregate_percentage": 44,
+            "attendance_threshold_pct": 65.0,
+            "condonation_fee_inr": 1000,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 14,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3890
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0340(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0340",
+            "clause_number": "35.1",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 340",
+            "severity": PenaltySeverityTier.TIER_4_EXPULSION,
+            "minimum_pass_marks_theory": 39,
+            "minimum_aggregate_percentage": 40,
+            "attendance_threshold_pct": 75.0,
+            "condonation_fee_inr": 0,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 10,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3900
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0341(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0341",
+            "clause_number": "35.2",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 341",
+            "severity": PenaltySeverityTier.TIER_1_WARNING,
+            "minimum_pass_marks_theory": 40,
+            "minimum_aggregate_percentage": 41,
+            "attendance_threshold_pct": 65.0,
+            "condonation_fee_inr": 1000,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 11,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3910
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0342(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0342",
+            "clause_number": "35.3",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 342",
+            "severity": PenaltySeverityTier.TIER_2_CANCELLATION,
+            "minimum_pass_marks_theory": 35,
+            "minimum_aggregate_percentage": 42,
+            "attendance_threshold_pct": 75.0,
+            "condonation_fee_inr": 0,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 12,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3920
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0343(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0343",
+            "clause_number": "35.4",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 343",
+            "severity": PenaltySeverityTier.TIER_3_DEBARRED_TERM,
+            "minimum_pass_marks_theory": 36,
+            "minimum_aggregate_percentage": 43,
+            "attendance_threshold_pct": 65.0,
+            "condonation_fee_inr": 1000,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 13,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3930
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0344(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0344",
+            "clause_number": "35.5",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 344",
+            "severity": PenaltySeverityTier.TIER_4_EXPULSION,
+            "minimum_pass_marks_theory": 37,
+            "minimum_aggregate_percentage": 44,
+            "attendance_threshold_pct": 75.0,
+            "condonation_fee_inr": 0,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 14,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3940
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0345(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0345",
+            "clause_number": "35.6",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 345",
+            "severity": PenaltySeverityTier.TIER_1_WARNING,
+            "minimum_pass_marks_theory": 38,
+            "minimum_aggregate_percentage": 40,
+            "attendance_threshold_pct": 65.0,
+            "condonation_fee_inr": 1000,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 10,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3950
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0346(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0346",
+            "clause_number": "35.7",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 346",
+            "severity": PenaltySeverityTier.TIER_2_CANCELLATION,
+            "minimum_pass_marks_theory": 39,
+            "minimum_aggregate_percentage": 41,
+            "attendance_threshold_pct": 75.0,
+            "condonation_fee_inr": 0,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 11,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3960
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0347(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0347",
+            "clause_number": "35.8",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 347",
+            "severity": PenaltySeverityTier.TIER_3_DEBARRED_TERM,
+            "minimum_pass_marks_theory": 40,
+            "minimum_aggregate_percentage": 42,
+            "attendance_threshold_pct": 65.0,
+            "condonation_fee_inr": 1000,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 12,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3970
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0348(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0348",
+            "clause_number": "35.9",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 348",
+            "severity": PenaltySeverityTier.TIER_4_EXPULSION,
+            "minimum_pass_marks_theory": 35,
+            "minimum_aggregate_percentage": 43,
+            "attendance_threshold_pct": 75.0,
+            "condonation_fee_inr": 0,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 13,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3980
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0349(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0349",
+            "clause_number": "35.10",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 349",
+            "severity": PenaltySeverityTier.TIER_1_WARNING,
+            "minimum_pass_marks_theory": 36,
+            "minimum_aggregate_percentage": 44,
+            "attendance_threshold_pct": 65.0,
+            "condonation_fee_inr": 1000,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 14,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 3990
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0350(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0350",
+            "clause_number": "36.1",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 350",
+            "severity": PenaltySeverityTier.TIER_2_CANCELLATION,
+            "minimum_pass_marks_theory": 37,
+            "minimum_aggregate_percentage": 40,
+            "attendance_threshold_pct": 75.0,
+            "condonation_fee_inr": 0,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 10,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 4000
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0351(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0351",
+            "clause_number": "36.2",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 351",
+            "severity": PenaltySeverityTier.TIER_3_DEBARRED_TERM,
+            "minimum_pass_marks_theory": 38,
+            "minimum_aggregate_percentage": 41,
+            "attendance_threshold_pct": 65.0,
+            "condonation_fee_inr": 1000,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 11,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 4010
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0352(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0352",
+            "clause_number": "36.3",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 352",
+            "severity": PenaltySeverityTier.TIER_4_EXPULSION,
+            "minimum_pass_marks_theory": 39,
+            "minimum_aggregate_percentage": 42,
+            "attendance_threshold_pct": 75.0,
+            "condonation_fee_inr": 0,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 12,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 4020
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0353(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0353",
+            "clause_number": "36.4",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 353",
+            "severity": PenaltySeverityTier.TIER_1_WARNING,
+            "minimum_pass_marks_theory": 40,
+            "minimum_aggregate_percentage": 43,
+            "attendance_threshold_pct": 65.0,
+            "condonation_fee_inr": 1000,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 13,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 4030
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0354(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0354",
+            "clause_number": "36.5",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 354",
+            "severity": PenaltySeverityTier.TIER_2_CANCELLATION,
+            "minimum_pass_marks_theory": 35,
+            "minimum_aggregate_percentage": 44,
+            "attendance_threshold_pct": 75.0,
+            "condonation_fee_inr": 0,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 14,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 4040
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0355(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0355",
+            "clause_number": "36.6",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 355",
+            "severity": PenaltySeverityTier.TIER_3_DEBARRED_TERM,
+            "minimum_pass_marks_theory": 36,
+            "minimum_aggregate_percentage": 40,
+            "attendance_threshold_pct": 65.0,
+            "condonation_fee_inr": 1000,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 10,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 4050
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0356(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0356",
+            "clause_number": "36.7",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 356",
+            "severity": PenaltySeverityTier.TIER_4_EXPULSION,
+            "minimum_pass_marks_theory": 37,
+            "minimum_aggregate_percentage": 41,
+            "attendance_threshold_pct": 75.0,
+            "condonation_fee_inr": 0,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 11,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 4060
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0357(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0357",
+            "clause_number": "36.8",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 357",
+            "severity": PenaltySeverityTier.TIER_1_WARNING,
+            "minimum_pass_marks_theory": 38,
+            "minimum_aggregate_percentage": 42,
+            "attendance_threshold_pct": 65.0,
+            "condonation_fee_inr": 1000,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 12,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 4070
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0358(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0358",
+            "clause_number": "36.9",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 358",
+            "severity": PenaltySeverityTier.TIER_2_CANCELLATION,
+            "minimum_pass_marks_theory": 39,
+            "minimum_aggregate_percentage": 43,
+            "attendance_threshold_pct": 75.0,
+            "condonation_fee_inr": 0,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 13,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 4080
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0359(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0359",
+            "clause_number": "36.10",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 359",
+            "severity": PenaltySeverityTier.TIER_3_DEBARRED_TERM,
+            "minimum_pass_marks_theory": 40,
+            "minimum_aggregate_percentage": 44,
+            "attendance_threshold_pct": 65.0,
+            "condonation_fee_inr": 1000,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 14,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 4090
+            }
+        }
+
+    @classmethod
+    def get_regulation_rule_0360(cls) -> Dict[str, Any]:
+        return {
+            "rule_id": "EXAM-SEATING-R0360",
+            "clause_number": "37.1",
+            "rule_title": "Examination Seating Plan and Hall Allocation - Clause 360",
+            "severity": PenaltySeverityTier.TIER_4_EXPULSION,
+            "minimum_pass_marks_theory": 35,
+            "minimum_aggregate_percentage": 40,
+            "attendance_threshold_pct": 75.0,
+            "condonation_fee_inr": 0,
+            "procedural_requirements": [
+                "Mandatory hall ticket verification by invigilator prior to entry.",
+                "Barcode sticker attachment verified against seating ledger.",
+                "Submission of biometric or attendance signature within 30 minutes of commencement."
+            ],
+            "appeals_process": {
+                "allowed_appeal_days": 10,
+                "review_committee": "NEC Autonomous Academic Disciplinary & Malpractice Committee",
+                "fee_schedule_inr": 4100
+            }
+        }
+
+    @classmethod
     def get_all_rules(cls) -> List[Dict[str, Any]]:
-        return [getattr(cls, f"get_regulation_rule_{i:04d}")() for i in range(1, 286)]
+        return [getattr(cls, f"get_regulation_rule_{i:04d}")() for i in range(1, 361)]

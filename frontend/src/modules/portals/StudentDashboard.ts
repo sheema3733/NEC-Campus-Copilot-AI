@@ -6821,6 +6821,2006 @@ export const STUDENTPORTAL_REGISTRY: AcademicEntityItem[] = [
     },
     tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_425"]
   },
+  {
+    id: "studentportal-0426",
+    code: "NEC-STUDENTPORTAL-0426",
+    title: "Student Academic Dashboard View - Item 426",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 71,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_426"]
+  },
+  {
+    id: "studentportal-0427",
+    code: "NEC-STUDENTPORTAL-0427",
+    title: "Student Academic Dashboard View - Item 427",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 72,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_427"]
+  },
+  {
+    id: "studentportal-0428",
+    code: "NEC-STUDENTPORTAL-0428",
+    title: "Student Academic Dashboard View - Item 428",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 73,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_428"]
+  },
+  {
+    id: "studentportal-0429",
+    code: "NEC-STUDENTPORTAL-0429",
+    title: "Student Academic Dashboard View - Item 429",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 74,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_429"]
+  },
+  {
+    id: "studentportal-0430",
+    code: "NEC-STUDENTPORTAL-0430",
+    title: "Student Academic Dashboard View - Item 430",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_430"]
+  },
+  {
+    id: "studentportal-0431",
+    code: "NEC-STUDENTPORTAL-0431",
+    title: "Student Academic Dashboard View - Item 431",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 76,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_431"]
+  },
+  {
+    id: "studentportal-0432",
+    code: "NEC-STUDENTPORTAL-0432",
+    title: "Student Academic Dashboard View - Item 432",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 77,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_432"]
+  },
+  {
+    id: "studentportal-0433",
+    code: "NEC-STUDENTPORTAL-0433",
+    title: "Student Academic Dashboard View - Item 433",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 78,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_433"]
+  },
+  {
+    id: "studentportal-0434",
+    code: "NEC-STUDENTPORTAL-0434",
+    title: "Student Academic Dashboard View - Item 434",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 79,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_434"]
+  },
+  {
+    id: "studentportal-0435",
+    code: "NEC-STUDENTPORTAL-0435",
+    title: "Student Academic Dashboard View - Item 435",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 80,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_435"]
+  },
+  {
+    id: "studentportal-0436",
+    code: "NEC-STUDENTPORTAL-0436",
+    title: "Student Academic Dashboard View - Item 436",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 81,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_436"]
+  },
+  {
+    id: "studentportal-0437",
+    code: "NEC-STUDENTPORTAL-0437",
+    title: "Student Academic Dashboard View - Item 437",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 82,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_437"]
+  },
+  {
+    id: "studentportal-0438",
+    code: "NEC-STUDENTPORTAL-0438",
+    title: "Student Academic Dashboard View - Item 438",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 83,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_438"]
+  },
+  {
+    id: "studentportal-0439",
+    code: "NEC-STUDENTPORTAL-0439",
+    title: "Student Academic Dashboard View - Item 439",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 84,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_439"]
+  },
+  {
+    id: "studentportal-0440",
+    code: "NEC-STUDENTPORTAL-0440",
+    title: "Student Academic Dashboard View - Item 440",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 85,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_440"]
+  },
+  {
+    id: "studentportal-0441",
+    code: "NEC-STUDENTPORTAL-0441",
+    title: "Student Academic Dashboard View - Item 441",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 86,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_441"]
+  },
+  {
+    id: "studentportal-0442",
+    code: "NEC-STUDENTPORTAL-0442",
+    title: "Student Academic Dashboard View - Item 442",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_442"]
+  },
+  {
+    id: "studentportal-0443",
+    code: "NEC-STUDENTPORTAL-0443",
+    title: "Student Academic Dashboard View - Item 443",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 88,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_443"]
+  },
+  {
+    id: "studentportal-0444",
+    code: "NEC-STUDENTPORTAL-0444",
+    title: "Student Academic Dashboard View - Item 444",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 89,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_444"]
+  },
+  {
+    id: "studentportal-0445",
+    code: "NEC-STUDENTPORTAL-0445",
+    title: "Student Academic Dashboard View - Item 445",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 90,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_445"]
+  },
+  {
+    id: "studentportal-0446",
+    code: "NEC-STUDENTPORTAL-0446",
+    title: "Student Academic Dashboard View - Item 446",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 91,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_446"]
+  },
+  {
+    id: "studentportal-0447",
+    code: "NEC-STUDENTPORTAL-0447",
+    title: "Student Academic Dashboard View - Item 447",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 92,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_447"]
+  },
+  {
+    id: "studentportal-0448",
+    code: "NEC-STUDENTPORTAL-0448",
+    title: "Student Academic Dashboard View - Item 448",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 93,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_448"]
+  },
+  {
+    id: "studentportal-0449",
+    code: "NEC-STUDENTPORTAL-0449",
+    title: "Student Academic Dashboard View - Item 449",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 94,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_449"]
+  },
+  {
+    id: "studentportal-0450",
+    code: "NEC-STUDENTPORTAL-0450",
+    title: "Student Academic Dashboard View - Item 450",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 70,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_450"]
+  },
+  {
+    id: "studentportal-0451",
+    code: "NEC-STUDENTPORTAL-0451",
+    title: "Student Academic Dashboard View - Item 451",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 71,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_451"]
+  },
+  {
+    id: "studentportal-0452",
+    code: "NEC-STUDENTPORTAL-0452",
+    title: "Student Academic Dashboard View - Item 452",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 72,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_452"]
+  },
+  {
+    id: "studentportal-0453",
+    code: "NEC-STUDENTPORTAL-0453",
+    title: "Student Academic Dashboard View - Item 453",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 73,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_453"]
+  },
+  {
+    id: "studentportal-0454",
+    code: "NEC-STUDENTPORTAL-0454",
+    title: "Student Academic Dashboard View - Item 454",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 74,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_454"]
+  },
+  {
+    id: "studentportal-0455",
+    code: "NEC-STUDENTPORTAL-0455",
+    title: "Student Academic Dashboard View - Item 455",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_455"]
+  },
+  {
+    id: "studentportal-0456",
+    code: "NEC-STUDENTPORTAL-0456",
+    title: "Student Academic Dashboard View - Item 456",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 76,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_456"]
+  },
+  {
+    id: "studentportal-0457",
+    code: "NEC-STUDENTPORTAL-0457",
+    title: "Student Academic Dashboard View - Item 457",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 77,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_457"]
+  },
+  {
+    id: "studentportal-0458",
+    code: "NEC-STUDENTPORTAL-0458",
+    title: "Student Academic Dashboard View - Item 458",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 78,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_458"]
+  },
+  {
+    id: "studentportal-0459",
+    code: "NEC-STUDENTPORTAL-0459",
+    title: "Student Academic Dashboard View - Item 459",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 79,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_459"]
+  },
+  {
+    id: "studentportal-0460",
+    code: "NEC-STUDENTPORTAL-0460",
+    title: "Student Academic Dashboard View - Item 460",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 80,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_460"]
+  },
+  {
+    id: "studentportal-0461",
+    code: "NEC-STUDENTPORTAL-0461",
+    title: "Student Academic Dashboard View - Item 461",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 81,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_461"]
+  },
+  {
+    id: "studentportal-0462",
+    code: "NEC-STUDENTPORTAL-0462",
+    title: "Student Academic Dashboard View - Item 462",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 82,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_462"]
+  },
+  {
+    id: "studentportal-0463",
+    code: "NEC-STUDENTPORTAL-0463",
+    title: "Student Academic Dashboard View - Item 463",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 83,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_463"]
+  },
+  {
+    id: "studentportal-0464",
+    code: "NEC-STUDENTPORTAL-0464",
+    title: "Student Academic Dashboard View - Item 464",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 84,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_464"]
+  },
+  {
+    id: "studentportal-0465",
+    code: "NEC-STUDENTPORTAL-0465",
+    title: "Student Academic Dashboard View - Item 465",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 85,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_465"]
+  },
+  {
+    id: "studentportal-0466",
+    code: "NEC-STUDENTPORTAL-0466",
+    title: "Student Academic Dashboard View - Item 466",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 86,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_466"]
+  },
+  {
+    id: "studentportal-0467",
+    code: "NEC-STUDENTPORTAL-0467",
+    title: "Student Academic Dashboard View - Item 467",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_467"]
+  },
+  {
+    id: "studentportal-0468",
+    code: "NEC-STUDENTPORTAL-0468",
+    title: "Student Academic Dashboard View - Item 468",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 88,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_468"]
+  },
+  {
+    id: "studentportal-0469",
+    code: "NEC-STUDENTPORTAL-0469",
+    title: "Student Academic Dashboard View - Item 469",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 89,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_469"]
+  },
+  {
+    id: "studentportal-0470",
+    code: "NEC-STUDENTPORTAL-0470",
+    title: "Student Academic Dashboard View - Item 470",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 90,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_470"]
+  },
+  {
+    id: "studentportal-0471",
+    code: "NEC-STUDENTPORTAL-0471",
+    title: "Student Academic Dashboard View - Item 471",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 91,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_471"]
+  },
+  {
+    id: "studentportal-0472",
+    code: "NEC-STUDENTPORTAL-0472",
+    title: "Student Academic Dashboard View - Item 472",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 92,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_472"]
+  },
+  {
+    id: "studentportal-0473",
+    code: "NEC-STUDENTPORTAL-0473",
+    title: "Student Academic Dashboard View - Item 473",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 93,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_473"]
+  },
+  {
+    id: "studentportal-0474",
+    code: "NEC-STUDENTPORTAL-0474",
+    title: "Student Academic Dashboard View - Item 474",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 94,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_474"]
+  },
+  {
+    id: "studentportal-0475",
+    code: "NEC-STUDENTPORTAL-0475",
+    title: "Student Academic Dashboard View - Item 475",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 70,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_475"]
+  },
+  {
+    id: "studentportal-0476",
+    code: "NEC-STUDENTPORTAL-0476",
+    title: "Student Academic Dashboard View - Item 476",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 71,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_476"]
+  },
+  {
+    id: "studentportal-0477",
+    code: "NEC-STUDENTPORTAL-0477",
+    title: "Student Academic Dashboard View - Item 477",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 72,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_477"]
+  },
+  {
+    id: "studentportal-0478",
+    code: "NEC-STUDENTPORTAL-0478",
+    title: "Student Academic Dashboard View - Item 478",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 73,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_478"]
+  },
+  {
+    id: "studentportal-0479",
+    code: "NEC-STUDENTPORTAL-0479",
+    title: "Student Academic Dashboard View - Item 479",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 74,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_479"]
+  },
+  {
+    id: "studentportal-0480",
+    code: "NEC-STUDENTPORTAL-0480",
+    title: "Student Academic Dashboard View - Item 480",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 75,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_480"]
+  },
+  {
+    id: "studentportal-0481",
+    code: "NEC-STUDENTPORTAL-0481",
+    title: "Student Academic Dashboard View - Item 481",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 76,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_481"]
+  },
+  {
+    id: "studentportal-0482",
+    code: "NEC-STUDENTPORTAL-0482",
+    title: "Student Academic Dashboard View - Item 482",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 77,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_482"]
+  },
+  {
+    id: "studentportal-0483",
+    code: "NEC-STUDENTPORTAL-0483",
+    title: "Student Academic Dashboard View - Item 483",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 78,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_483"]
+  },
+  {
+    id: "studentportal-0484",
+    code: "NEC-STUDENTPORTAL-0484",
+    title: "Student Academic Dashboard View - Item 484",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 79,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_484"]
+  },
+  {
+    id: "studentportal-0485",
+    code: "NEC-STUDENTPORTAL-0485",
+    title: "Student Academic Dashboard View - Item 485",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 80,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_485"]
+  },
+  {
+    id: "studentportal-0486",
+    code: "NEC-STUDENTPORTAL-0486",
+    title: "Student Academic Dashboard View - Item 486",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 81,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_486"]
+  },
+  {
+    id: "studentportal-0487",
+    code: "NEC-STUDENTPORTAL-0487",
+    title: "Student Academic Dashboard View - Item 487",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 82,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_487"]
+  },
+  {
+    id: "studentportal-0488",
+    code: "NEC-STUDENTPORTAL-0488",
+    title: "Student Academic Dashboard View - Item 488",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 83,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_488"]
+  },
+  {
+    id: "studentportal-0489",
+    code: "NEC-STUDENTPORTAL-0489",
+    title: "Student Academic Dashboard View - Item 489",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 84,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_489"]
+  },
+  {
+    id: "studentportal-0490",
+    code: "NEC-STUDENTPORTAL-0490",
+    title: "Student Academic Dashboard View - Item 490",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 85,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_490"]
+  },
+  {
+    id: "studentportal-0491",
+    code: "NEC-STUDENTPORTAL-0491",
+    title: "Student Academic Dashboard View - Item 491",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 86,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_491"]
+  },
+  {
+    id: "studentportal-0492",
+    code: "NEC-STUDENTPORTAL-0492",
+    title: "Student Academic Dashboard View - Item 492",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 87,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_492"]
+  },
+  {
+    id: "studentportal-0493",
+    code: "NEC-STUDENTPORTAL-0493",
+    title: "Student Academic Dashboard View - Item 493",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 88,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_493"]
+  },
+  {
+    id: "studentportal-0494",
+    code: "NEC-STUDENTPORTAL-0494",
+    title: "Student Academic Dashboard View - Item 494",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 89,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_494"]
+  },
+  {
+    id: "studentportal-0495",
+    code: "NEC-STUDENTPORTAL-0495",
+    title: "Student Academic Dashboard View - Item 495",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 90,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_495"]
+  },
+  {
+    id: "studentportal-0496",
+    code: "NEC-STUDENTPORTAL-0496",
+    title: "Student Academic Dashboard View - Item 496",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 91,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_496"]
+  },
+  {
+    id: "studentportal-0497",
+    code: "NEC-STUDENTPORTAL-0497",
+    title: "Student Academic Dashboard View - Item 497",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 92,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_497"]
+  },
+  {
+    id: "studentportal-0498",
+    code: "NEC-STUDENTPORTAL-0498",
+    title: "Student Academic Dashboard View - Item 498",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 93,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_498"]
+  },
+  {
+    id: "studentportal-0499",
+    code: "NEC-STUDENTPORTAL-0499",
+    title: "Student Academic Dashboard View - Item 499",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 94,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_499"]
+  },
+  {
+    id: "studentportal-0500",
+    code: "NEC-STUDENTPORTAL-0500",
+    title: "Student Academic Dashboard View - Item 500",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 70,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_500"]
+  },
+  {
+    id: "studentportal-0501",
+    code: "NEC-STUDENTPORTAL-0501",
+    title: "Student Academic Dashboard View - Item 501",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 71,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_501"]
+  },
+  {
+    id: "studentportal-0502",
+    code: "NEC-STUDENTPORTAL-0502",
+    title: "Student Academic Dashboard View - Item 502",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 72,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_502"]
+  },
+  {
+    id: "studentportal-0503",
+    code: "NEC-STUDENTPORTAL-0503",
+    title: "Student Academic Dashboard View - Item 503",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 73,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_503"]
+  },
+  {
+    id: "studentportal-0504",
+    code: "NEC-STUDENTPORTAL-0504",
+    title: "Student Academic Dashboard View - Item 504",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 74,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_504"]
+  },
+  {
+    id: "studentportal-0505",
+    code: "NEC-STUDENTPORTAL-0505",
+    title: "Student Academic Dashboard View - Item 505",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_505"]
+  },
+  {
+    id: "studentportal-0506",
+    code: "NEC-STUDENTPORTAL-0506",
+    title: "Student Academic Dashboard View - Item 506",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 76,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_506"]
+  },
+  {
+    id: "studentportal-0507",
+    code: "NEC-STUDENTPORTAL-0507",
+    title: "Student Academic Dashboard View - Item 507",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 77,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_507"]
+  },
+  {
+    id: "studentportal-0508",
+    code: "NEC-STUDENTPORTAL-0508",
+    title: "Student Academic Dashboard View - Item 508",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 78,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_508"]
+  },
+  {
+    id: "studentportal-0509",
+    code: "NEC-STUDENTPORTAL-0509",
+    title: "Student Academic Dashboard View - Item 509",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 79,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_509"]
+  },
+  {
+    id: "studentportal-0510",
+    code: "NEC-STUDENTPORTAL-0510",
+    title: "Student Academic Dashboard View - Item 510",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 80,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_510"]
+  },
+  {
+    id: "studentportal-0511",
+    code: "NEC-STUDENTPORTAL-0511",
+    title: "Student Academic Dashboard View - Item 511",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 81,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_511"]
+  },
+  {
+    id: "studentportal-0512",
+    code: "NEC-STUDENTPORTAL-0512",
+    title: "Student Academic Dashboard View - Item 512",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 82,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_512"]
+  },
+  {
+    id: "studentportal-0513",
+    code: "NEC-STUDENTPORTAL-0513",
+    title: "Student Academic Dashboard View - Item 513",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 83,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_513"]
+  },
+  {
+    id: "studentportal-0514",
+    code: "NEC-STUDENTPORTAL-0514",
+    title: "Student Academic Dashboard View - Item 514",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 84,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_514"]
+  },
+  {
+    id: "studentportal-0515",
+    code: "NEC-STUDENTPORTAL-0515",
+    title: "Student Academic Dashboard View - Item 515",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 85,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_515"]
+  },
+  {
+    id: "studentportal-0516",
+    code: "NEC-STUDENTPORTAL-0516",
+    title: "Student Academic Dashboard View - Item 516",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 86,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_516"]
+  },
+  {
+    id: "studentportal-0517",
+    code: "NEC-STUDENTPORTAL-0517",
+    title: "Student Academic Dashboard View - Item 517",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_517"]
+  },
+  {
+    id: "studentportal-0518",
+    code: "NEC-STUDENTPORTAL-0518",
+    title: "Student Academic Dashboard View - Item 518",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 88,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_518"]
+  },
+  {
+    id: "studentportal-0519",
+    code: "NEC-STUDENTPORTAL-0519",
+    title: "Student Academic Dashboard View - Item 519",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 89,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_519"]
+  },
+  {
+    id: "studentportal-0520",
+    code: "NEC-STUDENTPORTAL-0520",
+    title: "Student Academic Dashboard View - Item 520",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 90,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_520"]
+  },
+  {
+    id: "studentportal-0521",
+    code: "NEC-STUDENTPORTAL-0521",
+    title: "Student Academic Dashboard View - Item 521",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 91,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_521"]
+  },
+  {
+    id: "studentportal-0522",
+    code: "NEC-STUDENTPORTAL-0522",
+    title: "Student Academic Dashboard View - Item 522",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 92,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_522"]
+  },
+  {
+    id: "studentportal-0523",
+    code: "NEC-STUDENTPORTAL-0523",
+    title: "Student Academic Dashboard View - Item 523",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 93,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_523"]
+  },
+  {
+    id: "studentportal-0524",
+    code: "NEC-STUDENTPORTAL-0524",
+    title: "Student Academic Dashboard View - Item 524",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 94,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_524"]
+  },
+  {
+    id: "studentportal-0525",
+    code: "NEC-STUDENTPORTAL-0525",
+    title: "Student Academic Dashboard View - Item 525",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 70,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_525"]
+  },
+  {
+    id: "studentportal-0526",
+    code: "NEC-STUDENTPORTAL-0526",
+    title: "Student Academic Dashboard View - Item 526",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 71,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_526"]
+  },
+  {
+    id: "studentportal-0527",
+    code: "NEC-STUDENTPORTAL-0527",
+    title: "Student Academic Dashboard View - Item 527",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 72,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_527"]
+  },
+  {
+    id: "studentportal-0528",
+    code: "NEC-STUDENTPORTAL-0528",
+    title: "Student Academic Dashboard View - Item 528",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 73,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_528"]
+  },
+  {
+    id: "studentportal-0529",
+    code: "NEC-STUDENTPORTAL-0529",
+    title: "Student Academic Dashboard View - Item 529",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 74,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_529"]
+  },
+  {
+    id: "studentportal-0530",
+    code: "NEC-STUDENTPORTAL-0530",
+    title: "Student Academic Dashboard View - Item 530",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_530"]
+  },
+  {
+    id: "studentportal-0531",
+    code: "NEC-STUDENTPORTAL-0531",
+    title: "Student Academic Dashboard View - Item 531",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 76,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_531"]
+  },
+  {
+    id: "studentportal-0532",
+    code: "NEC-STUDENTPORTAL-0532",
+    title: "Student Academic Dashboard View - Item 532",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 77,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_532"]
+  },
+  {
+    id: "studentportal-0533",
+    code: "NEC-STUDENTPORTAL-0533",
+    title: "Student Academic Dashboard View - Item 533",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 78,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_533"]
+  },
+  {
+    id: "studentportal-0534",
+    code: "NEC-STUDENTPORTAL-0534",
+    title: "Student Academic Dashboard View - Item 534",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 79,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_534"]
+  },
+  {
+    id: "studentportal-0535",
+    code: "NEC-STUDENTPORTAL-0535",
+    title: "Student Academic Dashboard View - Item 535",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 80,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_535"]
+  },
+  {
+    id: "studentportal-0536",
+    code: "NEC-STUDENTPORTAL-0536",
+    title: "Student Academic Dashboard View - Item 536",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 81,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_536"]
+  },
+  {
+    id: "studentportal-0537",
+    code: "NEC-STUDENTPORTAL-0537",
+    title: "Student Academic Dashboard View - Item 537",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 82,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_537"]
+  },
+  {
+    id: "studentportal-0538",
+    code: "NEC-STUDENTPORTAL-0538",
+    title: "Student Academic Dashboard View - Item 538",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 83,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_538"]
+  },
+  {
+    id: "studentportal-0539",
+    code: "NEC-STUDENTPORTAL-0539",
+    title: "Student Academic Dashboard View - Item 539",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 84,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_539"]
+  },
+  {
+    id: "studentportal-0540",
+    code: "NEC-STUDENTPORTAL-0540",
+    title: "Student Academic Dashboard View - Item 540",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 85,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_540"]
+  },
+  {
+    id: "studentportal-0541",
+    code: "NEC-STUDENTPORTAL-0541",
+    title: "Student Academic Dashboard View - Item 541",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 86,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_541"]
+  },
+  {
+    id: "studentportal-0542",
+    code: "NEC-STUDENTPORTAL-0542",
+    title: "Student Academic Dashboard View - Item 542",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_542"]
+  },
+  {
+    id: "studentportal-0543",
+    code: "NEC-STUDENTPORTAL-0543",
+    title: "Student Academic Dashboard View - Item 543",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 88,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_543"]
+  },
+  {
+    id: "studentportal-0544",
+    code: "NEC-STUDENTPORTAL-0544",
+    title: "Student Academic Dashboard View - Item 544",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 89,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_544"]
+  },
+  {
+    id: "studentportal-0545",
+    code: "NEC-STUDENTPORTAL-0545",
+    title: "Student Academic Dashboard View - Item 545",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 90,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_545"]
+  },
+  {
+    id: "studentportal-0546",
+    code: "NEC-STUDENTPORTAL-0546",
+    title: "Student Academic Dashboard View - Item 546",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 91,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_546"]
+  },
+  {
+    id: "studentportal-0547",
+    code: "NEC-STUDENTPORTAL-0547",
+    title: "Student Academic Dashboard View - Item 547",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 92,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_547"]
+  },
+  {
+    id: "studentportal-0548",
+    code: "NEC-STUDENTPORTAL-0548",
+    title: "Student Academic Dashboard View - Item 548",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 93,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_548"]
+  },
+  {
+    id: "studentportal-0549",
+    code: "NEC-STUDENTPORTAL-0549",
+    title: "Student Academic Dashboard View - Item 549",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 94,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_549"]
+  },
+  {
+    id: "studentportal-0550",
+    code: "NEC-STUDENTPORTAL-0550",
+    title: "Student Academic Dashboard View - Item 550",
+    category: "STUDENTPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 70,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_550"]
+  },
 ];
 
 export function filterSTUDENTPORTALBySemester(semester: number): AcademicEntityItem[] {

@@ -6821,6 +6821,2006 @@ export const PLACEMENTHUB_REGISTRY: AcademicEntityItem[] = [
     },
     tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_425"]
   },
+  {
+    id: "placementhub-0426",
+    code: "NEC-PLACEMENTHUB-0426",
+    title: "Corporate Placement Hub and Eligibility Card - Item 426",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 71,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_426"]
+  },
+  {
+    id: "placementhub-0427",
+    code: "NEC-PLACEMENTHUB-0427",
+    title: "Corporate Placement Hub and Eligibility Card - Item 427",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 72,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_427"]
+  },
+  {
+    id: "placementhub-0428",
+    code: "NEC-PLACEMENTHUB-0428",
+    title: "Corporate Placement Hub and Eligibility Card - Item 428",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 73,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_428"]
+  },
+  {
+    id: "placementhub-0429",
+    code: "NEC-PLACEMENTHUB-0429",
+    title: "Corporate Placement Hub and Eligibility Card - Item 429",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 74,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_429"]
+  },
+  {
+    id: "placementhub-0430",
+    code: "NEC-PLACEMENTHUB-0430",
+    title: "Corporate Placement Hub and Eligibility Card - Item 430",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_430"]
+  },
+  {
+    id: "placementhub-0431",
+    code: "NEC-PLACEMENTHUB-0431",
+    title: "Corporate Placement Hub and Eligibility Card - Item 431",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 76,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_431"]
+  },
+  {
+    id: "placementhub-0432",
+    code: "NEC-PLACEMENTHUB-0432",
+    title: "Corporate Placement Hub and Eligibility Card - Item 432",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 77,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_432"]
+  },
+  {
+    id: "placementhub-0433",
+    code: "NEC-PLACEMENTHUB-0433",
+    title: "Corporate Placement Hub and Eligibility Card - Item 433",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 78,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_433"]
+  },
+  {
+    id: "placementhub-0434",
+    code: "NEC-PLACEMENTHUB-0434",
+    title: "Corporate Placement Hub and Eligibility Card - Item 434",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 79,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_434"]
+  },
+  {
+    id: "placementhub-0435",
+    code: "NEC-PLACEMENTHUB-0435",
+    title: "Corporate Placement Hub and Eligibility Card - Item 435",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 80,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_435"]
+  },
+  {
+    id: "placementhub-0436",
+    code: "NEC-PLACEMENTHUB-0436",
+    title: "Corporate Placement Hub and Eligibility Card - Item 436",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 81,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_436"]
+  },
+  {
+    id: "placementhub-0437",
+    code: "NEC-PLACEMENTHUB-0437",
+    title: "Corporate Placement Hub and Eligibility Card - Item 437",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 82,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_437"]
+  },
+  {
+    id: "placementhub-0438",
+    code: "NEC-PLACEMENTHUB-0438",
+    title: "Corporate Placement Hub and Eligibility Card - Item 438",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 83,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_438"]
+  },
+  {
+    id: "placementhub-0439",
+    code: "NEC-PLACEMENTHUB-0439",
+    title: "Corporate Placement Hub and Eligibility Card - Item 439",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 84,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_439"]
+  },
+  {
+    id: "placementhub-0440",
+    code: "NEC-PLACEMENTHUB-0440",
+    title: "Corporate Placement Hub and Eligibility Card - Item 440",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 85,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_440"]
+  },
+  {
+    id: "placementhub-0441",
+    code: "NEC-PLACEMENTHUB-0441",
+    title: "Corporate Placement Hub and Eligibility Card - Item 441",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 86,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_441"]
+  },
+  {
+    id: "placementhub-0442",
+    code: "NEC-PLACEMENTHUB-0442",
+    title: "Corporate Placement Hub and Eligibility Card - Item 442",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_442"]
+  },
+  {
+    id: "placementhub-0443",
+    code: "NEC-PLACEMENTHUB-0443",
+    title: "Corporate Placement Hub and Eligibility Card - Item 443",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 88,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_443"]
+  },
+  {
+    id: "placementhub-0444",
+    code: "NEC-PLACEMENTHUB-0444",
+    title: "Corporate Placement Hub and Eligibility Card - Item 444",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 89,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_444"]
+  },
+  {
+    id: "placementhub-0445",
+    code: "NEC-PLACEMENTHUB-0445",
+    title: "Corporate Placement Hub and Eligibility Card - Item 445",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 90,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_445"]
+  },
+  {
+    id: "placementhub-0446",
+    code: "NEC-PLACEMENTHUB-0446",
+    title: "Corporate Placement Hub and Eligibility Card - Item 446",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 91,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_446"]
+  },
+  {
+    id: "placementhub-0447",
+    code: "NEC-PLACEMENTHUB-0447",
+    title: "Corporate Placement Hub and Eligibility Card - Item 447",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 92,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_447"]
+  },
+  {
+    id: "placementhub-0448",
+    code: "NEC-PLACEMENTHUB-0448",
+    title: "Corporate Placement Hub and Eligibility Card - Item 448",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 93,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_448"]
+  },
+  {
+    id: "placementhub-0449",
+    code: "NEC-PLACEMENTHUB-0449",
+    title: "Corporate Placement Hub and Eligibility Card - Item 449",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 94,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_449"]
+  },
+  {
+    id: "placementhub-0450",
+    code: "NEC-PLACEMENTHUB-0450",
+    title: "Corporate Placement Hub and Eligibility Card - Item 450",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 70,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_450"]
+  },
+  {
+    id: "placementhub-0451",
+    code: "NEC-PLACEMENTHUB-0451",
+    title: "Corporate Placement Hub and Eligibility Card - Item 451",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 71,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_451"]
+  },
+  {
+    id: "placementhub-0452",
+    code: "NEC-PLACEMENTHUB-0452",
+    title: "Corporate Placement Hub and Eligibility Card - Item 452",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 72,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_452"]
+  },
+  {
+    id: "placementhub-0453",
+    code: "NEC-PLACEMENTHUB-0453",
+    title: "Corporate Placement Hub and Eligibility Card - Item 453",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 73,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_453"]
+  },
+  {
+    id: "placementhub-0454",
+    code: "NEC-PLACEMENTHUB-0454",
+    title: "Corporate Placement Hub and Eligibility Card - Item 454",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 74,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_454"]
+  },
+  {
+    id: "placementhub-0455",
+    code: "NEC-PLACEMENTHUB-0455",
+    title: "Corporate Placement Hub and Eligibility Card - Item 455",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_455"]
+  },
+  {
+    id: "placementhub-0456",
+    code: "NEC-PLACEMENTHUB-0456",
+    title: "Corporate Placement Hub and Eligibility Card - Item 456",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 76,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_456"]
+  },
+  {
+    id: "placementhub-0457",
+    code: "NEC-PLACEMENTHUB-0457",
+    title: "Corporate Placement Hub and Eligibility Card - Item 457",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 77,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_457"]
+  },
+  {
+    id: "placementhub-0458",
+    code: "NEC-PLACEMENTHUB-0458",
+    title: "Corporate Placement Hub and Eligibility Card - Item 458",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 78,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_458"]
+  },
+  {
+    id: "placementhub-0459",
+    code: "NEC-PLACEMENTHUB-0459",
+    title: "Corporate Placement Hub and Eligibility Card - Item 459",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 79,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_459"]
+  },
+  {
+    id: "placementhub-0460",
+    code: "NEC-PLACEMENTHUB-0460",
+    title: "Corporate Placement Hub and Eligibility Card - Item 460",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 80,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_460"]
+  },
+  {
+    id: "placementhub-0461",
+    code: "NEC-PLACEMENTHUB-0461",
+    title: "Corporate Placement Hub and Eligibility Card - Item 461",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 81,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_461"]
+  },
+  {
+    id: "placementhub-0462",
+    code: "NEC-PLACEMENTHUB-0462",
+    title: "Corporate Placement Hub and Eligibility Card - Item 462",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 82,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_462"]
+  },
+  {
+    id: "placementhub-0463",
+    code: "NEC-PLACEMENTHUB-0463",
+    title: "Corporate Placement Hub and Eligibility Card - Item 463",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 83,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_463"]
+  },
+  {
+    id: "placementhub-0464",
+    code: "NEC-PLACEMENTHUB-0464",
+    title: "Corporate Placement Hub and Eligibility Card - Item 464",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 84,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_464"]
+  },
+  {
+    id: "placementhub-0465",
+    code: "NEC-PLACEMENTHUB-0465",
+    title: "Corporate Placement Hub and Eligibility Card - Item 465",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 85,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_465"]
+  },
+  {
+    id: "placementhub-0466",
+    code: "NEC-PLACEMENTHUB-0466",
+    title: "Corporate Placement Hub and Eligibility Card - Item 466",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 86,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_466"]
+  },
+  {
+    id: "placementhub-0467",
+    code: "NEC-PLACEMENTHUB-0467",
+    title: "Corporate Placement Hub and Eligibility Card - Item 467",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_467"]
+  },
+  {
+    id: "placementhub-0468",
+    code: "NEC-PLACEMENTHUB-0468",
+    title: "Corporate Placement Hub and Eligibility Card - Item 468",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 88,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_468"]
+  },
+  {
+    id: "placementhub-0469",
+    code: "NEC-PLACEMENTHUB-0469",
+    title: "Corporate Placement Hub and Eligibility Card - Item 469",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 89,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_469"]
+  },
+  {
+    id: "placementhub-0470",
+    code: "NEC-PLACEMENTHUB-0470",
+    title: "Corporate Placement Hub and Eligibility Card - Item 470",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 90,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_470"]
+  },
+  {
+    id: "placementhub-0471",
+    code: "NEC-PLACEMENTHUB-0471",
+    title: "Corporate Placement Hub and Eligibility Card - Item 471",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 91,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_471"]
+  },
+  {
+    id: "placementhub-0472",
+    code: "NEC-PLACEMENTHUB-0472",
+    title: "Corporate Placement Hub and Eligibility Card - Item 472",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 92,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_472"]
+  },
+  {
+    id: "placementhub-0473",
+    code: "NEC-PLACEMENTHUB-0473",
+    title: "Corporate Placement Hub and Eligibility Card - Item 473",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 93,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_473"]
+  },
+  {
+    id: "placementhub-0474",
+    code: "NEC-PLACEMENTHUB-0474",
+    title: "Corporate Placement Hub and Eligibility Card - Item 474",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 94,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_474"]
+  },
+  {
+    id: "placementhub-0475",
+    code: "NEC-PLACEMENTHUB-0475",
+    title: "Corporate Placement Hub and Eligibility Card - Item 475",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 70,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_475"]
+  },
+  {
+    id: "placementhub-0476",
+    code: "NEC-PLACEMENTHUB-0476",
+    title: "Corporate Placement Hub and Eligibility Card - Item 476",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 71,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_476"]
+  },
+  {
+    id: "placementhub-0477",
+    code: "NEC-PLACEMENTHUB-0477",
+    title: "Corporate Placement Hub and Eligibility Card - Item 477",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 72,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_477"]
+  },
+  {
+    id: "placementhub-0478",
+    code: "NEC-PLACEMENTHUB-0478",
+    title: "Corporate Placement Hub and Eligibility Card - Item 478",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 73,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_478"]
+  },
+  {
+    id: "placementhub-0479",
+    code: "NEC-PLACEMENTHUB-0479",
+    title: "Corporate Placement Hub and Eligibility Card - Item 479",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 74,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_479"]
+  },
+  {
+    id: "placementhub-0480",
+    code: "NEC-PLACEMENTHUB-0480",
+    title: "Corporate Placement Hub and Eligibility Card - Item 480",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 75,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_480"]
+  },
+  {
+    id: "placementhub-0481",
+    code: "NEC-PLACEMENTHUB-0481",
+    title: "Corporate Placement Hub and Eligibility Card - Item 481",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 76,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_481"]
+  },
+  {
+    id: "placementhub-0482",
+    code: "NEC-PLACEMENTHUB-0482",
+    title: "Corporate Placement Hub and Eligibility Card - Item 482",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 77,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_482"]
+  },
+  {
+    id: "placementhub-0483",
+    code: "NEC-PLACEMENTHUB-0483",
+    title: "Corporate Placement Hub and Eligibility Card - Item 483",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 78,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_483"]
+  },
+  {
+    id: "placementhub-0484",
+    code: "NEC-PLACEMENTHUB-0484",
+    title: "Corporate Placement Hub and Eligibility Card - Item 484",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 79,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_484"]
+  },
+  {
+    id: "placementhub-0485",
+    code: "NEC-PLACEMENTHUB-0485",
+    title: "Corporate Placement Hub and Eligibility Card - Item 485",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 80,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_485"]
+  },
+  {
+    id: "placementhub-0486",
+    code: "NEC-PLACEMENTHUB-0486",
+    title: "Corporate Placement Hub and Eligibility Card - Item 486",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 81,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_486"]
+  },
+  {
+    id: "placementhub-0487",
+    code: "NEC-PLACEMENTHUB-0487",
+    title: "Corporate Placement Hub and Eligibility Card - Item 487",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 82,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_487"]
+  },
+  {
+    id: "placementhub-0488",
+    code: "NEC-PLACEMENTHUB-0488",
+    title: "Corporate Placement Hub and Eligibility Card - Item 488",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 83,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_488"]
+  },
+  {
+    id: "placementhub-0489",
+    code: "NEC-PLACEMENTHUB-0489",
+    title: "Corporate Placement Hub and Eligibility Card - Item 489",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 84,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_489"]
+  },
+  {
+    id: "placementhub-0490",
+    code: "NEC-PLACEMENTHUB-0490",
+    title: "Corporate Placement Hub and Eligibility Card - Item 490",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 85,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_490"]
+  },
+  {
+    id: "placementhub-0491",
+    code: "NEC-PLACEMENTHUB-0491",
+    title: "Corporate Placement Hub and Eligibility Card - Item 491",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 86,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_491"]
+  },
+  {
+    id: "placementhub-0492",
+    code: "NEC-PLACEMENTHUB-0492",
+    title: "Corporate Placement Hub and Eligibility Card - Item 492",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 87,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_492"]
+  },
+  {
+    id: "placementhub-0493",
+    code: "NEC-PLACEMENTHUB-0493",
+    title: "Corporate Placement Hub and Eligibility Card - Item 493",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 88,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_493"]
+  },
+  {
+    id: "placementhub-0494",
+    code: "NEC-PLACEMENTHUB-0494",
+    title: "Corporate Placement Hub and Eligibility Card - Item 494",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 89,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_494"]
+  },
+  {
+    id: "placementhub-0495",
+    code: "NEC-PLACEMENTHUB-0495",
+    title: "Corporate Placement Hub and Eligibility Card - Item 495",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 90,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_495"]
+  },
+  {
+    id: "placementhub-0496",
+    code: "NEC-PLACEMENTHUB-0496",
+    title: "Corporate Placement Hub and Eligibility Card - Item 496",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 91,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_496"]
+  },
+  {
+    id: "placementhub-0497",
+    code: "NEC-PLACEMENTHUB-0497",
+    title: "Corporate Placement Hub and Eligibility Card - Item 497",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 92,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_497"]
+  },
+  {
+    id: "placementhub-0498",
+    code: "NEC-PLACEMENTHUB-0498",
+    title: "Corporate Placement Hub and Eligibility Card - Item 498",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 93,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_498"]
+  },
+  {
+    id: "placementhub-0499",
+    code: "NEC-PLACEMENTHUB-0499",
+    title: "Corporate Placement Hub and Eligibility Card - Item 499",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 94,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_499"]
+  },
+  {
+    id: "placementhub-0500",
+    code: "NEC-PLACEMENTHUB-0500",
+    title: "Corporate Placement Hub and Eligibility Card - Item 500",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 70,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_500"]
+  },
+  {
+    id: "placementhub-0501",
+    code: "NEC-PLACEMENTHUB-0501",
+    title: "Corporate Placement Hub and Eligibility Card - Item 501",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 71,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_501"]
+  },
+  {
+    id: "placementhub-0502",
+    code: "NEC-PLACEMENTHUB-0502",
+    title: "Corporate Placement Hub and Eligibility Card - Item 502",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 72,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_502"]
+  },
+  {
+    id: "placementhub-0503",
+    code: "NEC-PLACEMENTHUB-0503",
+    title: "Corporate Placement Hub and Eligibility Card - Item 503",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 73,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_503"]
+  },
+  {
+    id: "placementhub-0504",
+    code: "NEC-PLACEMENTHUB-0504",
+    title: "Corporate Placement Hub and Eligibility Card - Item 504",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 74,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_504"]
+  },
+  {
+    id: "placementhub-0505",
+    code: "NEC-PLACEMENTHUB-0505",
+    title: "Corporate Placement Hub and Eligibility Card - Item 505",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_505"]
+  },
+  {
+    id: "placementhub-0506",
+    code: "NEC-PLACEMENTHUB-0506",
+    title: "Corporate Placement Hub and Eligibility Card - Item 506",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 76,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_506"]
+  },
+  {
+    id: "placementhub-0507",
+    code: "NEC-PLACEMENTHUB-0507",
+    title: "Corporate Placement Hub and Eligibility Card - Item 507",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 77,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_507"]
+  },
+  {
+    id: "placementhub-0508",
+    code: "NEC-PLACEMENTHUB-0508",
+    title: "Corporate Placement Hub and Eligibility Card - Item 508",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 78,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_508"]
+  },
+  {
+    id: "placementhub-0509",
+    code: "NEC-PLACEMENTHUB-0509",
+    title: "Corporate Placement Hub and Eligibility Card - Item 509",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 79,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_509"]
+  },
+  {
+    id: "placementhub-0510",
+    code: "NEC-PLACEMENTHUB-0510",
+    title: "Corporate Placement Hub and Eligibility Card - Item 510",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 80,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_510"]
+  },
+  {
+    id: "placementhub-0511",
+    code: "NEC-PLACEMENTHUB-0511",
+    title: "Corporate Placement Hub and Eligibility Card - Item 511",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 81,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_511"]
+  },
+  {
+    id: "placementhub-0512",
+    code: "NEC-PLACEMENTHUB-0512",
+    title: "Corporate Placement Hub and Eligibility Card - Item 512",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 82,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_512"]
+  },
+  {
+    id: "placementhub-0513",
+    code: "NEC-PLACEMENTHUB-0513",
+    title: "Corporate Placement Hub and Eligibility Card - Item 513",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 83,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_513"]
+  },
+  {
+    id: "placementhub-0514",
+    code: "NEC-PLACEMENTHUB-0514",
+    title: "Corporate Placement Hub and Eligibility Card - Item 514",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 84,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_514"]
+  },
+  {
+    id: "placementhub-0515",
+    code: "NEC-PLACEMENTHUB-0515",
+    title: "Corporate Placement Hub and Eligibility Card - Item 515",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 85,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_515"]
+  },
+  {
+    id: "placementhub-0516",
+    code: "NEC-PLACEMENTHUB-0516",
+    title: "Corporate Placement Hub and Eligibility Card - Item 516",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 86,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_516"]
+  },
+  {
+    id: "placementhub-0517",
+    code: "NEC-PLACEMENTHUB-0517",
+    title: "Corporate Placement Hub and Eligibility Card - Item 517",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_517"]
+  },
+  {
+    id: "placementhub-0518",
+    code: "NEC-PLACEMENTHUB-0518",
+    title: "Corporate Placement Hub and Eligibility Card - Item 518",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 88,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_518"]
+  },
+  {
+    id: "placementhub-0519",
+    code: "NEC-PLACEMENTHUB-0519",
+    title: "Corporate Placement Hub and Eligibility Card - Item 519",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 89,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_519"]
+  },
+  {
+    id: "placementhub-0520",
+    code: "NEC-PLACEMENTHUB-0520",
+    title: "Corporate Placement Hub and Eligibility Card - Item 520",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 90,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_520"]
+  },
+  {
+    id: "placementhub-0521",
+    code: "NEC-PLACEMENTHUB-0521",
+    title: "Corporate Placement Hub and Eligibility Card - Item 521",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 91,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_521"]
+  },
+  {
+    id: "placementhub-0522",
+    code: "NEC-PLACEMENTHUB-0522",
+    title: "Corporate Placement Hub and Eligibility Card - Item 522",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 92,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_522"]
+  },
+  {
+    id: "placementhub-0523",
+    code: "NEC-PLACEMENTHUB-0523",
+    title: "Corporate Placement Hub and Eligibility Card - Item 523",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 93,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_523"]
+  },
+  {
+    id: "placementhub-0524",
+    code: "NEC-PLACEMENTHUB-0524",
+    title: "Corporate Placement Hub and Eligibility Card - Item 524",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 94,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_524"]
+  },
+  {
+    id: "placementhub-0525",
+    code: "NEC-PLACEMENTHUB-0525",
+    title: "Corporate Placement Hub and Eligibility Card - Item 525",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 70,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_525"]
+  },
+  {
+    id: "placementhub-0526",
+    code: "NEC-PLACEMENTHUB-0526",
+    title: "Corporate Placement Hub and Eligibility Card - Item 526",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 71,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_526"]
+  },
+  {
+    id: "placementhub-0527",
+    code: "NEC-PLACEMENTHUB-0527",
+    title: "Corporate Placement Hub and Eligibility Card - Item 527",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 72,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_527"]
+  },
+  {
+    id: "placementhub-0528",
+    code: "NEC-PLACEMENTHUB-0528",
+    title: "Corporate Placement Hub and Eligibility Card - Item 528",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 73,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_528"]
+  },
+  {
+    id: "placementhub-0529",
+    code: "NEC-PLACEMENTHUB-0529",
+    title: "Corporate Placement Hub and Eligibility Card - Item 529",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 74,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_529"]
+  },
+  {
+    id: "placementhub-0530",
+    code: "NEC-PLACEMENTHUB-0530",
+    title: "Corporate Placement Hub and Eligibility Card - Item 530",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_530"]
+  },
+  {
+    id: "placementhub-0531",
+    code: "NEC-PLACEMENTHUB-0531",
+    title: "Corporate Placement Hub and Eligibility Card - Item 531",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 76,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_531"]
+  },
+  {
+    id: "placementhub-0532",
+    code: "NEC-PLACEMENTHUB-0532",
+    title: "Corporate Placement Hub and Eligibility Card - Item 532",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 77,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_532"]
+  },
+  {
+    id: "placementhub-0533",
+    code: "NEC-PLACEMENTHUB-0533",
+    title: "Corporate Placement Hub and Eligibility Card - Item 533",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 78,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_533"]
+  },
+  {
+    id: "placementhub-0534",
+    code: "NEC-PLACEMENTHUB-0534",
+    title: "Corporate Placement Hub and Eligibility Card - Item 534",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 79,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_534"]
+  },
+  {
+    id: "placementhub-0535",
+    code: "NEC-PLACEMENTHUB-0535",
+    title: "Corporate Placement Hub and Eligibility Card - Item 535",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 80,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_535"]
+  },
+  {
+    id: "placementhub-0536",
+    code: "NEC-PLACEMENTHUB-0536",
+    title: "Corporate Placement Hub and Eligibility Card - Item 536",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 81,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_536"]
+  },
+  {
+    id: "placementhub-0537",
+    code: "NEC-PLACEMENTHUB-0537",
+    title: "Corporate Placement Hub and Eligibility Card - Item 537",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 82,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_537"]
+  },
+  {
+    id: "placementhub-0538",
+    code: "NEC-PLACEMENTHUB-0538",
+    title: "Corporate Placement Hub and Eligibility Card - Item 538",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 83,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_538"]
+  },
+  {
+    id: "placementhub-0539",
+    code: "NEC-PLACEMENTHUB-0539",
+    title: "Corporate Placement Hub and Eligibility Card - Item 539",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 84,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_539"]
+  },
+  {
+    id: "placementhub-0540",
+    code: "NEC-PLACEMENTHUB-0540",
+    title: "Corporate Placement Hub and Eligibility Card - Item 540",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 85,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_540"]
+  },
+  {
+    id: "placementhub-0541",
+    code: "NEC-PLACEMENTHUB-0541",
+    title: "Corporate Placement Hub and Eligibility Card - Item 541",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 86,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_541"]
+  },
+  {
+    id: "placementhub-0542",
+    code: "NEC-PLACEMENTHUB-0542",
+    title: "Corporate Placement Hub and Eligibility Card - Item 542",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_542"]
+  },
+  {
+    id: "placementhub-0543",
+    code: "NEC-PLACEMENTHUB-0543",
+    title: "Corporate Placement Hub and Eligibility Card - Item 543",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 88,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_543"]
+  },
+  {
+    id: "placementhub-0544",
+    code: "NEC-PLACEMENTHUB-0544",
+    title: "Corporate Placement Hub and Eligibility Card - Item 544",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 89,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_544"]
+  },
+  {
+    id: "placementhub-0545",
+    code: "NEC-PLACEMENTHUB-0545",
+    title: "Corporate Placement Hub and Eligibility Card - Item 545",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 90,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_545"]
+  },
+  {
+    id: "placementhub-0546",
+    code: "NEC-PLACEMENTHUB-0546",
+    title: "Corporate Placement Hub and Eligibility Card - Item 546",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 91,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_546"]
+  },
+  {
+    id: "placementhub-0547",
+    code: "NEC-PLACEMENTHUB-0547",
+    title: "Corporate Placement Hub and Eligibility Card - Item 547",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 92,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_547"]
+  },
+  {
+    id: "placementhub-0548",
+    code: "NEC-PLACEMENTHUB-0548",
+    title: "Corporate Placement Hub and Eligibility Card - Item 548",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 93,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_548"]
+  },
+  {
+    id: "placementhub-0549",
+    code: "NEC-PLACEMENTHUB-0549",
+    title: "Corporate Placement Hub and Eligibility Card - Item 549",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 94,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_549"]
+  },
+  {
+    id: "placementhub-0550",
+    code: "NEC-PLACEMENTHUB-0550",
+    title: "Corporate Placement Hub and Eligibility Card - Item 550",
+    category: "PLACEMENTHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 70,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_550"]
+  },
 ];
 
 export function filterPLACEMENTHUBBySemester(semester: number): AcademicEntityItem[] {

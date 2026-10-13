@@ -6821,6 +6821,2006 @@ export const FACULTYPORTAL_REGISTRY: AcademicEntityItem[] = [
     },
     tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_425"]
   },
+  {
+    id: "facultyportal-0426",
+    code: "NEC-FACULTYPORTAL-0426",
+    title: "Faculty Coordinator Workspace - Item 426",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 71,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_426"]
+  },
+  {
+    id: "facultyportal-0427",
+    code: "NEC-FACULTYPORTAL-0427",
+    title: "Faculty Coordinator Workspace - Item 427",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 72,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_427"]
+  },
+  {
+    id: "facultyportal-0428",
+    code: "NEC-FACULTYPORTAL-0428",
+    title: "Faculty Coordinator Workspace - Item 428",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 73,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_428"]
+  },
+  {
+    id: "facultyportal-0429",
+    code: "NEC-FACULTYPORTAL-0429",
+    title: "Faculty Coordinator Workspace - Item 429",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 74,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_429"]
+  },
+  {
+    id: "facultyportal-0430",
+    code: "NEC-FACULTYPORTAL-0430",
+    title: "Faculty Coordinator Workspace - Item 430",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_430"]
+  },
+  {
+    id: "facultyportal-0431",
+    code: "NEC-FACULTYPORTAL-0431",
+    title: "Faculty Coordinator Workspace - Item 431",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 76,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_431"]
+  },
+  {
+    id: "facultyportal-0432",
+    code: "NEC-FACULTYPORTAL-0432",
+    title: "Faculty Coordinator Workspace - Item 432",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 77,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_432"]
+  },
+  {
+    id: "facultyportal-0433",
+    code: "NEC-FACULTYPORTAL-0433",
+    title: "Faculty Coordinator Workspace - Item 433",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 78,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_433"]
+  },
+  {
+    id: "facultyportal-0434",
+    code: "NEC-FACULTYPORTAL-0434",
+    title: "Faculty Coordinator Workspace - Item 434",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 79,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_434"]
+  },
+  {
+    id: "facultyportal-0435",
+    code: "NEC-FACULTYPORTAL-0435",
+    title: "Faculty Coordinator Workspace - Item 435",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 80,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_435"]
+  },
+  {
+    id: "facultyportal-0436",
+    code: "NEC-FACULTYPORTAL-0436",
+    title: "Faculty Coordinator Workspace - Item 436",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 81,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_436"]
+  },
+  {
+    id: "facultyportal-0437",
+    code: "NEC-FACULTYPORTAL-0437",
+    title: "Faculty Coordinator Workspace - Item 437",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 82,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_437"]
+  },
+  {
+    id: "facultyportal-0438",
+    code: "NEC-FACULTYPORTAL-0438",
+    title: "Faculty Coordinator Workspace - Item 438",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 83,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_438"]
+  },
+  {
+    id: "facultyportal-0439",
+    code: "NEC-FACULTYPORTAL-0439",
+    title: "Faculty Coordinator Workspace - Item 439",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 84,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_439"]
+  },
+  {
+    id: "facultyportal-0440",
+    code: "NEC-FACULTYPORTAL-0440",
+    title: "Faculty Coordinator Workspace - Item 440",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 85,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_440"]
+  },
+  {
+    id: "facultyportal-0441",
+    code: "NEC-FACULTYPORTAL-0441",
+    title: "Faculty Coordinator Workspace - Item 441",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 86,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_441"]
+  },
+  {
+    id: "facultyportal-0442",
+    code: "NEC-FACULTYPORTAL-0442",
+    title: "Faculty Coordinator Workspace - Item 442",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_442"]
+  },
+  {
+    id: "facultyportal-0443",
+    code: "NEC-FACULTYPORTAL-0443",
+    title: "Faculty Coordinator Workspace - Item 443",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 88,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_443"]
+  },
+  {
+    id: "facultyportal-0444",
+    code: "NEC-FACULTYPORTAL-0444",
+    title: "Faculty Coordinator Workspace - Item 444",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 89,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_444"]
+  },
+  {
+    id: "facultyportal-0445",
+    code: "NEC-FACULTYPORTAL-0445",
+    title: "Faculty Coordinator Workspace - Item 445",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 90,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_445"]
+  },
+  {
+    id: "facultyportal-0446",
+    code: "NEC-FACULTYPORTAL-0446",
+    title: "Faculty Coordinator Workspace - Item 446",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 91,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_446"]
+  },
+  {
+    id: "facultyportal-0447",
+    code: "NEC-FACULTYPORTAL-0447",
+    title: "Faculty Coordinator Workspace - Item 447",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 92,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_447"]
+  },
+  {
+    id: "facultyportal-0448",
+    code: "NEC-FACULTYPORTAL-0448",
+    title: "Faculty Coordinator Workspace - Item 448",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 93,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_448"]
+  },
+  {
+    id: "facultyportal-0449",
+    code: "NEC-FACULTYPORTAL-0449",
+    title: "Faculty Coordinator Workspace - Item 449",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 94,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_449"]
+  },
+  {
+    id: "facultyportal-0450",
+    code: "NEC-FACULTYPORTAL-0450",
+    title: "Faculty Coordinator Workspace - Item 450",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 70,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_450"]
+  },
+  {
+    id: "facultyportal-0451",
+    code: "NEC-FACULTYPORTAL-0451",
+    title: "Faculty Coordinator Workspace - Item 451",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 71,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_451"]
+  },
+  {
+    id: "facultyportal-0452",
+    code: "NEC-FACULTYPORTAL-0452",
+    title: "Faculty Coordinator Workspace - Item 452",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 72,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_452"]
+  },
+  {
+    id: "facultyportal-0453",
+    code: "NEC-FACULTYPORTAL-0453",
+    title: "Faculty Coordinator Workspace - Item 453",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 73,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_453"]
+  },
+  {
+    id: "facultyportal-0454",
+    code: "NEC-FACULTYPORTAL-0454",
+    title: "Faculty Coordinator Workspace - Item 454",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 74,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_454"]
+  },
+  {
+    id: "facultyportal-0455",
+    code: "NEC-FACULTYPORTAL-0455",
+    title: "Faculty Coordinator Workspace - Item 455",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_455"]
+  },
+  {
+    id: "facultyportal-0456",
+    code: "NEC-FACULTYPORTAL-0456",
+    title: "Faculty Coordinator Workspace - Item 456",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 76,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_456"]
+  },
+  {
+    id: "facultyportal-0457",
+    code: "NEC-FACULTYPORTAL-0457",
+    title: "Faculty Coordinator Workspace - Item 457",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 77,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_457"]
+  },
+  {
+    id: "facultyportal-0458",
+    code: "NEC-FACULTYPORTAL-0458",
+    title: "Faculty Coordinator Workspace - Item 458",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 78,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_458"]
+  },
+  {
+    id: "facultyportal-0459",
+    code: "NEC-FACULTYPORTAL-0459",
+    title: "Faculty Coordinator Workspace - Item 459",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 79,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_459"]
+  },
+  {
+    id: "facultyportal-0460",
+    code: "NEC-FACULTYPORTAL-0460",
+    title: "Faculty Coordinator Workspace - Item 460",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 80,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_460"]
+  },
+  {
+    id: "facultyportal-0461",
+    code: "NEC-FACULTYPORTAL-0461",
+    title: "Faculty Coordinator Workspace - Item 461",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 81,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_461"]
+  },
+  {
+    id: "facultyportal-0462",
+    code: "NEC-FACULTYPORTAL-0462",
+    title: "Faculty Coordinator Workspace - Item 462",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 82,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_462"]
+  },
+  {
+    id: "facultyportal-0463",
+    code: "NEC-FACULTYPORTAL-0463",
+    title: "Faculty Coordinator Workspace - Item 463",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 83,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_463"]
+  },
+  {
+    id: "facultyportal-0464",
+    code: "NEC-FACULTYPORTAL-0464",
+    title: "Faculty Coordinator Workspace - Item 464",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 84,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_464"]
+  },
+  {
+    id: "facultyportal-0465",
+    code: "NEC-FACULTYPORTAL-0465",
+    title: "Faculty Coordinator Workspace - Item 465",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 85,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_465"]
+  },
+  {
+    id: "facultyportal-0466",
+    code: "NEC-FACULTYPORTAL-0466",
+    title: "Faculty Coordinator Workspace - Item 466",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 86,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_466"]
+  },
+  {
+    id: "facultyportal-0467",
+    code: "NEC-FACULTYPORTAL-0467",
+    title: "Faculty Coordinator Workspace - Item 467",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_467"]
+  },
+  {
+    id: "facultyportal-0468",
+    code: "NEC-FACULTYPORTAL-0468",
+    title: "Faculty Coordinator Workspace - Item 468",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 88,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_468"]
+  },
+  {
+    id: "facultyportal-0469",
+    code: "NEC-FACULTYPORTAL-0469",
+    title: "Faculty Coordinator Workspace - Item 469",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 89,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_469"]
+  },
+  {
+    id: "facultyportal-0470",
+    code: "NEC-FACULTYPORTAL-0470",
+    title: "Faculty Coordinator Workspace - Item 470",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 90,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_470"]
+  },
+  {
+    id: "facultyportal-0471",
+    code: "NEC-FACULTYPORTAL-0471",
+    title: "Faculty Coordinator Workspace - Item 471",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 91,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_471"]
+  },
+  {
+    id: "facultyportal-0472",
+    code: "NEC-FACULTYPORTAL-0472",
+    title: "Faculty Coordinator Workspace - Item 472",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 92,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_472"]
+  },
+  {
+    id: "facultyportal-0473",
+    code: "NEC-FACULTYPORTAL-0473",
+    title: "Faculty Coordinator Workspace - Item 473",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 93,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_473"]
+  },
+  {
+    id: "facultyportal-0474",
+    code: "NEC-FACULTYPORTAL-0474",
+    title: "Faculty Coordinator Workspace - Item 474",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 94,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_474"]
+  },
+  {
+    id: "facultyportal-0475",
+    code: "NEC-FACULTYPORTAL-0475",
+    title: "Faculty Coordinator Workspace - Item 475",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 70,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_475"]
+  },
+  {
+    id: "facultyportal-0476",
+    code: "NEC-FACULTYPORTAL-0476",
+    title: "Faculty Coordinator Workspace - Item 476",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 71,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_476"]
+  },
+  {
+    id: "facultyportal-0477",
+    code: "NEC-FACULTYPORTAL-0477",
+    title: "Faculty Coordinator Workspace - Item 477",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 72,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_477"]
+  },
+  {
+    id: "facultyportal-0478",
+    code: "NEC-FACULTYPORTAL-0478",
+    title: "Faculty Coordinator Workspace - Item 478",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 73,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_478"]
+  },
+  {
+    id: "facultyportal-0479",
+    code: "NEC-FACULTYPORTAL-0479",
+    title: "Faculty Coordinator Workspace - Item 479",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 74,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_479"]
+  },
+  {
+    id: "facultyportal-0480",
+    code: "NEC-FACULTYPORTAL-0480",
+    title: "Faculty Coordinator Workspace - Item 480",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 75,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_480"]
+  },
+  {
+    id: "facultyportal-0481",
+    code: "NEC-FACULTYPORTAL-0481",
+    title: "Faculty Coordinator Workspace - Item 481",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 76,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_481"]
+  },
+  {
+    id: "facultyportal-0482",
+    code: "NEC-FACULTYPORTAL-0482",
+    title: "Faculty Coordinator Workspace - Item 482",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 77,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_482"]
+  },
+  {
+    id: "facultyportal-0483",
+    code: "NEC-FACULTYPORTAL-0483",
+    title: "Faculty Coordinator Workspace - Item 483",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 78,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_483"]
+  },
+  {
+    id: "facultyportal-0484",
+    code: "NEC-FACULTYPORTAL-0484",
+    title: "Faculty Coordinator Workspace - Item 484",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 79,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_484"]
+  },
+  {
+    id: "facultyportal-0485",
+    code: "NEC-FACULTYPORTAL-0485",
+    title: "Faculty Coordinator Workspace - Item 485",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 80,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_485"]
+  },
+  {
+    id: "facultyportal-0486",
+    code: "NEC-FACULTYPORTAL-0486",
+    title: "Faculty Coordinator Workspace - Item 486",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 81,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_486"]
+  },
+  {
+    id: "facultyportal-0487",
+    code: "NEC-FACULTYPORTAL-0487",
+    title: "Faculty Coordinator Workspace - Item 487",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 82,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_487"]
+  },
+  {
+    id: "facultyportal-0488",
+    code: "NEC-FACULTYPORTAL-0488",
+    title: "Faculty Coordinator Workspace - Item 488",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 83,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_488"]
+  },
+  {
+    id: "facultyportal-0489",
+    code: "NEC-FACULTYPORTAL-0489",
+    title: "Faculty Coordinator Workspace - Item 489",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 84,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_489"]
+  },
+  {
+    id: "facultyportal-0490",
+    code: "NEC-FACULTYPORTAL-0490",
+    title: "Faculty Coordinator Workspace - Item 490",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 85,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_490"]
+  },
+  {
+    id: "facultyportal-0491",
+    code: "NEC-FACULTYPORTAL-0491",
+    title: "Faculty Coordinator Workspace - Item 491",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 86,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_491"]
+  },
+  {
+    id: "facultyportal-0492",
+    code: "NEC-FACULTYPORTAL-0492",
+    title: "Faculty Coordinator Workspace - Item 492",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 87,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_492"]
+  },
+  {
+    id: "facultyportal-0493",
+    code: "NEC-FACULTYPORTAL-0493",
+    title: "Faculty Coordinator Workspace - Item 493",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 88,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_493"]
+  },
+  {
+    id: "facultyportal-0494",
+    code: "NEC-FACULTYPORTAL-0494",
+    title: "Faculty Coordinator Workspace - Item 494",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 89,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_494"]
+  },
+  {
+    id: "facultyportal-0495",
+    code: "NEC-FACULTYPORTAL-0495",
+    title: "Faculty Coordinator Workspace - Item 495",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 90,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_495"]
+  },
+  {
+    id: "facultyportal-0496",
+    code: "NEC-FACULTYPORTAL-0496",
+    title: "Faculty Coordinator Workspace - Item 496",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 91,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_496"]
+  },
+  {
+    id: "facultyportal-0497",
+    code: "NEC-FACULTYPORTAL-0497",
+    title: "Faculty Coordinator Workspace - Item 497",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 92,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_497"]
+  },
+  {
+    id: "facultyportal-0498",
+    code: "NEC-FACULTYPORTAL-0498",
+    title: "Faculty Coordinator Workspace - Item 498",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 93,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_498"]
+  },
+  {
+    id: "facultyportal-0499",
+    code: "NEC-FACULTYPORTAL-0499",
+    title: "Faculty Coordinator Workspace - Item 499",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 94,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_499"]
+  },
+  {
+    id: "facultyportal-0500",
+    code: "NEC-FACULTYPORTAL-0500",
+    title: "Faculty Coordinator Workspace - Item 500",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 70,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_500"]
+  },
+  {
+    id: "facultyportal-0501",
+    code: "NEC-FACULTYPORTAL-0501",
+    title: "Faculty Coordinator Workspace - Item 501",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 71,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_501"]
+  },
+  {
+    id: "facultyportal-0502",
+    code: "NEC-FACULTYPORTAL-0502",
+    title: "Faculty Coordinator Workspace - Item 502",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 72,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_502"]
+  },
+  {
+    id: "facultyportal-0503",
+    code: "NEC-FACULTYPORTAL-0503",
+    title: "Faculty Coordinator Workspace - Item 503",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 73,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_503"]
+  },
+  {
+    id: "facultyportal-0504",
+    code: "NEC-FACULTYPORTAL-0504",
+    title: "Faculty Coordinator Workspace - Item 504",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 74,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_504"]
+  },
+  {
+    id: "facultyportal-0505",
+    code: "NEC-FACULTYPORTAL-0505",
+    title: "Faculty Coordinator Workspace - Item 505",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_505"]
+  },
+  {
+    id: "facultyportal-0506",
+    code: "NEC-FACULTYPORTAL-0506",
+    title: "Faculty Coordinator Workspace - Item 506",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 76,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_506"]
+  },
+  {
+    id: "facultyportal-0507",
+    code: "NEC-FACULTYPORTAL-0507",
+    title: "Faculty Coordinator Workspace - Item 507",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 77,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_507"]
+  },
+  {
+    id: "facultyportal-0508",
+    code: "NEC-FACULTYPORTAL-0508",
+    title: "Faculty Coordinator Workspace - Item 508",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 78,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_508"]
+  },
+  {
+    id: "facultyportal-0509",
+    code: "NEC-FACULTYPORTAL-0509",
+    title: "Faculty Coordinator Workspace - Item 509",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 79,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_509"]
+  },
+  {
+    id: "facultyportal-0510",
+    code: "NEC-FACULTYPORTAL-0510",
+    title: "Faculty Coordinator Workspace - Item 510",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 80,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_510"]
+  },
+  {
+    id: "facultyportal-0511",
+    code: "NEC-FACULTYPORTAL-0511",
+    title: "Faculty Coordinator Workspace - Item 511",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 81,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_511"]
+  },
+  {
+    id: "facultyportal-0512",
+    code: "NEC-FACULTYPORTAL-0512",
+    title: "Faculty Coordinator Workspace - Item 512",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 82,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_512"]
+  },
+  {
+    id: "facultyportal-0513",
+    code: "NEC-FACULTYPORTAL-0513",
+    title: "Faculty Coordinator Workspace - Item 513",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 83,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_513"]
+  },
+  {
+    id: "facultyportal-0514",
+    code: "NEC-FACULTYPORTAL-0514",
+    title: "Faculty Coordinator Workspace - Item 514",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 84,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_514"]
+  },
+  {
+    id: "facultyportal-0515",
+    code: "NEC-FACULTYPORTAL-0515",
+    title: "Faculty Coordinator Workspace - Item 515",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 85,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_515"]
+  },
+  {
+    id: "facultyportal-0516",
+    code: "NEC-FACULTYPORTAL-0516",
+    title: "Faculty Coordinator Workspace - Item 516",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 86,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_516"]
+  },
+  {
+    id: "facultyportal-0517",
+    code: "NEC-FACULTYPORTAL-0517",
+    title: "Faculty Coordinator Workspace - Item 517",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_517"]
+  },
+  {
+    id: "facultyportal-0518",
+    code: "NEC-FACULTYPORTAL-0518",
+    title: "Faculty Coordinator Workspace - Item 518",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 88,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_518"]
+  },
+  {
+    id: "facultyportal-0519",
+    code: "NEC-FACULTYPORTAL-0519",
+    title: "Faculty Coordinator Workspace - Item 519",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 89,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_519"]
+  },
+  {
+    id: "facultyportal-0520",
+    code: "NEC-FACULTYPORTAL-0520",
+    title: "Faculty Coordinator Workspace - Item 520",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 90,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_520"]
+  },
+  {
+    id: "facultyportal-0521",
+    code: "NEC-FACULTYPORTAL-0521",
+    title: "Faculty Coordinator Workspace - Item 521",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 91,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_521"]
+  },
+  {
+    id: "facultyportal-0522",
+    code: "NEC-FACULTYPORTAL-0522",
+    title: "Faculty Coordinator Workspace - Item 522",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 92,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_522"]
+  },
+  {
+    id: "facultyportal-0523",
+    code: "NEC-FACULTYPORTAL-0523",
+    title: "Faculty Coordinator Workspace - Item 523",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 93,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_523"]
+  },
+  {
+    id: "facultyportal-0524",
+    code: "NEC-FACULTYPORTAL-0524",
+    title: "Faculty Coordinator Workspace - Item 524",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 94,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_524"]
+  },
+  {
+    id: "facultyportal-0525",
+    code: "NEC-FACULTYPORTAL-0525",
+    title: "Faculty Coordinator Workspace - Item 525",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 70,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_525"]
+  },
+  {
+    id: "facultyportal-0526",
+    code: "NEC-FACULTYPORTAL-0526",
+    title: "Faculty Coordinator Workspace - Item 526",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 71,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_526"]
+  },
+  {
+    id: "facultyportal-0527",
+    code: "NEC-FACULTYPORTAL-0527",
+    title: "Faculty Coordinator Workspace - Item 527",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 72,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_527"]
+  },
+  {
+    id: "facultyportal-0528",
+    code: "NEC-FACULTYPORTAL-0528",
+    title: "Faculty Coordinator Workspace - Item 528",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 73,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_528"]
+  },
+  {
+    id: "facultyportal-0529",
+    code: "NEC-FACULTYPORTAL-0529",
+    title: "Faculty Coordinator Workspace - Item 529",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 74,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_529"]
+  },
+  {
+    id: "facultyportal-0530",
+    code: "NEC-FACULTYPORTAL-0530",
+    title: "Faculty Coordinator Workspace - Item 530",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_530"]
+  },
+  {
+    id: "facultyportal-0531",
+    code: "NEC-FACULTYPORTAL-0531",
+    title: "Faculty Coordinator Workspace - Item 531",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 76,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_531"]
+  },
+  {
+    id: "facultyportal-0532",
+    code: "NEC-FACULTYPORTAL-0532",
+    title: "Faculty Coordinator Workspace - Item 532",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 77,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_532"]
+  },
+  {
+    id: "facultyportal-0533",
+    code: "NEC-FACULTYPORTAL-0533",
+    title: "Faculty Coordinator Workspace - Item 533",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 78,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_533"]
+  },
+  {
+    id: "facultyportal-0534",
+    code: "NEC-FACULTYPORTAL-0534",
+    title: "Faculty Coordinator Workspace - Item 534",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 79,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_534"]
+  },
+  {
+    id: "facultyportal-0535",
+    code: "NEC-FACULTYPORTAL-0535",
+    title: "Faculty Coordinator Workspace - Item 535",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 80,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_535"]
+  },
+  {
+    id: "facultyportal-0536",
+    code: "NEC-FACULTYPORTAL-0536",
+    title: "Faculty Coordinator Workspace - Item 536",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 81,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_536"]
+  },
+  {
+    id: "facultyportal-0537",
+    code: "NEC-FACULTYPORTAL-0537",
+    title: "Faculty Coordinator Workspace - Item 537",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 82,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_537"]
+  },
+  {
+    id: "facultyportal-0538",
+    code: "NEC-FACULTYPORTAL-0538",
+    title: "Faculty Coordinator Workspace - Item 538",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 83,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_538"]
+  },
+  {
+    id: "facultyportal-0539",
+    code: "NEC-FACULTYPORTAL-0539",
+    title: "Faculty Coordinator Workspace - Item 539",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 84,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_539"]
+  },
+  {
+    id: "facultyportal-0540",
+    code: "NEC-FACULTYPORTAL-0540",
+    title: "Faculty Coordinator Workspace - Item 540",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 85,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_540"]
+  },
+  {
+    id: "facultyportal-0541",
+    code: "NEC-FACULTYPORTAL-0541",
+    title: "Faculty Coordinator Workspace - Item 541",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 86,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_541"]
+  },
+  {
+    id: "facultyportal-0542",
+    code: "NEC-FACULTYPORTAL-0542",
+    title: "Faculty Coordinator Workspace - Item 542",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_542"]
+  },
+  {
+    id: "facultyportal-0543",
+    code: "NEC-FACULTYPORTAL-0543",
+    title: "Faculty Coordinator Workspace - Item 543",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 88,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_543"]
+  },
+  {
+    id: "facultyportal-0544",
+    code: "NEC-FACULTYPORTAL-0544",
+    title: "Faculty Coordinator Workspace - Item 544",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 89,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_544"]
+  },
+  {
+    id: "facultyportal-0545",
+    code: "NEC-FACULTYPORTAL-0545",
+    title: "Faculty Coordinator Workspace - Item 545",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 90,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_545"]
+  },
+  {
+    id: "facultyportal-0546",
+    code: "NEC-FACULTYPORTAL-0546",
+    title: "Faculty Coordinator Workspace - Item 546",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 91,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_546"]
+  },
+  {
+    id: "facultyportal-0547",
+    code: "NEC-FACULTYPORTAL-0547",
+    title: "Faculty Coordinator Workspace - Item 547",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 92,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_547"]
+  },
+  {
+    id: "facultyportal-0548",
+    code: "NEC-FACULTYPORTAL-0548",
+    title: "Faculty Coordinator Workspace - Item 548",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 93,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_548"]
+  },
+  {
+    id: "facultyportal-0549",
+    code: "NEC-FACULTYPORTAL-0549",
+    title: "Faculty Coordinator Workspace - Item 549",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 94,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_549"]
+  },
+  {
+    id: "facultyportal-0550",
+    code: "NEC-FACULTYPORTAL-0550",
+    title: "Faculty Coordinator Workspace - Item 550",
+    category: "FACULTYPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 70,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_550"]
+  },
 ];
 
 export function filterFACULTYPORTALBySemester(semester: number): AcademicEntityItem[] {

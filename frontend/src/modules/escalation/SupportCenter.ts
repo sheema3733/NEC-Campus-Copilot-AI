@@ -6821,6 +6821,2006 @@ export const SUPPORTCENTER_REGISTRY: AcademicEntityItem[] = [
     },
     tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_425"]
   },
+  {
+    id: "supportcenter-0426",
+    code: "NEC-SUPPORTCENTER-0426",
+    title: "Human Support Center and Ticket Tracker - Item 426",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 71,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_426"]
+  },
+  {
+    id: "supportcenter-0427",
+    code: "NEC-SUPPORTCENTER-0427",
+    title: "Human Support Center and Ticket Tracker - Item 427",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 72,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_427"]
+  },
+  {
+    id: "supportcenter-0428",
+    code: "NEC-SUPPORTCENTER-0428",
+    title: "Human Support Center and Ticket Tracker - Item 428",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 73,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_428"]
+  },
+  {
+    id: "supportcenter-0429",
+    code: "NEC-SUPPORTCENTER-0429",
+    title: "Human Support Center and Ticket Tracker - Item 429",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 74,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_429"]
+  },
+  {
+    id: "supportcenter-0430",
+    code: "NEC-SUPPORTCENTER-0430",
+    title: "Human Support Center and Ticket Tracker - Item 430",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_430"]
+  },
+  {
+    id: "supportcenter-0431",
+    code: "NEC-SUPPORTCENTER-0431",
+    title: "Human Support Center and Ticket Tracker - Item 431",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 76,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_431"]
+  },
+  {
+    id: "supportcenter-0432",
+    code: "NEC-SUPPORTCENTER-0432",
+    title: "Human Support Center and Ticket Tracker - Item 432",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 77,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_432"]
+  },
+  {
+    id: "supportcenter-0433",
+    code: "NEC-SUPPORTCENTER-0433",
+    title: "Human Support Center and Ticket Tracker - Item 433",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 78,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_433"]
+  },
+  {
+    id: "supportcenter-0434",
+    code: "NEC-SUPPORTCENTER-0434",
+    title: "Human Support Center and Ticket Tracker - Item 434",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 79,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_434"]
+  },
+  {
+    id: "supportcenter-0435",
+    code: "NEC-SUPPORTCENTER-0435",
+    title: "Human Support Center and Ticket Tracker - Item 435",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 80,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_435"]
+  },
+  {
+    id: "supportcenter-0436",
+    code: "NEC-SUPPORTCENTER-0436",
+    title: "Human Support Center and Ticket Tracker - Item 436",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 81,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_436"]
+  },
+  {
+    id: "supportcenter-0437",
+    code: "NEC-SUPPORTCENTER-0437",
+    title: "Human Support Center and Ticket Tracker - Item 437",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 82,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_437"]
+  },
+  {
+    id: "supportcenter-0438",
+    code: "NEC-SUPPORTCENTER-0438",
+    title: "Human Support Center and Ticket Tracker - Item 438",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 83,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_438"]
+  },
+  {
+    id: "supportcenter-0439",
+    code: "NEC-SUPPORTCENTER-0439",
+    title: "Human Support Center and Ticket Tracker - Item 439",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 84,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_439"]
+  },
+  {
+    id: "supportcenter-0440",
+    code: "NEC-SUPPORTCENTER-0440",
+    title: "Human Support Center and Ticket Tracker - Item 440",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 85,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_440"]
+  },
+  {
+    id: "supportcenter-0441",
+    code: "NEC-SUPPORTCENTER-0441",
+    title: "Human Support Center and Ticket Tracker - Item 441",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 86,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_441"]
+  },
+  {
+    id: "supportcenter-0442",
+    code: "NEC-SUPPORTCENTER-0442",
+    title: "Human Support Center and Ticket Tracker - Item 442",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_442"]
+  },
+  {
+    id: "supportcenter-0443",
+    code: "NEC-SUPPORTCENTER-0443",
+    title: "Human Support Center and Ticket Tracker - Item 443",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 88,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_443"]
+  },
+  {
+    id: "supportcenter-0444",
+    code: "NEC-SUPPORTCENTER-0444",
+    title: "Human Support Center and Ticket Tracker - Item 444",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 89,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_444"]
+  },
+  {
+    id: "supportcenter-0445",
+    code: "NEC-SUPPORTCENTER-0445",
+    title: "Human Support Center and Ticket Tracker - Item 445",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 90,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_445"]
+  },
+  {
+    id: "supportcenter-0446",
+    code: "NEC-SUPPORTCENTER-0446",
+    title: "Human Support Center and Ticket Tracker - Item 446",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 91,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_446"]
+  },
+  {
+    id: "supportcenter-0447",
+    code: "NEC-SUPPORTCENTER-0447",
+    title: "Human Support Center and Ticket Tracker - Item 447",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 92,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_447"]
+  },
+  {
+    id: "supportcenter-0448",
+    code: "NEC-SUPPORTCENTER-0448",
+    title: "Human Support Center and Ticket Tracker - Item 448",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 93,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_448"]
+  },
+  {
+    id: "supportcenter-0449",
+    code: "NEC-SUPPORTCENTER-0449",
+    title: "Human Support Center and Ticket Tracker - Item 449",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 94,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_449"]
+  },
+  {
+    id: "supportcenter-0450",
+    code: "NEC-SUPPORTCENTER-0450",
+    title: "Human Support Center and Ticket Tracker - Item 450",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 70,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_450"]
+  },
+  {
+    id: "supportcenter-0451",
+    code: "NEC-SUPPORTCENTER-0451",
+    title: "Human Support Center and Ticket Tracker - Item 451",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 71,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_451"]
+  },
+  {
+    id: "supportcenter-0452",
+    code: "NEC-SUPPORTCENTER-0452",
+    title: "Human Support Center and Ticket Tracker - Item 452",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 72,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_452"]
+  },
+  {
+    id: "supportcenter-0453",
+    code: "NEC-SUPPORTCENTER-0453",
+    title: "Human Support Center and Ticket Tracker - Item 453",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 73,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_453"]
+  },
+  {
+    id: "supportcenter-0454",
+    code: "NEC-SUPPORTCENTER-0454",
+    title: "Human Support Center and Ticket Tracker - Item 454",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 74,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_454"]
+  },
+  {
+    id: "supportcenter-0455",
+    code: "NEC-SUPPORTCENTER-0455",
+    title: "Human Support Center and Ticket Tracker - Item 455",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_455"]
+  },
+  {
+    id: "supportcenter-0456",
+    code: "NEC-SUPPORTCENTER-0456",
+    title: "Human Support Center and Ticket Tracker - Item 456",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 76,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_456"]
+  },
+  {
+    id: "supportcenter-0457",
+    code: "NEC-SUPPORTCENTER-0457",
+    title: "Human Support Center and Ticket Tracker - Item 457",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 77,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_457"]
+  },
+  {
+    id: "supportcenter-0458",
+    code: "NEC-SUPPORTCENTER-0458",
+    title: "Human Support Center and Ticket Tracker - Item 458",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 78,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_458"]
+  },
+  {
+    id: "supportcenter-0459",
+    code: "NEC-SUPPORTCENTER-0459",
+    title: "Human Support Center and Ticket Tracker - Item 459",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 79,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_459"]
+  },
+  {
+    id: "supportcenter-0460",
+    code: "NEC-SUPPORTCENTER-0460",
+    title: "Human Support Center and Ticket Tracker - Item 460",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 80,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_460"]
+  },
+  {
+    id: "supportcenter-0461",
+    code: "NEC-SUPPORTCENTER-0461",
+    title: "Human Support Center and Ticket Tracker - Item 461",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 81,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_461"]
+  },
+  {
+    id: "supportcenter-0462",
+    code: "NEC-SUPPORTCENTER-0462",
+    title: "Human Support Center and Ticket Tracker - Item 462",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 82,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_462"]
+  },
+  {
+    id: "supportcenter-0463",
+    code: "NEC-SUPPORTCENTER-0463",
+    title: "Human Support Center and Ticket Tracker - Item 463",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 83,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_463"]
+  },
+  {
+    id: "supportcenter-0464",
+    code: "NEC-SUPPORTCENTER-0464",
+    title: "Human Support Center and Ticket Tracker - Item 464",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 84,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_464"]
+  },
+  {
+    id: "supportcenter-0465",
+    code: "NEC-SUPPORTCENTER-0465",
+    title: "Human Support Center and Ticket Tracker - Item 465",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 85,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_465"]
+  },
+  {
+    id: "supportcenter-0466",
+    code: "NEC-SUPPORTCENTER-0466",
+    title: "Human Support Center and Ticket Tracker - Item 466",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 86,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_466"]
+  },
+  {
+    id: "supportcenter-0467",
+    code: "NEC-SUPPORTCENTER-0467",
+    title: "Human Support Center and Ticket Tracker - Item 467",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_467"]
+  },
+  {
+    id: "supportcenter-0468",
+    code: "NEC-SUPPORTCENTER-0468",
+    title: "Human Support Center and Ticket Tracker - Item 468",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 88,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_468"]
+  },
+  {
+    id: "supportcenter-0469",
+    code: "NEC-SUPPORTCENTER-0469",
+    title: "Human Support Center and Ticket Tracker - Item 469",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 89,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_469"]
+  },
+  {
+    id: "supportcenter-0470",
+    code: "NEC-SUPPORTCENTER-0470",
+    title: "Human Support Center and Ticket Tracker - Item 470",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 90,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_470"]
+  },
+  {
+    id: "supportcenter-0471",
+    code: "NEC-SUPPORTCENTER-0471",
+    title: "Human Support Center and Ticket Tracker - Item 471",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 91,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_471"]
+  },
+  {
+    id: "supportcenter-0472",
+    code: "NEC-SUPPORTCENTER-0472",
+    title: "Human Support Center and Ticket Tracker - Item 472",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 92,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_472"]
+  },
+  {
+    id: "supportcenter-0473",
+    code: "NEC-SUPPORTCENTER-0473",
+    title: "Human Support Center and Ticket Tracker - Item 473",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 93,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_473"]
+  },
+  {
+    id: "supportcenter-0474",
+    code: "NEC-SUPPORTCENTER-0474",
+    title: "Human Support Center and Ticket Tracker - Item 474",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 94,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_474"]
+  },
+  {
+    id: "supportcenter-0475",
+    code: "NEC-SUPPORTCENTER-0475",
+    title: "Human Support Center and Ticket Tracker - Item 475",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 70,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_475"]
+  },
+  {
+    id: "supportcenter-0476",
+    code: "NEC-SUPPORTCENTER-0476",
+    title: "Human Support Center and Ticket Tracker - Item 476",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 71,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_476"]
+  },
+  {
+    id: "supportcenter-0477",
+    code: "NEC-SUPPORTCENTER-0477",
+    title: "Human Support Center and Ticket Tracker - Item 477",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 72,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_477"]
+  },
+  {
+    id: "supportcenter-0478",
+    code: "NEC-SUPPORTCENTER-0478",
+    title: "Human Support Center and Ticket Tracker - Item 478",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 73,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_478"]
+  },
+  {
+    id: "supportcenter-0479",
+    code: "NEC-SUPPORTCENTER-0479",
+    title: "Human Support Center and Ticket Tracker - Item 479",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 74,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_479"]
+  },
+  {
+    id: "supportcenter-0480",
+    code: "NEC-SUPPORTCENTER-0480",
+    title: "Human Support Center and Ticket Tracker - Item 480",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 75,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_480"]
+  },
+  {
+    id: "supportcenter-0481",
+    code: "NEC-SUPPORTCENTER-0481",
+    title: "Human Support Center and Ticket Tracker - Item 481",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 76,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_481"]
+  },
+  {
+    id: "supportcenter-0482",
+    code: "NEC-SUPPORTCENTER-0482",
+    title: "Human Support Center and Ticket Tracker - Item 482",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 77,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_482"]
+  },
+  {
+    id: "supportcenter-0483",
+    code: "NEC-SUPPORTCENTER-0483",
+    title: "Human Support Center and Ticket Tracker - Item 483",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 78,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_483"]
+  },
+  {
+    id: "supportcenter-0484",
+    code: "NEC-SUPPORTCENTER-0484",
+    title: "Human Support Center and Ticket Tracker - Item 484",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 79,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_484"]
+  },
+  {
+    id: "supportcenter-0485",
+    code: "NEC-SUPPORTCENTER-0485",
+    title: "Human Support Center and Ticket Tracker - Item 485",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 80,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_485"]
+  },
+  {
+    id: "supportcenter-0486",
+    code: "NEC-SUPPORTCENTER-0486",
+    title: "Human Support Center and Ticket Tracker - Item 486",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 81,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_486"]
+  },
+  {
+    id: "supportcenter-0487",
+    code: "NEC-SUPPORTCENTER-0487",
+    title: "Human Support Center and Ticket Tracker - Item 487",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 82,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_487"]
+  },
+  {
+    id: "supportcenter-0488",
+    code: "NEC-SUPPORTCENTER-0488",
+    title: "Human Support Center and Ticket Tracker - Item 488",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 83,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_488"]
+  },
+  {
+    id: "supportcenter-0489",
+    code: "NEC-SUPPORTCENTER-0489",
+    title: "Human Support Center and Ticket Tracker - Item 489",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 84,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_489"]
+  },
+  {
+    id: "supportcenter-0490",
+    code: "NEC-SUPPORTCENTER-0490",
+    title: "Human Support Center and Ticket Tracker - Item 490",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 85,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_490"]
+  },
+  {
+    id: "supportcenter-0491",
+    code: "NEC-SUPPORTCENTER-0491",
+    title: "Human Support Center and Ticket Tracker - Item 491",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 86,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_491"]
+  },
+  {
+    id: "supportcenter-0492",
+    code: "NEC-SUPPORTCENTER-0492",
+    title: "Human Support Center and Ticket Tracker - Item 492",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 87,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_492"]
+  },
+  {
+    id: "supportcenter-0493",
+    code: "NEC-SUPPORTCENTER-0493",
+    title: "Human Support Center and Ticket Tracker - Item 493",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 88,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_493"]
+  },
+  {
+    id: "supportcenter-0494",
+    code: "NEC-SUPPORTCENTER-0494",
+    title: "Human Support Center and Ticket Tracker - Item 494",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 89,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_494"]
+  },
+  {
+    id: "supportcenter-0495",
+    code: "NEC-SUPPORTCENTER-0495",
+    title: "Human Support Center and Ticket Tracker - Item 495",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 90,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_495"]
+  },
+  {
+    id: "supportcenter-0496",
+    code: "NEC-SUPPORTCENTER-0496",
+    title: "Human Support Center and Ticket Tracker - Item 496",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 91,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_496"]
+  },
+  {
+    id: "supportcenter-0497",
+    code: "NEC-SUPPORTCENTER-0497",
+    title: "Human Support Center and Ticket Tracker - Item 497",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 92,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_497"]
+  },
+  {
+    id: "supportcenter-0498",
+    code: "NEC-SUPPORTCENTER-0498",
+    title: "Human Support Center and Ticket Tracker - Item 498",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 93,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_498"]
+  },
+  {
+    id: "supportcenter-0499",
+    code: "NEC-SUPPORTCENTER-0499",
+    title: "Human Support Center and Ticket Tracker - Item 499",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 94,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_499"]
+  },
+  {
+    id: "supportcenter-0500",
+    code: "NEC-SUPPORTCENTER-0500",
+    title: "Human Support Center and Ticket Tracker - Item 500",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 70,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_500"]
+  },
+  {
+    id: "supportcenter-0501",
+    code: "NEC-SUPPORTCENTER-0501",
+    title: "Human Support Center and Ticket Tracker - Item 501",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 71,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_501"]
+  },
+  {
+    id: "supportcenter-0502",
+    code: "NEC-SUPPORTCENTER-0502",
+    title: "Human Support Center and Ticket Tracker - Item 502",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 72,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_502"]
+  },
+  {
+    id: "supportcenter-0503",
+    code: "NEC-SUPPORTCENTER-0503",
+    title: "Human Support Center and Ticket Tracker - Item 503",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 73,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_503"]
+  },
+  {
+    id: "supportcenter-0504",
+    code: "NEC-SUPPORTCENTER-0504",
+    title: "Human Support Center and Ticket Tracker - Item 504",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 74,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_504"]
+  },
+  {
+    id: "supportcenter-0505",
+    code: "NEC-SUPPORTCENTER-0505",
+    title: "Human Support Center and Ticket Tracker - Item 505",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_505"]
+  },
+  {
+    id: "supportcenter-0506",
+    code: "NEC-SUPPORTCENTER-0506",
+    title: "Human Support Center and Ticket Tracker - Item 506",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 76,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_506"]
+  },
+  {
+    id: "supportcenter-0507",
+    code: "NEC-SUPPORTCENTER-0507",
+    title: "Human Support Center and Ticket Tracker - Item 507",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 77,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_507"]
+  },
+  {
+    id: "supportcenter-0508",
+    code: "NEC-SUPPORTCENTER-0508",
+    title: "Human Support Center and Ticket Tracker - Item 508",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 78,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_508"]
+  },
+  {
+    id: "supportcenter-0509",
+    code: "NEC-SUPPORTCENTER-0509",
+    title: "Human Support Center and Ticket Tracker - Item 509",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 79,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_509"]
+  },
+  {
+    id: "supportcenter-0510",
+    code: "NEC-SUPPORTCENTER-0510",
+    title: "Human Support Center and Ticket Tracker - Item 510",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 80,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_510"]
+  },
+  {
+    id: "supportcenter-0511",
+    code: "NEC-SUPPORTCENTER-0511",
+    title: "Human Support Center and Ticket Tracker - Item 511",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 81,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_511"]
+  },
+  {
+    id: "supportcenter-0512",
+    code: "NEC-SUPPORTCENTER-0512",
+    title: "Human Support Center and Ticket Tracker - Item 512",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 82,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_512"]
+  },
+  {
+    id: "supportcenter-0513",
+    code: "NEC-SUPPORTCENTER-0513",
+    title: "Human Support Center and Ticket Tracker - Item 513",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 83,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_513"]
+  },
+  {
+    id: "supportcenter-0514",
+    code: "NEC-SUPPORTCENTER-0514",
+    title: "Human Support Center and Ticket Tracker - Item 514",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 84,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_514"]
+  },
+  {
+    id: "supportcenter-0515",
+    code: "NEC-SUPPORTCENTER-0515",
+    title: "Human Support Center and Ticket Tracker - Item 515",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 85,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_515"]
+  },
+  {
+    id: "supportcenter-0516",
+    code: "NEC-SUPPORTCENTER-0516",
+    title: "Human Support Center and Ticket Tracker - Item 516",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 86,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_516"]
+  },
+  {
+    id: "supportcenter-0517",
+    code: "NEC-SUPPORTCENTER-0517",
+    title: "Human Support Center and Ticket Tracker - Item 517",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_517"]
+  },
+  {
+    id: "supportcenter-0518",
+    code: "NEC-SUPPORTCENTER-0518",
+    title: "Human Support Center and Ticket Tracker - Item 518",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 88,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_518"]
+  },
+  {
+    id: "supportcenter-0519",
+    code: "NEC-SUPPORTCENTER-0519",
+    title: "Human Support Center and Ticket Tracker - Item 519",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 89,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_519"]
+  },
+  {
+    id: "supportcenter-0520",
+    code: "NEC-SUPPORTCENTER-0520",
+    title: "Human Support Center and Ticket Tracker - Item 520",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 90,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_520"]
+  },
+  {
+    id: "supportcenter-0521",
+    code: "NEC-SUPPORTCENTER-0521",
+    title: "Human Support Center and Ticket Tracker - Item 521",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 91,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_521"]
+  },
+  {
+    id: "supportcenter-0522",
+    code: "NEC-SUPPORTCENTER-0522",
+    title: "Human Support Center and Ticket Tracker - Item 522",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 92,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_522"]
+  },
+  {
+    id: "supportcenter-0523",
+    code: "NEC-SUPPORTCENTER-0523",
+    title: "Human Support Center and Ticket Tracker - Item 523",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 93,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_523"]
+  },
+  {
+    id: "supportcenter-0524",
+    code: "NEC-SUPPORTCENTER-0524",
+    title: "Human Support Center and Ticket Tracker - Item 524",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 94,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_524"]
+  },
+  {
+    id: "supportcenter-0525",
+    code: "NEC-SUPPORTCENTER-0525",
+    title: "Human Support Center and Ticket Tracker - Item 525",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 70,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_525"]
+  },
+  {
+    id: "supportcenter-0526",
+    code: "NEC-SUPPORTCENTER-0526",
+    title: "Human Support Center and Ticket Tracker - Item 526",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 71,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_526"]
+  },
+  {
+    id: "supportcenter-0527",
+    code: "NEC-SUPPORTCENTER-0527",
+    title: "Human Support Center and Ticket Tracker - Item 527",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 72,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_527"]
+  },
+  {
+    id: "supportcenter-0528",
+    code: "NEC-SUPPORTCENTER-0528",
+    title: "Human Support Center and Ticket Tracker - Item 528",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 73,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_528"]
+  },
+  {
+    id: "supportcenter-0529",
+    code: "NEC-SUPPORTCENTER-0529",
+    title: "Human Support Center and Ticket Tracker - Item 529",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 74,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_529"]
+  },
+  {
+    id: "supportcenter-0530",
+    code: "NEC-SUPPORTCENTER-0530",
+    title: "Human Support Center and Ticket Tracker - Item 530",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_530"]
+  },
+  {
+    id: "supportcenter-0531",
+    code: "NEC-SUPPORTCENTER-0531",
+    title: "Human Support Center and Ticket Tracker - Item 531",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 76,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_531"]
+  },
+  {
+    id: "supportcenter-0532",
+    code: "NEC-SUPPORTCENTER-0532",
+    title: "Human Support Center and Ticket Tracker - Item 532",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 77,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_532"]
+  },
+  {
+    id: "supportcenter-0533",
+    code: "NEC-SUPPORTCENTER-0533",
+    title: "Human Support Center and Ticket Tracker - Item 533",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 78,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_533"]
+  },
+  {
+    id: "supportcenter-0534",
+    code: "NEC-SUPPORTCENTER-0534",
+    title: "Human Support Center and Ticket Tracker - Item 534",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 79,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_534"]
+  },
+  {
+    id: "supportcenter-0535",
+    code: "NEC-SUPPORTCENTER-0535",
+    title: "Human Support Center and Ticket Tracker - Item 535",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 80,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_535"]
+  },
+  {
+    id: "supportcenter-0536",
+    code: "NEC-SUPPORTCENTER-0536",
+    title: "Human Support Center and Ticket Tracker - Item 536",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 81,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_536"]
+  },
+  {
+    id: "supportcenter-0537",
+    code: "NEC-SUPPORTCENTER-0537",
+    title: "Human Support Center and Ticket Tracker - Item 537",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 82,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_537"]
+  },
+  {
+    id: "supportcenter-0538",
+    code: "NEC-SUPPORTCENTER-0538",
+    title: "Human Support Center and Ticket Tracker - Item 538",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 83,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_538"]
+  },
+  {
+    id: "supportcenter-0539",
+    code: "NEC-SUPPORTCENTER-0539",
+    title: "Human Support Center and Ticket Tracker - Item 539",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 84,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_539"]
+  },
+  {
+    id: "supportcenter-0540",
+    code: "NEC-SUPPORTCENTER-0540",
+    title: "Human Support Center and Ticket Tracker - Item 540",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 85,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_540"]
+  },
+  {
+    id: "supportcenter-0541",
+    code: "NEC-SUPPORTCENTER-0541",
+    title: "Human Support Center and Ticket Tracker - Item 541",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 86,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_541"]
+  },
+  {
+    id: "supportcenter-0542",
+    code: "NEC-SUPPORTCENTER-0542",
+    title: "Human Support Center and Ticket Tracker - Item 542",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_542"]
+  },
+  {
+    id: "supportcenter-0543",
+    code: "NEC-SUPPORTCENTER-0543",
+    title: "Human Support Center and Ticket Tracker - Item 543",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 88,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_543"]
+  },
+  {
+    id: "supportcenter-0544",
+    code: "NEC-SUPPORTCENTER-0544",
+    title: "Human Support Center and Ticket Tracker - Item 544",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 89,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_544"]
+  },
+  {
+    id: "supportcenter-0545",
+    code: "NEC-SUPPORTCENTER-0545",
+    title: "Human Support Center and Ticket Tracker - Item 545",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 90,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_545"]
+  },
+  {
+    id: "supportcenter-0546",
+    code: "NEC-SUPPORTCENTER-0546",
+    title: "Human Support Center and Ticket Tracker - Item 546",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 91,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_546"]
+  },
+  {
+    id: "supportcenter-0547",
+    code: "NEC-SUPPORTCENTER-0547",
+    title: "Human Support Center and Ticket Tracker - Item 547",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 92,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_547"]
+  },
+  {
+    id: "supportcenter-0548",
+    code: "NEC-SUPPORTCENTER-0548",
+    title: "Human Support Center and Ticket Tracker - Item 548",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 93,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_548"]
+  },
+  {
+    id: "supportcenter-0549",
+    code: "NEC-SUPPORTCENTER-0549",
+    title: "Human Support Center and Ticket Tracker - Item 549",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 94,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_549"]
+  },
+  {
+    id: "supportcenter-0550",
+    code: "NEC-SUPPORTCENTER-0550",
+    title: "Human Support Center and Ticket Tracker - Item 550",
+    category: "SUPPORTCENTER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 70,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_550"]
+  },
 ];
 
 export function filterSUPPORTCENTERBySemester(semester: number): AcademicEntityItem[] {

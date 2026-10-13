@@ -6821,6 +6821,2006 @@ export const HALLTICKETUI_REGISTRY: AcademicEntityItem[] = [
     },
     tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_425"]
   },
+  {
+    id: "hallticketui-0426",
+    code: "NEC-HALLTICKETUI-0426",
+    title: "Digital Hall Ticket View and Print Sheet - Item 426",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 71,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_426"]
+  },
+  {
+    id: "hallticketui-0427",
+    code: "NEC-HALLTICKETUI-0427",
+    title: "Digital Hall Ticket View and Print Sheet - Item 427",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 72,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_427"]
+  },
+  {
+    id: "hallticketui-0428",
+    code: "NEC-HALLTICKETUI-0428",
+    title: "Digital Hall Ticket View and Print Sheet - Item 428",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 73,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_428"]
+  },
+  {
+    id: "hallticketui-0429",
+    code: "NEC-HALLTICKETUI-0429",
+    title: "Digital Hall Ticket View and Print Sheet - Item 429",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 74,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_429"]
+  },
+  {
+    id: "hallticketui-0430",
+    code: "NEC-HALLTICKETUI-0430",
+    title: "Digital Hall Ticket View and Print Sheet - Item 430",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_430"]
+  },
+  {
+    id: "hallticketui-0431",
+    code: "NEC-HALLTICKETUI-0431",
+    title: "Digital Hall Ticket View and Print Sheet - Item 431",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 76,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_431"]
+  },
+  {
+    id: "hallticketui-0432",
+    code: "NEC-HALLTICKETUI-0432",
+    title: "Digital Hall Ticket View and Print Sheet - Item 432",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 77,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_432"]
+  },
+  {
+    id: "hallticketui-0433",
+    code: "NEC-HALLTICKETUI-0433",
+    title: "Digital Hall Ticket View and Print Sheet - Item 433",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 78,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_433"]
+  },
+  {
+    id: "hallticketui-0434",
+    code: "NEC-HALLTICKETUI-0434",
+    title: "Digital Hall Ticket View and Print Sheet - Item 434",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 79,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_434"]
+  },
+  {
+    id: "hallticketui-0435",
+    code: "NEC-HALLTICKETUI-0435",
+    title: "Digital Hall Ticket View and Print Sheet - Item 435",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 80,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_435"]
+  },
+  {
+    id: "hallticketui-0436",
+    code: "NEC-HALLTICKETUI-0436",
+    title: "Digital Hall Ticket View and Print Sheet - Item 436",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 81,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_436"]
+  },
+  {
+    id: "hallticketui-0437",
+    code: "NEC-HALLTICKETUI-0437",
+    title: "Digital Hall Ticket View and Print Sheet - Item 437",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 82,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_437"]
+  },
+  {
+    id: "hallticketui-0438",
+    code: "NEC-HALLTICKETUI-0438",
+    title: "Digital Hall Ticket View and Print Sheet - Item 438",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 83,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_438"]
+  },
+  {
+    id: "hallticketui-0439",
+    code: "NEC-HALLTICKETUI-0439",
+    title: "Digital Hall Ticket View and Print Sheet - Item 439",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 84,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_439"]
+  },
+  {
+    id: "hallticketui-0440",
+    code: "NEC-HALLTICKETUI-0440",
+    title: "Digital Hall Ticket View and Print Sheet - Item 440",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 85,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_440"]
+  },
+  {
+    id: "hallticketui-0441",
+    code: "NEC-HALLTICKETUI-0441",
+    title: "Digital Hall Ticket View and Print Sheet - Item 441",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 86,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_441"]
+  },
+  {
+    id: "hallticketui-0442",
+    code: "NEC-HALLTICKETUI-0442",
+    title: "Digital Hall Ticket View and Print Sheet - Item 442",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_442"]
+  },
+  {
+    id: "hallticketui-0443",
+    code: "NEC-HALLTICKETUI-0443",
+    title: "Digital Hall Ticket View and Print Sheet - Item 443",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 88,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_443"]
+  },
+  {
+    id: "hallticketui-0444",
+    code: "NEC-HALLTICKETUI-0444",
+    title: "Digital Hall Ticket View and Print Sheet - Item 444",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 89,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_444"]
+  },
+  {
+    id: "hallticketui-0445",
+    code: "NEC-HALLTICKETUI-0445",
+    title: "Digital Hall Ticket View and Print Sheet - Item 445",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 90,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_445"]
+  },
+  {
+    id: "hallticketui-0446",
+    code: "NEC-HALLTICKETUI-0446",
+    title: "Digital Hall Ticket View and Print Sheet - Item 446",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 91,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_446"]
+  },
+  {
+    id: "hallticketui-0447",
+    code: "NEC-HALLTICKETUI-0447",
+    title: "Digital Hall Ticket View and Print Sheet - Item 447",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 92,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_447"]
+  },
+  {
+    id: "hallticketui-0448",
+    code: "NEC-HALLTICKETUI-0448",
+    title: "Digital Hall Ticket View and Print Sheet - Item 448",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 93,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_448"]
+  },
+  {
+    id: "hallticketui-0449",
+    code: "NEC-HALLTICKETUI-0449",
+    title: "Digital Hall Ticket View and Print Sheet - Item 449",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 94,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_449"]
+  },
+  {
+    id: "hallticketui-0450",
+    code: "NEC-HALLTICKETUI-0450",
+    title: "Digital Hall Ticket View and Print Sheet - Item 450",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 70,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_450"]
+  },
+  {
+    id: "hallticketui-0451",
+    code: "NEC-HALLTICKETUI-0451",
+    title: "Digital Hall Ticket View and Print Sheet - Item 451",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 71,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_451"]
+  },
+  {
+    id: "hallticketui-0452",
+    code: "NEC-HALLTICKETUI-0452",
+    title: "Digital Hall Ticket View and Print Sheet - Item 452",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 72,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_452"]
+  },
+  {
+    id: "hallticketui-0453",
+    code: "NEC-HALLTICKETUI-0453",
+    title: "Digital Hall Ticket View and Print Sheet - Item 453",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 73,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_453"]
+  },
+  {
+    id: "hallticketui-0454",
+    code: "NEC-HALLTICKETUI-0454",
+    title: "Digital Hall Ticket View and Print Sheet - Item 454",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 74,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_454"]
+  },
+  {
+    id: "hallticketui-0455",
+    code: "NEC-HALLTICKETUI-0455",
+    title: "Digital Hall Ticket View and Print Sheet - Item 455",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_455"]
+  },
+  {
+    id: "hallticketui-0456",
+    code: "NEC-HALLTICKETUI-0456",
+    title: "Digital Hall Ticket View and Print Sheet - Item 456",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 76,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_456"]
+  },
+  {
+    id: "hallticketui-0457",
+    code: "NEC-HALLTICKETUI-0457",
+    title: "Digital Hall Ticket View and Print Sheet - Item 457",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 77,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_457"]
+  },
+  {
+    id: "hallticketui-0458",
+    code: "NEC-HALLTICKETUI-0458",
+    title: "Digital Hall Ticket View and Print Sheet - Item 458",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 78,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_458"]
+  },
+  {
+    id: "hallticketui-0459",
+    code: "NEC-HALLTICKETUI-0459",
+    title: "Digital Hall Ticket View and Print Sheet - Item 459",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 79,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_459"]
+  },
+  {
+    id: "hallticketui-0460",
+    code: "NEC-HALLTICKETUI-0460",
+    title: "Digital Hall Ticket View and Print Sheet - Item 460",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 80,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_460"]
+  },
+  {
+    id: "hallticketui-0461",
+    code: "NEC-HALLTICKETUI-0461",
+    title: "Digital Hall Ticket View and Print Sheet - Item 461",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 81,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_461"]
+  },
+  {
+    id: "hallticketui-0462",
+    code: "NEC-HALLTICKETUI-0462",
+    title: "Digital Hall Ticket View and Print Sheet - Item 462",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 82,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_462"]
+  },
+  {
+    id: "hallticketui-0463",
+    code: "NEC-HALLTICKETUI-0463",
+    title: "Digital Hall Ticket View and Print Sheet - Item 463",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 83,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_463"]
+  },
+  {
+    id: "hallticketui-0464",
+    code: "NEC-HALLTICKETUI-0464",
+    title: "Digital Hall Ticket View and Print Sheet - Item 464",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 84,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_464"]
+  },
+  {
+    id: "hallticketui-0465",
+    code: "NEC-HALLTICKETUI-0465",
+    title: "Digital Hall Ticket View and Print Sheet - Item 465",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 85,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_465"]
+  },
+  {
+    id: "hallticketui-0466",
+    code: "NEC-HALLTICKETUI-0466",
+    title: "Digital Hall Ticket View and Print Sheet - Item 466",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 86,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_466"]
+  },
+  {
+    id: "hallticketui-0467",
+    code: "NEC-HALLTICKETUI-0467",
+    title: "Digital Hall Ticket View and Print Sheet - Item 467",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_467"]
+  },
+  {
+    id: "hallticketui-0468",
+    code: "NEC-HALLTICKETUI-0468",
+    title: "Digital Hall Ticket View and Print Sheet - Item 468",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 88,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_468"]
+  },
+  {
+    id: "hallticketui-0469",
+    code: "NEC-HALLTICKETUI-0469",
+    title: "Digital Hall Ticket View and Print Sheet - Item 469",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 89,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_469"]
+  },
+  {
+    id: "hallticketui-0470",
+    code: "NEC-HALLTICKETUI-0470",
+    title: "Digital Hall Ticket View and Print Sheet - Item 470",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 90,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_470"]
+  },
+  {
+    id: "hallticketui-0471",
+    code: "NEC-HALLTICKETUI-0471",
+    title: "Digital Hall Ticket View and Print Sheet - Item 471",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 91,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_471"]
+  },
+  {
+    id: "hallticketui-0472",
+    code: "NEC-HALLTICKETUI-0472",
+    title: "Digital Hall Ticket View and Print Sheet - Item 472",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 92,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_472"]
+  },
+  {
+    id: "hallticketui-0473",
+    code: "NEC-HALLTICKETUI-0473",
+    title: "Digital Hall Ticket View and Print Sheet - Item 473",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 93,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_473"]
+  },
+  {
+    id: "hallticketui-0474",
+    code: "NEC-HALLTICKETUI-0474",
+    title: "Digital Hall Ticket View and Print Sheet - Item 474",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 94,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_474"]
+  },
+  {
+    id: "hallticketui-0475",
+    code: "NEC-HALLTICKETUI-0475",
+    title: "Digital Hall Ticket View and Print Sheet - Item 475",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 70,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_475"]
+  },
+  {
+    id: "hallticketui-0476",
+    code: "NEC-HALLTICKETUI-0476",
+    title: "Digital Hall Ticket View and Print Sheet - Item 476",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 71,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_476"]
+  },
+  {
+    id: "hallticketui-0477",
+    code: "NEC-HALLTICKETUI-0477",
+    title: "Digital Hall Ticket View and Print Sheet - Item 477",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 72,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_477"]
+  },
+  {
+    id: "hallticketui-0478",
+    code: "NEC-HALLTICKETUI-0478",
+    title: "Digital Hall Ticket View and Print Sheet - Item 478",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 73,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_478"]
+  },
+  {
+    id: "hallticketui-0479",
+    code: "NEC-HALLTICKETUI-0479",
+    title: "Digital Hall Ticket View and Print Sheet - Item 479",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 74,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_479"]
+  },
+  {
+    id: "hallticketui-0480",
+    code: "NEC-HALLTICKETUI-0480",
+    title: "Digital Hall Ticket View and Print Sheet - Item 480",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 75,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_480"]
+  },
+  {
+    id: "hallticketui-0481",
+    code: "NEC-HALLTICKETUI-0481",
+    title: "Digital Hall Ticket View and Print Sheet - Item 481",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 76,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_481"]
+  },
+  {
+    id: "hallticketui-0482",
+    code: "NEC-HALLTICKETUI-0482",
+    title: "Digital Hall Ticket View and Print Sheet - Item 482",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 77,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_482"]
+  },
+  {
+    id: "hallticketui-0483",
+    code: "NEC-HALLTICKETUI-0483",
+    title: "Digital Hall Ticket View and Print Sheet - Item 483",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 78,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_483"]
+  },
+  {
+    id: "hallticketui-0484",
+    code: "NEC-HALLTICKETUI-0484",
+    title: "Digital Hall Ticket View and Print Sheet - Item 484",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 79,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_484"]
+  },
+  {
+    id: "hallticketui-0485",
+    code: "NEC-HALLTICKETUI-0485",
+    title: "Digital Hall Ticket View and Print Sheet - Item 485",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 80,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_485"]
+  },
+  {
+    id: "hallticketui-0486",
+    code: "NEC-HALLTICKETUI-0486",
+    title: "Digital Hall Ticket View and Print Sheet - Item 486",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 81,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_486"]
+  },
+  {
+    id: "hallticketui-0487",
+    code: "NEC-HALLTICKETUI-0487",
+    title: "Digital Hall Ticket View and Print Sheet - Item 487",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 82,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_487"]
+  },
+  {
+    id: "hallticketui-0488",
+    code: "NEC-HALLTICKETUI-0488",
+    title: "Digital Hall Ticket View and Print Sheet - Item 488",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 83,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_488"]
+  },
+  {
+    id: "hallticketui-0489",
+    code: "NEC-HALLTICKETUI-0489",
+    title: "Digital Hall Ticket View and Print Sheet - Item 489",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 84,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_489"]
+  },
+  {
+    id: "hallticketui-0490",
+    code: "NEC-HALLTICKETUI-0490",
+    title: "Digital Hall Ticket View and Print Sheet - Item 490",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 85,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_490"]
+  },
+  {
+    id: "hallticketui-0491",
+    code: "NEC-HALLTICKETUI-0491",
+    title: "Digital Hall Ticket View and Print Sheet - Item 491",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 86,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_491"]
+  },
+  {
+    id: "hallticketui-0492",
+    code: "NEC-HALLTICKETUI-0492",
+    title: "Digital Hall Ticket View and Print Sheet - Item 492",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 87,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_492"]
+  },
+  {
+    id: "hallticketui-0493",
+    code: "NEC-HALLTICKETUI-0493",
+    title: "Digital Hall Ticket View and Print Sheet - Item 493",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 88,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_493"]
+  },
+  {
+    id: "hallticketui-0494",
+    code: "NEC-HALLTICKETUI-0494",
+    title: "Digital Hall Ticket View and Print Sheet - Item 494",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 89,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_494"]
+  },
+  {
+    id: "hallticketui-0495",
+    code: "NEC-HALLTICKETUI-0495",
+    title: "Digital Hall Ticket View and Print Sheet - Item 495",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 90,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_495"]
+  },
+  {
+    id: "hallticketui-0496",
+    code: "NEC-HALLTICKETUI-0496",
+    title: "Digital Hall Ticket View and Print Sheet - Item 496",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 91,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_496"]
+  },
+  {
+    id: "hallticketui-0497",
+    code: "NEC-HALLTICKETUI-0497",
+    title: "Digital Hall Ticket View and Print Sheet - Item 497",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 92,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_497"]
+  },
+  {
+    id: "hallticketui-0498",
+    code: "NEC-HALLTICKETUI-0498",
+    title: "Digital Hall Ticket View and Print Sheet - Item 498",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 93,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_498"]
+  },
+  {
+    id: "hallticketui-0499",
+    code: "NEC-HALLTICKETUI-0499",
+    title: "Digital Hall Ticket View and Print Sheet - Item 499",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 94,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_499"]
+  },
+  {
+    id: "hallticketui-0500",
+    code: "NEC-HALLTICKETUI-0500",
+    title: "Digital Hall Ticket View and Print Sheet - Item 500",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 70,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_500"]
+  },
+  {
+    id: "hallticketui-0501",
+    code: "NEC-HALLTICKETUI-0501",
+    title: "Digital Hall Ticket View and Print Sheet - Item 501",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 71,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_501"]
+  },
+  {
+    id: "hallticketui-0502",
+    code: "NEC-HALLTICKETUI-0502",
+    title: "Digital Hall Ticket View and Print Sheet - Item 502",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 72,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_502"]
+  },
+  {
+    id: "hallticketui-0503",
+    code: "NEC-HALLTICKETUI-0503",
+    title: "Digital Hall Ticket View and Print Sheet - Item 503",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 73,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_503"]
+  },
+  {
+    id: "hallticketui-0504",
+    code: "NEC-HALLTICKETUI-0504",
+    title: "Digital Hall Ticket View and Print Sheet - Item 504",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 74,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_504"]
+  },
+  {
+    id: "hallticketui-0505",
+    code: "NEC-HALLTICKETUI-0505",
+    title: "Digital Hall Ticket View and Print Sheet - Item 505",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_505"]
+  },
+  {
+    id: "hallticketui-0506",
+    code: "NEC-HALLTICKETUI-0506",
+    title: "Digital Hall Ticket View and Print Sheet - Item 506",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 76,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_506"]
+  },
+  {
+    id: "hallticketui-0507",
+    code: "NEC-HALLTICKETUI-0507",
+    title: "Digital Hall Ticket View and Print Sheet - Item 507",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 77,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_507"]
+  },
+  {
+    id: "hallticketui-0508",
+    code: "NEC-HALLTICKETUI-0508",
+    title: "Digital Hall Ticket View and Print Sheet - Item 508",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 78,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_508"]
+  },
+  {
+    id: "hallticketui-0509",
+    code: "NEC-HALLTICKETUI-0509",
+    title: "Digital Hall Ticket View and Print Sheet - Item 509",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 79,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_509"]
+  },
+  {
+    id: "hallticketui-0510",
+    code: "NEC-HALLTICKETUI-0510",
+    title: "Digital Hall Ticket View and Print Sheet - Item 510",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 80,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_510"]
+  },
+  {
+    id: "hallticketui-0511",
+    code: "NEC-HALLTICKETUI-0511",
+    title: "Digital Hall Ticket View and Print Sheet - Item 511",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 81,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_511"]
+  },
+  {
+    id: "hallticketui-0512",
+    code: "NEC-HALLTICKETUI-0512",
+    title: "Digital Hall Ticket View and Print Sheet - Item 512",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 82,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_512"]
+  },
+  {
+    id: "hallticketui-0513",
+    code: "NEC-HALLTICKETUI-0513",
+    title: "Digital Hall Ticket View and Print Sheet - Item 513",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 83,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_513"]
+  },
+  {
+    id: "hallticketui-0514",
+    code: "NEC-HALLTICKETUI-0514",
+    title: "Digital Hall Ticket View and Print Sheet - Item 514",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 84,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_514"]
+  },
+  {
+    id: "hallticketui-0515",
+    code: "NEC-HALLTICKETUI-0515",
+    title: "Digital Hall Ticket View and Print Sheet - Item 515",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 85,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_515"]
+  },
+  {
+    id: "hallticketui-0516",
+    code: "NEC-HALLTICKETUI-0516",
+    title: "Digital Hall Ticket View and Print Sheet - Item 516",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 86,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_516"]
+  },
+  {
+    id: "hallticketui-0517",
+    code: "NEC-HALLTICKETUI-0517",
+    title: "Digital Hall Ticket View and Print Sheet - Item 517",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_517"]
+  },
+  {
+    id: "hallticketui-0518",
+    code: "NEC-HALLTICKETUI-0518",
+    title: "Digital Hall Ticket View and Print Sheet - Item 518",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 88,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_518"]
+  },
+  {
+    id: "hallticketui-0519",
+    code: "NEC-HALLTICKETUI-0519",
+    title: "Digital Hall Ticket View and Print Sheet - Item 519",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 89,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_519"]
+  },
+  {
+    id: "hallticketui-0520",
+    code: "NEC-HALLTICKETUI-0520",
+    title: "Digital Hall Ticket View and Print Sheet - Item 520",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 90,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_520"]
+  },
+  {
+    id: "hallticketui-0521",
+    code: "NEC-HALLTICKETUI-0521",
+    title: "Digital Hall Ticket View and Print Sheet - Item 521",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 91,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_521"]
+  },
+  {
+    id: "hallticketui-0522",
+    code: "NEC-HALLTICKETUI-0522",
+    title: "Digital Hall Ticket View and Print Sheet - Item 522",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 92,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_522"]
+  },
+  {
+    id: "hallticketui-0523",
+    code: "NEC-HALLTICKETUI-0523",
+    title: "Digital Hall Ticket View and Print Sheet - Item 523",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 93,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_523"]
+  },
+  {
+    id: "hallticketui-0524",
+    code: "NEC-HALLTICKETUI-0524",
+    title: "Digital Hall Ticket View and Print Sheet - Item 524",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 94,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_524"]
+  },
+  {
+    id: "hallticketui-0525",
+    code: "NEC-HALLTICKETUI-0525",
+    title: "Digital Hall Ticket View and Print Sheet - Item 525",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 70,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_525"]
+  },
+  {
+    id: "hallticketui-0526",
+    code: "NEC-HALLTICKETUI-0526",
+    title: "Digital Hall Ticket View and Print Sheet - Item 526",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 71,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_526"]
+  },
+  {
+    id: "hallticketui-0527",
+    code: "NEC-HALLTICKETUI-0527",
+    title: "Digital Hall Ticket View and Print Sheet - Item 527",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 72,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_527"]
+  },
+  {
+    id: "hallticketui-0528",
+    code: "NEC-HALLTICKETUI-0528",
+    title: "Digital Hall Ticket View and Print Sheet - Item 528",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 73,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_528"]
+  },
+  {
+    id: "hallticketui-0529",
+    code: "NEC-HALLTICKETUI-0529",
+    title: "Digital Hall Ticket View and Print Sheet - Item 529",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 74,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_529"]
+  },
+  {
+    id: "hallticketui-0530",
+    code: "NEC-HALLTICKETUI-0530",
+    title: "Digital Hall Ticket View and Print Sheet - Item 530",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_530"]
+  },
+  {
+    id: "hallticketui-0531",
+    code: "NEC-HALLTICKETUI-0531",
+    title: "Digital Hall Ticket View and Print Sheet - Item 531",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 76,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_531"]
+  },
+  {
+    id: "hallticketui-0532",
+    code: "NEC-HALLTICKETUI-0532",
+    title: "Digital Hall Ticket View and Print Sheet - Item 532",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 77,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_532"]
+  },
+  {
+    id: "hallticketui-0533",
+    code: "NEC-HALLTICKETUI-0533",
+    title: "Digital Hall Ticket View and Print Sheet - Item 533",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 78,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_533"]
+  },
+  {
+    id: "hallticketui-0534",
+    code: "NEC-HALLTICKETUI-0534",
+    title: "Digital Hall Ticket View and Print Sheet - Item 534",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 79,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_534"]
+  },
+  {
+    id: "hallticketui-0535",
+    code: "NEC-HALLTICKETUI-0535",
+    title: "Digital Hall Ticket View and Print Sheet - Item 535",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 80,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_535"]
+  },
+  {
+    id: "hallticketui-0536",
+    code: "NEC-HALLTICKETUI-0536",
+    title: "Digital Hall Ticket View and Print Sheet - Item 536",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 81,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_536"]
+  },
+  {
+    id: "hallticketui-0537",
+    code: "NEC-HALLTICKETUI-0537",
+    title: "Digital Hall Ticket View and Print Sheet - Item 537",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 82,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_537"]
+  },
+  {
+    id: "hallticketui-0538",
+    code: "NEC-HALLTICKETUI-0538",
+    title: "Digital Hall Ticket View and Print Sheet - Item 538",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 83,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_538"]
+  },
+  {
+    id: "hallticketui-0539",
+    code: "NEC-HALLTICKETUI-0539",
+    title: "Digital Hall Ticket View and Print Sheet - Item 539",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 84,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_539"]
+  },
+  {
+    id: "hallticketui-0540",
+    code: "NEC-HALLTICKETUI-0540",
+    title: "Digital Hall Ticket View and Print Sheet - Item 540",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 85,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_540"]
+  },
+  {
+    id: "hallticketui-0541",
+    code: "NEC-HALLTICKETUI-0541",
+    title: "Digital Hall Ticket View and Print Sheet - Item 541",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 86,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_541"]
+  },
+  {
+    id: "hallticketui-0542",
+    code: "NEC-HALLTICKETUI-0542",
+    title: "Digital Hall Ticket View and Print Sheet - Item 542",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_542"]
+  },
+  {
+    id: "hallticketui-0543",
+    code: "NEC-HALLTICKETUI-0543",
+    title: "Digital Hall Ticket View and Print Sheet - Item 543",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 88,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_543"]
+  },
+  {
+    id: "hallticketui-0544",
+    code: "NEC-HALLTICKETUI-0544",
+    title: "Digital Hall Ticket View and Print Sheet - Item 544",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 89,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_544"]
+  },
+  {
+    id: "hallticketui-0545",
+    code: "NEC-HALLTICKETUI-0545",
+    title: "Digital Hall Ticket View and Print Sheet - Item 545",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 90,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_545"]
+  },
+  {
+    id: "hallticketui-0546",
+    code: "NEC-HALLTICKETUI-0546",
+    title: "Digital Hall Ticket View and Print Sheet - Item 546",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 91,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_546"]
+  },
+  {
+    id: "hallticketui-0547",
+    code: "NEC-HALLTICKETUI-0547",
+    title: "Digital Hall Ticket View and Print Sheet - Item 547",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 92,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_547"]
+  },
+  {
+    id: "hallticketui-0548",
+    code: "NEC-HALLTICKETUI-0548",
+    title: "Digital Hall Ticket View and Print Sheet - Item 548",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 93,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_548"]
+  },
+  {
+    id: "hallticketui-0549",
+    code: "NEC-HALLTICKETUI-0549",
+    title: "Digital Hall Ticket View and Print Sheet - Item 549",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 94,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_549"]
+  },
+  {
+    id: "hallticketui-0550",
+    code: "NEC-HALLTICKETUI-0550",
+    title: "Digital Hall Ticket View and Print Sheet - Item 550",
+    category: "HALLTICKETUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 70,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_550"]
+  },
 ];
 
 export function filterHALLTICKETUIBySemester(semester: number): AcademicEntityItem[] {

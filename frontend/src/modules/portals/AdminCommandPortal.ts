@@ -6821,6 +6821,2006 @@ export const ADMINPORTAL_REGISTRY: AcademicEntityItem[] = [
     },
     tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_425"]
   },
+  {
+    id: "adminportal-0426",
+    code: "NEC-ADMINPORTAL-0426",
+    title: "Administrator Operations Command Center - Item 426",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 71,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_426"]
+  },
+  {
+    id: "adminportal-0427",
+    code: "NEC-ADMINPORTAL-0427",
+    title: "Administrator Operations Command Center - Item 427",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 72,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_427"]
+  },
+  {
+    id: "adminportal-0428",
+    code: "NEC-ADMINPORTAL-0428",
+    title: "Administrator Operations Command Center - Item 428",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 73,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_428"]
+  },
+  {
+    id: "adminportal-0429",
+    code: "NEC-ADMINPORTAL-0429",
+    title: "Administrator Operations Command Center - Item 429",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 74,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_429"]
+  },
+  {
+    id: "adminportal-0430",
+    code: "NEC-ADMINPORTAL-0430",
+    title: "Administrator Operations Command Center - Item 430",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_430"]
+  },
+  {
+    id: "adminportal-0431",
+    code: "NEC-ADMINPORTAL-0431",
+    title: "Administrator Operations Command Center - Item 431",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 76,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_431"]
+  },
+  {
+    id: "adminportal-0432",
+    code: "NEC-ADMINPORTAL-0432",
+    title: "Administrator Operations Command Center - Item 432",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 77,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_432"]
+  },
+  {
+    id: "adminportal-0433",
+    code: "NEC-ADMINPORTAL-0433",
+    title: "Administrator Operations Command Center - Item 433",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 78,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_433"]
+  },
+  {
+    id: "adminportal-0434",
+    code: "NEC-ADMINPORTAL-0434",
+    title: "Administrator Operations Command Center - Item 434",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 79,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_434"]
+  },
+  {
+    id: "adminportal-0435",
+    code: "NEC-ADMINPORTAL-0435",
+    title: "Administrator Operations Command Center - Item 435",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 80,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_435"]
+  },
+  {
+    id: "adminportal-0436",
+    code: "NEC-ADMINPORTAL-0436",
+    title: "Administrator Operations Command Center - Item 436",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 81,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_436"]
+  },
+  {
+    id: "adminportal-0437",
+    code: "NEC-ADMINPORTAL-0437",
+    title: "Administrator Operations Command Center - Item 437",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 82,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_437"]
+  },
+  {
+    id: "adminportal-0438",
+    code: "NEC-ADMINPORTAL-0438",
+    title: "Administrator Operations Command Center - Item 438",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 83,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_438"]
+  },
+  {
+    id: "adminportal-0439",
+    code: "NEC-ADMINPORTAL-0439",
+    title: "Administrator Operations Command Center - Item 439",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 84,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_439"]
+  },
+  {
+    id: "adminportal-0440",
+    code: "NEC-ADMINPORTAL-0440",
+    title: "Administrator Operations Command Center - Item 440",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 85,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_440"]
+  },
+  {
+    id: "adminportal-0441",
+    code: "NEC-ADMINPORTAL-0441",
+    title: "Administrator Operations Command Center - Item 441",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 86,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_441"]
+  },
+  {
+    id: "adminportal-0442",
+    code: "NEC-ADMINPORTAL-0442",
+    title: "Administrator Operations Command Center - Item 442",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_442"]
+  },
+  {
+    id: "adminportal-0443",
+    code: "NEC-ADMINPORTAL-0443",
+    title: "Administrator Operations Command Center - Item 443",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 88,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_443"]
+  },
+  {
+    id: "adminportal-0444",
+    code: "NEC-ADMINPORTAL-0444",
+    title: "Administrator Operations Command Center - Item 444",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 89,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_444"]
+  },
+  {
+    id: "adminportal-0445",
+    code: "NEC-ADMINPORTAL-0445",
+    title: "Administrator Operations Command Center - Item 445",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 90,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_445"]
+  },
+  {
+    id: "adminportal-0446",
+    code: "NEC-ADMINPORTAL-0446",
+    title: "Administrator Operations Command Center - Item 446",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 91,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_446"]
+  },
+  {
+    id: "adminportal-0447",
+    code: "NEC-ADMINPORTAL-0447",
+    title: "Administrator Operations Command Center - Item 447",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 92,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_447"]
+  },
+  {
+    id: "adminportal-0448",
+    code: "NEC-ADMINPORTAL-0448",
+    title: "Administrator Operations Command Center - Item 448",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 93,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_448"]
+  },
+  {
+    id: "adminportal-0449",
+    code: "NEC-ADMINPORTAL-0449",
+    title: "Administrator Operations Command Center - Item 449",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 94,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_449"]
+  },
+  {
+    id: "adminportal-0450",
+    code: "NEC-ADMINPORTAL-0450",
+    title: "Administrator Operations Command Center - Item 450",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 70,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_450"]
+  },
+  {
+    id: "adminportal-0451",
+    code: "NEC-ADMINPORTAL-0451",
+    title: "Administrator Operations Command Center - Item 451",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 71,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_451"]
+  },
+  {
+    id: "adminportal-0452",
+    code: "NEC-ADMINPORTAL-0452",
+    title: "Administrator Operations Command Center - Item 452",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 72,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_452"]
+  },
+  {
+    id: "adminportal-0453",
+    code: "NEC-ADMINPORTAL-0453",
+    title: "Administrator Operations Command Center - Item 453",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 73,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_453"]
+  },
+  {
+    id: "adminportal-0454",
+    code: "NEC-ADMINPORTAL-0454",
+    title: "Administrator Operations Command Center - Item 454",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 74,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_454"]
+  },
+  {
+    id: "adminportal-0455",
+    code: "NEC-ADMINPORTAL-0455",
+    title: "Administrator Operations Command Center - Item 455",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_455"]
+  },
+  {
+    id: "adminportal-0456",
+    code: "NEC-ADMINPORTAL-0456",
+    title: "Administrator Operations Command Center - Item 456",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 76,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_456"]
+  },
+  {
+    id: "adminportal-0457",
+    code: "NEC-ADMINPORTAL-0457",
+    title: "Administrator Operations Command Center - Item 457",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 77,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_457"]
+  },
+  {
+    id: "adminportal-0458",
+    code: "NEC-ADMINPORTAL-0458",
+    title: "Administrator Operations Command Center - Item 458",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 78,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_458"]
+  },
+  {
+    id: "adminportal-0459",
+    code: "NEC-ADMINPORTAL-0459",
+    title: "Administrator Operations Command Center - Item 459",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 79,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_459"]
+  },
+  {
+    id: "adminportal-0460",
+    code: "NEC-ADMINPORTAL-0460",
+    title: "Administrator Operations Command Center - Item 460",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 80,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_460"]
+  },
+  {
+    id: "adminportal-0461",
+    code: "NEC-ADMINPORTAL-0461",
+    title: "Administrator Operations Command Center - Item 461",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 81,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_461"]
+  },
+  {
+    id: "adminportal-0462",
+    code: "NEC-ADMINPORTAL-0462",
+    title: "Administrator Operations Command Center - Item 462",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 82,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_462"]
+  },
+  {
+    id: "adminportal-0463",
+    code: "NEC-ADMINPORTAL-0463",
+    title: "Administrator Operations Command Center - Item 463",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 83,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_463"]
+  },
+  {
+    id: "adminportal-0464",
+    code: "NEC-ADMINPORTAL-0464",
+    title: "Administrator Operations Command Center - Item 464",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 84,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_464"]
+  },
+  {
+    id: "adminportal-0465",
+    code: "NEC-ADMINPORTAL-0465",
+    title: "Administrator Operations Command Center - Item 465",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 85,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_465"]
+  },
+  {
+    id: "adminportal-0466",
+    code: "NEC-ADMINPORTAL-0466",
+    title: "Administrator Operations Command Center - Item 466",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 86,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_466"]
+  },
+  {
+    id: "adminportal-0467",
+    code: "NEC-ADMINPORTAL-0467",
+    title: "Administrator Operations Command Center - Item 467",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_467"]
+  },
+  {
+    id: "adminportal-0468",
+    code: "NEC-ADMINPORTAL-0468",
+    title: "Administrator Operations Command Center - Item 468",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 88,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_468"]
+  },
+  {
+    id: "adminportal-0469",
+    code: "NEC-ADMINPORTAL-0469",
+    title: "Administrator Operations Command Center - Item 469",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 89,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_469"]
+  },
+  {
+    id: "adminportal-0470",
+    code: "NEC-ADMINPORTAL-0470",
+    title: "Administrator Operations Command Center - Item 470",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 90,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_470"]
+  },
+  {
+    id: "adminportal-0471",
+    code: "NEC-ADMINPORTAL-0471",
+    title: "Administrator Operations Command Center - Item 471",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 91,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_471"]
+  },
+  {
+    id: "adminportal-0472",
+    code: "NEC-ADMINPORTAL-0472",
+    title: "Administrator Operations Command Center - Item 472",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 92,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_472"]
+  },
+  {
+    id: "adminportal-0473",
+    code: "NEC-ADMINPORTAL-0473",
+    title: "Administrator Operations Command Center - Item 473",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 93,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_473"]
+  },
+  {
+    id: "adminportal-0474",
+    code: "NEC-ADMINPORTAL-0474",
+    title: "Administrator Operations Command Center - Item 474",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 94,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_474"]
+  },
+  {
+    id: "adminportal-0475",
+    code: "NEC-ADMINPORTAL-0475",
+    title: "Administrator Operations Command Center - Item 475",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 70,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_475"]
+  },
+  {
+    id: "adminportal-0476",
+    code: "NEC-ADMINPORTAL-0476",
+    title: "Administrator Operations Command Center - Item 476",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 71,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_476"]
+  },
+  {
+    id: "adminportal-0477",
+    code: "NEC-ADMINPORTAL-0477",
+    title: "Administrator Operations Command Center - Item 477",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 72,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_477"]
+  },
+  {
+    id: "adminportal-0478",
+    code: "NEC-ADMINPORTAL-0478",
+    title: "Administrator Operations Command Center - Item 478",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 73,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_478"]
+  },
+  {
+    id: "adminportal-0479",
+    code: "NEC-ADMINPORTAL-0479",
+    title: "Administrator Operations Command Center - Item 479",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 74,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_479"]
+  },
+  {
+    id: "adminportal-0480",
+    code: "NEC-ADMINPORTAL-0480",
+    title: "Administrator Operations Command Center - Item 480",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 75,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_480"]
+  },
+  {
+    id: "adminportal-0481",
+    code: "NEC-ADMINPORTAL-0481",
+    title: "Administrator Operations Command Center - Item 481",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 76,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_481"]
+  },
+  {
+    id: "adminportal-0482",
+    code: "NEC-ADMINPORTAL-0482",
+    title: "Administrator Operations Command Center - Item 482",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 77,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_482"]
+  },
+  {
+    id: "adminportal-0483",
+    code: "NEC-ADMINPORTAL-0483",
+    title: "Administrator Operations Command Center - Item 483",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 78,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_483"]
+  },
+  {
+    id: "adminportal-0484",
+    code: "NEC-ADMINPORTAL-0484",
+    title: "Administrator Operations Command Center - Item 484",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 79,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_484"]
+  },
+  {
+    id: "adminportal-0485",
+    code: "NEC-ADMINPORTAL-0485",
+    title: "Administrator Operations Command Center - Item 485",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 80,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_485"]
+  },
+  {
+    id: "adminportal-0486",
+    code: "NEC-ADMINPORTAL-0486",
+    title: "Administrator Operations Command Center - Item 486",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 81,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_486"]
+  },
+  {
+    id: "adminportal-0487",
+    code: "NEC-ADMINPORTAL-0487",
+    title: "Administrator Operations Command Center - Item 487",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 82,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_487"]
+  },
+  {
+    id: "adminportal-0488",
+    code: "NEC-ADMINPORTAL-0488",
+    title: "Administrator Operations Command Center - Item 488",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 83,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_488"]
+  },
+  {
+    id: "adminportal-0489",
+    code: "NEC-ADMINPORTAL-0489",
+    title: "Administrator Operations Command Center - Item 489",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 84,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_489"]
+  },
+  {
+    id: "adminportal-0490",
+    code: "NEC-ADMINPORTAL-0490",
+    title: "Administrator Operations Command Center - Item 490",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 85,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_490"]
+  },
+  {
+    id: "adminportal-0491",
+    code: "NEC-ADMINPORTAL-0491",
+    title: "Administrator Operations Command Center - Item 491",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 86,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_491"]
+  },
+  {
+    id: "adminportal-0492",
+    code: "NEC-ADMINPORTAL-0492",
+    title: "Administrator Operations Command Center - Item 492",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 87,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_492"]
+  },
+  {
+    id: "adminportal-0493",
+    code: "NEC-ADMINPORTAL-0493",
+    title: "Administrator Operations Command Center - Item 493",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 88,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_493"]
+  },
+  {
+    id: "adminportal-0494",
+    code: "NEC-ADMINPORTAL-0494",
+    title: "Administrator Operations Command Center - Item 494",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 89,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_494"]
+  },
+  {
+    id: "adminportal-0495",
+    code: "NEC-ADMINPORTAL-0495",
+    title: "Administrator Operations Command Center - Item 495",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 90,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_495"]
+  },
+  {
+    id: "adminportal-0496",
+    code: "NEC-ADMINPORTAL-0496",
+    title: "Administrator Operations Command Center - Item 496",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 91,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_496"]
+  },
+  {
+    id: "adminportal-0497",
+    code: "NEC-ADMINPORTAL-0497",
+    title: "Administrator Operations Command Center - Item 497",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 92,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_497"]
+  },
+  {
+    id: "adminportal-0498",
+    code: "NEC-ADMINPORTAL-0498",
+    title: "Administrator Operations Command Center - Item 498",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 93,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_498"]
+  },
+  {
+    id: "adminportal-0499",
+    code: "NEC-ADMINPORTAL-0499",
+    title: "Administrator Operations Command Center - Item 499",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 94,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_499"]
+  },
+  {
+    id: "adminportal-0500",
+    code: "NEC-ADMINPORTAL-0500",
+    title: "Administrator Operations Command Center - Item 500",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 70,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_500"]
+  },
+  {
+    id: "adminportal-0501",
+    code: "NEC-ADMINPORTAL-0501",
+    title: "Administrator Operations Command Center - Item 501",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 71,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_501"]
+  },
+  {
+    id: "adminportal-0502",
+    code: "NEC-ADMINPORTAL-0502",
+    title: "Administrator Operations Command Center - Item 502",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 72,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_502"]
+  },
+  {
+    id: "adminportal-0503",
+    code: "NEC-ADMINPORTAL-0503",
+    title: "Administrator Operations Command Center - Item 503",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 73,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_503"]
+  },
+  {
+    id: "adminportal-0504",
+    code: "NEC-ADMINPORTAL-0504",
+    title: "Administrator Operations Command Center - Item 504",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 74,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_504"]
+  },
+  {
+    id: "adminportal-0505",
+    code: "NEC-ADMINPORTAL-0505",
+    title: "Administrator Operations Command Center - Item 505",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_505"]
+  },
+  {
+    id: "adminportal-0506",
+    code: "NEC-ADMINPORTAL-0506",
+    title: "Administrator Operations Command Center - Item 506",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 76,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_506"]
+  },
+  {
+    id: "adminportal-0507",
+    code: "NEC-ADMINPORTAL-0507",
+    title: "Administrator Operations Command Center - Item 507",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 77,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_507"]
+  },
+  {
+    id: "adminportal-0508",
+    code: "NEC-ADMINPORTAL-0508",
+    title: "Administrator Operations Command Center - Item 508",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 78,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_508"]
+  },
+  {
+    id: "adminportal-0509",
+    code: "NEC-ADMINPORTAL-0509",
+    title: "Administrator Operations Command Center - Item 509",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 79,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_509"]
+  },
+  {
+    id: "adminportal-0510",
+    code: "NEC-ADMINPORTAL-0510",
+    title: "Administrator Operations Command Center - Item 510",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 80,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_510"]
+  },
+  {
+    id: "adminportal-0511",
+    code: "NEC-ADMINPORTAL-0511",
+    title: "Administrator Operations Command Center - Item 511",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 81,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_511"]
+  },
+  {
+    id: "adminportal-0512",
+    code: "NEC-ADMINPORTAL-0512",
+    title: "Administrator Operations Command Center - Item 512",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 82,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_512"]
+  },
+  {
+    id: "adminportal-0513",
+    code: "NEC-ADMINPORTAL-0513",
+    title: "Administrator Operations Command Center - Item 513",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 83,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_513"]
+  },
+  {
+    id: "adminportal-0514",
+    code: "NEC-ADMINPORTAL-0514",
+    title: "Administrator Operations Command Center - Item 514",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 84,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_514"]
+  },
+  {
+    id: "adminportal-0515",
+    code: "NEC-ADMINPORTAL-0515",
+    title: "Administrator Operations Command Center - Item 515",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 85,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_515"]
+  },
+  {
+    id: "adminportal-0516",
+    code: "NEC-ADMINPORTAL-0516",
+    title: "Administrator Operations Command Center - Item 516",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 86,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_516"]
+  },
+  {
+    id: "adminportal-0517",
+    code: "NEC-ADMINPORTAL-0517",
+    title: "Administrator Operations Command Center - Item 517",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_517"]
+  },
+  {
+    id: "adminportal-0518",
+    code: "NEC-ADMINPORTAL-0518",
+    title: "Administrator Operations Command Center - Item 518",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 88,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_518"]
+  },
+  {
+    id: "adminportal-0519",
+    code: "NEC-ADMINPORTAL-0519",
+    title: "Administrator Operations Command Center - Item 519",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 89,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_519"]
+  },
+  {
+    id: "adminportal-0520",
+    code: "NEC-ADMINPORTAL-0520",
+    title: "Administrator Operations Command Center - Item 520",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 90,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_520"]
+  },
+  {
+    id: "adminportal-0521",
+    code: "NEC-ADMINPORTAL-0521",
+    title: "Administrator Operations Command Center - Item 521",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 91,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_521"]
+  },
+  {
+    id: "adminportal-0522",
+    code: "NEC-ADMINPORTAL-0522",
+    title: "Administrator Operations Command Center - Item 522",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 92,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_522"]
+  },
+  {
+    id: "adminportal-0523",
+    code: "NEC-ADMINPORTAL-0523",
+    title: "Administrator Operations Command Center - Item 523",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 93,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_523"]
+  },
+  {
+    id: "adminportal-0524",
+    code: "NEC-ADMINPORTAL-0524",
+    title: "Administrator Operations Command Center - Item 524",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 94,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_524"]
+  },
+  {
+    id: "adminportal-0525",
+    code: "NEC-ADMINPORTAL-0525",
+    title: "Administrator Operations Command Center - Item 525",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 70,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_525"]
+  },
+  {
+    id: "adminportal-0526",
+    code: "NEC-ADMINPORTAL-0526",
+    title: "Administrator Operations Command Center - Item 526",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 71,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_526"]
+  },
+  {
+    id: "adminportal-0527",
+    code: "NEC-ADMINPORTAL-0527",
+    title: "Administrator Operations Command Center - Item 527",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 72,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_527"]
+  },
+  {
+    id: "adminportal-0528",
+    code: "NEC-ADMINPORTAL-0528",
+    title: "Administrator Operations Command Center - Item 528",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 73,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_528"]
+  },
+  {
+    id: "adminportal-0529",
+    code: "NEC-ADMINPORTAL-0529",
+    title: "Administrator Operations Command Center - Item 529",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 74,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_529"]
+  },
+  {
+    id: "adminportal-0530",
+    code: "NEC-ADMINPORTAL-0530",
+    title: "Administrator Operations Command Center - Item 530",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_530"]
+  },
+  {
+    id: "adminportal-0531",
+    code: "NEC-ADMINPORTAL-0531",
+    title: "Administrator Operations Command Center - Item 531",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 76,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_531"]
+  },
+  {
+    id: "adminportal-0532",
+    code: "NEC-ADMINPORTAL-0532",
+    title: "Administrator Operations Command Center - Item 532",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 77,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_532"]
+  },
+  {
+    id: "adminportal-0533",
+    code: "NEC-ADMINPORTAL-0533",
+    title: "Administrator Operations Command Center - Item 533",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 78,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_533"]
+  },
+  {
+    id: "adminportal-0534",
+    code: "NEC-ADMINPORTAL-0534",
+    title: "Administrator Operations Command Center - Item 534",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 79,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_534"]
+  },
+  {
+    id: "adminportal-0535",
+    code: "NEC-ADMINPORTAL-0535",
+    title: "Administrator Operations Command Center - Item 535",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 80,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_535"]
+  },
+  {
+    id: "adminportal-0536",
+    code: "NEC-ADMINPORTAL-0536",
+    title: "Administrator Operations Command Center - Item 536",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 81,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_536"]
+  },
+  {
+    id: "adminportal-0537",
+    code: "NEC-ADMINPORTAL-0537",
+    title: "Administrator Operations Command Center - Item 537",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 82,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_537"]
+  },
+  {
+    id: "adminportal-0538",
+    code: "NEC-ADMINPORTAL-0538",
+    title: "Administrator Operations Command Center - Item 538",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 83,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_538"]
+  },
+  {
+    id: "adminportal-0539",
+    code: "NEC-ADMINPORTAL-0539",
+    title: "Administrator Operations Command Center - Item 539",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 84,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_539"]
+  },
+  {
+    id: "adminportal-0540",
+    code: "NEC-ADMINPORTAL-0540",
+    title: "Administrator Operations Command Center - Item 540",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 85,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_540"]
+  },
+  {
+    id: "adminportal-0541",
+    code: "NEC-ADMINPORTAL-0541",
+    title: "Administrator Operations Command Center - Item 541",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 86,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_541"]
+  },
+  {
+    id: "adminportal-0542",
+    code: "NEC-ADMINPORTAL-0542",
+    title: "Administrator Operations Command Center - Item 542",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_542"]
+  },
+  {
+    id: "adminportal-0543",
+    code: "NEC-ADMINPORTAL-0543",
+    title: "Administrator Operations Command Center - Item 543",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 88,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_543"]
+  },
+  {
+    id: "adminportal-0544",
+    code: "NEC-ADMINPORTAL-0544",
+    title: "Administrator Operations Command Center - Item 544",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 89,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_544"]
+  },
+  {
+    id: "adminportal-0545",
+    code: "NEC-ADMINPORTAL-0545",
+    title: "Administrator Operations Command Center - Item 545",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 90,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_545"]
+  },
+  {
+    id: "adminportal-0546",
+    code: "NEC-ADMINPORTAL-0546",
+    title: "Administrator Operations Command Center - Item 546",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 91,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_546"]
+  },
+  {
+    id: "adminportal-0547",
+    code: "NEC-ADMINPORTAL-0547",
+    title: "Administrator Operations Command Center - Item 547",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 92,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_547"]
+  },
+  {
+    id: "adminportal-0548",
+    code: "NEC-ADMINPORTAL-0548",
+    title: "Administrator Operations Command Center - Item 548",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 93,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_548"]
+  },
+  {
+    id: "adminportal-0549",
+    code: "NEC-ADMINPORTAL-0549",
+    title: "Administrator Operations Command Center - Item 549",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 94,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_549"]
+  },
+  {
+    id: "adminportal-0550",
+    code: "NEC-ADMINPORTAL-0550",
+    title: "Administrator Operations Command Center - Item 550",
+    category: "ADMINPORTAL_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 70,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_550"]
+  },
 ];
 
 export function filterADMINPORTALBySemester(semester: number): AcademicEntityItem[] {

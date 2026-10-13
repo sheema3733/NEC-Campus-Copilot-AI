@@ -6821,6 +6821,2006 @@ export const TIMETABLEGRID_REGISTRY: AcademicEntityItem[] = [
     },
     tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_425"]
   },
+  {
+    id: "timetablegrid-0426",
+    code: "NEC-TIMETABLEGRID-0426",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 426",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 71,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_426"]
+  },
+  {
+    id: "timetablegrid-0427",
+    code: "NEC-TIMETABLEGRID-0427",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 427",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 72,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_427"]
+  },
+  {
+    id: "timetablegrid-0428",
+    code: "NEC-TIMETABLEGRID-0428",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 428",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 73,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_428"]
+  },
+  {
+    id: "timetablegrid-0429",
+    code: "NEC-TIMETABLEGRID-0429",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 429",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 74,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_429"]
+  },
+  {
+    id: "timetablegrid-0430",
+    code: "NEC-TIMETABLEGRID-0430",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 430",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_430"]
+  },
+  {
+    id: "timetablegrid-0431",
+    code: "NEC-TIMETABLEGRID-0431",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 431",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 76,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_431"]
+  },
+  {
+    id: "timetablegrid-0432",
+    code: "NEC-TIMETABLEGRID-0432",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 432",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 77,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_432"]
+  },
+  {
+    id: "timetablegrid-0433",
+    code: "NEC-TIMETABLEGRID-0433",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 433",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 78,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_433"]
+  },
+  {
+    id: "timetablegrid-0434",
+    code: "NEC-TIMETABLEGRID-0434",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 434",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 79,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_434"]
+  },
+  {
+    id: "timetablegrid-0435",
+    code: "NEC-TIMETABLEGRID-0435",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 435",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 80,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_435"]
+  },
+  {
+    id: "timetablegrid-0436",
+    code: "NEC-TIMETABLEGRID-0436",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 436",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 81,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_436"]
+  },
+  {
+    id: "timetablegrid-0437",
+    code: "NEC-TIMETABLEGRID-0437",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 437",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 82,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_437"]
+  },
+  {
+    id: "timetablegrid-0438",
+    code: "NEC-TIMETABLEGRID-0438",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 438",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 83,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_438"]
+  },
+  {
+    id: "timetablegrid-0439",
+    code: "NEC-TIMETABLEGRID-0439",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 439",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 84,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_439"]
+  },
+  {
+    id: "timetablegrid-0440",
+    code: "NEC-TIMETABLEGRID-0440",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 440",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 85,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_440"]
+  },
+  {
+    id: "timetablegrid-0441",
+    code: "NEC-TIMETABLEGRID-0441",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 441",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 86,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_441"]
+  },
+  {
+    id: "timetablegrid-0442",
+    code: "NEC-TIMETABLEGRID-0442",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 442",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_442"]
+  },
+  {
+    id: "timetablegrid-0443",
+    code: "NEC-TIMETABLEGRID-0443",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 443",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 88,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_443"]
+  },
+  {
+    id: "timetablegrid-0444",
+    code: "NEC-TIMETABLEGRID-0444",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 444",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 89,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_444"]
+  },
+  {
+    id: "timetablegrid-0445",
+    code: "NEC-TIMETABLEGRID-0445",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 445",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 90,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_445"]
+  },
+  {
+    id: "timetablegrid-0446",
+    code: "NEC-TIMETABLEGRID-0446",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 446",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 91,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_446"]
+  },
+  {
+    id: "timetablegrid-0447",
+    code: "NEC-TIMETABLEGRID-0447",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 447",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 92,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_447"]
+  },
+  {
+    id: "timetablegrid-0448",
+    code: "NEC-TIMETABLEGRID-0448",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 448",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 93,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_448"]
+  },
+  {
+    id: "timetablegrid-0449",
+    code: "NEC-TIMETABLEGRID-0449",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 449",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 94,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_449"]
+  },
+  {
+    id: "timetablegrid-0450",
+    code: "NEC-TIMETABLEGRID-0450",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 450",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 70,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_450"]
+  },
+  {
+    id: "timetablegrid-0451",
+    code: "NEC-TIMETABLEGRID-0451",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 451",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 71,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_451"]
+  },
+  {
+    id: "timetablegrid-0452",
+    code: "NEC-TIMETABLEGRID-0452",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 452",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 72,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_452"]
+  },
+  {
+    id: "timetablegrid-0453",
+    code: "NEC-TIMETABLEGRID-0453",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 453",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 73,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_453"]
+  },
+  {
+    id: "timetablegrid-0454",
+    code: "NEC-TIMETABLEGRID-0454",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 454",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 74,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_454"]
+  },
+  {
+    id: "timetablegrid-0455",
+    code: "NEC-TIMETABLEGRID-0455",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 455",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_455"]
+  },
+  {
+    id: "timetablegrid-0456",
+    code: "NEC-TIMETABLEGRID-0456",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 456",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 76,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_456"]
+  },
+  {
+    id: "timetablegrid-0457",
+    code: "NEC-TIMETABLEGRID-0457",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 457",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 77,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_457"]
+  },
+  {
+    id: "timetablegrid-0458",
+    code: "NEC-TIMETABLEGRID-0458",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 458",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 78,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_458"]
+  },
+  {
+    id: "timetablegrid-0459",
+    code: "NEC-TIMETABLEGRID-0459",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 459",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 79,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_459"]
+  },
+  {
+    id: "timetablegrid-0460",
+    code: "NEC-TIMETABLEGRID-0460",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 460",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 80,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_460"]
+  },
+  {
+    id: "timetablegrid-0461",
+    code: "NEC-TIMETABLEGRID-0461",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 461",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 81,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_461"]
+  },
+  {
+    id: "timetablegrid-0462",
+    code: "NEC-TIMETABLEGRID-0462",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 462",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 82,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_462"]
+  },
+  {
+    id: "timetablegrid-0463",
+    code: "NEC-TIMETABLEGRID-0463",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 463",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 83,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_463"]
+  },
+  {
+    id: "timetablegrid-0464",
+    code: "NEC-TIMETABLEGRID-0464",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 464",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 84,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_464"]
+  },
+  {
+    id: "timetablegrid-0465",
+    code: "NEC-TIMETABLEGRID-0465",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 465",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 85,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_465"]
+  },
+  {
+    id: "timetablegrid-0466",
+    code: "NEC-TIMETABLEGRID-0466",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 466",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 86,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_466"]
+  },
+  {
+    id: "timetablegrid-0467",
+    code: "NEC-TIMETABLEGRID-0467",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 467",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_467"]
+  },
+  {
+    id: "timetablegrid-0468",
+    code: "NEC-TIMETABLEGRID-0468",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 468",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 88,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_468"]
+  },
+  {
+    id: "timetablegrid-0469",
+    code: "NEC-TIMETABLEGRID-0469",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 469",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 89,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_469"]
+  },
+  {
+    id: "timetablegrid-0470",
+    code: "NEC-TIMETABLEGRID-0470",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 470",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 90,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_470"]
+  },
+  {
+    id: "timetablegrid-0471",
+    code: "NEC-TIMETABLEGRID-0471",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 471",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 91,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_471"]
+  },
+  {
+    id: "timetablegrid-0472",
+    code: "NEC-TIMETABLEGRID-0472",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 472",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 92,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_472"]
+  },
+  {
+    id: "timetablegrid-0473",
+    code: "NEC-TIMETABLEGRID-0473",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 473",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 93,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_473"]
+  },
+  {
+    id: "timetablegrid-0474",
+    code: "NEC-TIMETABLEGRID-0474",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 474",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 94,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_474"]
+  },
+  {
+    id: "timetablegrid-0475",
+    code: "NEC-TIMETABLEGRID-0475",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 475",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 70,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_475"]
+  },
+  {
+    id: "timetablegrid-0476",
+    code: "NEC-TIMETABLEGRID-0476",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 476",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 71,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_476"]
+  },
+  {
+    id: "timetablegrid-0477",
+    code: "NEC-TIMETABLEGRID-0477",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 477",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 72,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_477"]
+  },
+  {
+    id: "timetablegrid-0478",
+    code: "NEC-TIMETABLEGRID-0478",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 478",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 73,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_478"]
+  },
+  {
+    id: "timetablegrid-0479",
+    code: "NEC-TIMETABLEGRID-0479",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 479",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 74,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_479"]
+  },
+  {
+    id: "timetablegrid-0480",
+    code: "NEC-TIMETABLEGRID-0480",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 480",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 75,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_480"]
+  },
+  {
+    id: "timetablegrid-0481",
+    code: "NEC-TIMETABLEGRID-0481",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 481",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 76,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_481"]
+  },
+  {
+    id: "timetablegrid-0482",
+    code: "NEC-TIMETABLEGRID-0482",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 482",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 77,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_482"]
+  },
+  {
+    id: "timetablegrid-0483",
+    code: "NEC-TIMETABLEGRID-0483",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 483",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 78,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_483"]
+  },
+  {
+    id: "timetablegrid-0484",
+    code: "NEC-TIMETABLEGRID-0484",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 484",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 79,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_484"]
+  },
+  {
+    id: "timetablegrid-0485",
+    code: "NEC-TIMETABLEGRID-0485",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 485",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 80,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_485"]
+  },
+  {
+    id: "timetablegrid-0486",
+    code: "NEC-TIMETABLEGRID-0486",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 486",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 81,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_486"]
+  },
+  {
+    id: "timetablegrid-0487",
+    code: "NEC-TIMETABLEGRID-0487",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 487",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 82,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_487"]
+  },
+  {
+    id: "timetablegrid-0488",
+    code: "NEC-TIMETABLEGRID-0488",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 488",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 83,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_488"]
+  },
+  {
+    id: "timetablegrid-0489",
+    code: "NEC-TIMETABLEGRID-0489",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 489",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 84,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_489"]
+  },
+  {
+    id: "timetablegrid-0490",
+    code: "NEC-TIMETABLEGRID-0490",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 490",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 85,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_490"]
+  },
+  {
+    id: "timetablegrid-0491",
+    code: "NEC-TIMETABLEGRID-0491",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 491",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 86,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_491"]
+  },
+  {
+    id: "timetablegrid-0492",
+    code: "NEC-TIMETABLEGRID-0492",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 492",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 87,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_492"]
+  },
+  {
+    id: "timetablegrid-0493",
+    code: "NEC-TIMETABLEGRID-0493",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 493",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 88,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_493"]
+  },
+  {
+    id: "timetablegrid-0494",
+    code: "NEC-TIMETABLEGRID-0494",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 494",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 89,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_494"]
+  },
+  {
+    id: "timetablegrid-0495",
+    code: "NEC-TIMETABLEGRID-0495",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 495",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 90,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_495"]
+  },
+  {
+    id: "timetablegrid-0496",
+    code: "NEC-TIMETABLEGRID-0496",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 496",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 91,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_496"]
+  },
+  {
+    id: "timetablegrid-0497",
+    code: "NEC-TIMETABLEGRID-0497",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 497",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 92,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_497"]
+  },
+  {
+    id: "timetablegrid-0498",
+    code: "NEC-TIMETABLEGRID-0498",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 498",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 93,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_498"]
+  },
+  {
+    id: "timetablegrid-0499",
+    code: "NEC-TIMETABLEGRID-0499",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 499",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 94,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_499"]
+  },
+  {
+    id: "timetablegrid-0500",
+    code: "NEC-TIMETABLEGRID-0500",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 500",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 70,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_500"]
+  },
+  {
+    id: "timetablegrid-0501",
+    code: "NEC-TIMETABLEGRID-0501",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 501",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 71,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_501"]
+  },
+  {
+    id: "timetablegrid-0502",
+    code: "NEC-TIMETABLEGRID-0502",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 502",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 72,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_502"]
+  },
+  {
+    id: "timetablegrid-0503",
+    code: "NEC-TIMETABLEGRID-0503",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 503",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 73,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_503"]
+  },
+  {
+    id: "timetablegrid-0504",
+    code: "NEC-TIMETABLEGRID-0504",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 504",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 74,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_504"]
+  },
+  {
+    id: "timetablegrid-0505",
+    code: "NEC-TIMETABLEGRID-0505",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 505",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_505"]
+  },
+  {
+    id: "timetablegrid-0506",
+    code: "NEC-TIMETABLEGRID-0506",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 506",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 76,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_506"]
+  },
+  {
+    id: "timetablegrid-0507",
+    code: "NEC-TIMETABLEGRID-0507",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 507",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 77,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_507"]
+  },
+  {
+    id: "timetablegrid-0508",
+    code: "NEC-TIMETABLEGRID-0508",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 508",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 78,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_508"]
+  },
+  {
+    id: "timetablegrid-0509",
+    code: "NEC-TIMETABLEGRID-0509",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 509",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 79,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_509"]
+  },
+  {
+    id: "timetablegrid-0510",
+    code: "NEC-TIMETABLEGRID-0510",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 510",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 80,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_510"]
+  },
+  {
+    id: "timetablegrid-0511",
+    code: "NEC-TIMETABLEGRID-0511",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 511",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 81,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_511"]
+  },
+  {
+    id: "timetablegrid-0512",
+    code: "NEC-TIMETABLEGRID-0512",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 512",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 82,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_512"]
+  },
+  {
+    id: "timetablegrid-0513",
+    code: "NEC-TIMETABLEGRID-0513",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 513",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 83,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_513"]
+  },
+  {
+    id: "timetablegrid-0514",
+    code: "NEC-TIMETABLEGRID-0514",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 514",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 84,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_514"]
+  },
+  {
+    id: "timetablegrid-0515",
+    code: "NEC-TIMETABLEGRID-0515",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 515",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 85,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_515"]
+  },
+  {
+    id: "timetablegrid-0516",
+    code: "NEC-TIMETABLEGRID-0516",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 516",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 86,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_516"]
+  },
+  {
+    id: "timetablegrid-0517",
+    code: "NEC-TIMETABLEGRID-0517",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 517",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_517"]
+  },
+  {
+    id: "timetablegrid-0518",
+    code: "NEC-TIMETABLEGRID-0518",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 518",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 88,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_518"]
+  },
+  {
+    id: "timetablegrid-0519",
+    code: "NEC-TIMETABLEGRID-0519",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 519",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 89,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_519"]
+  },
+  {
+    id: "timetablegrid-0520",
+    code: "NEC-TIMETABLEGRID-0520",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 520",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 90,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_520"]
+  },
+  {
+    id: "timetablegrid-0521",
+    code: "NEC-TIMETABLEGRID-0521",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 521",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 91,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_521"]
+  },
+  {
+    id: "timetablegrid-0522",
+    code: "NEC-TIMETABLEGRID-0522",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 522",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 92,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_522"]
+  },
+  {
+    id: "timetablegrid-0523",
+    code: "NEC-TIMETABLEGRID-0523",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 523",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 93,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_523"]
+  },
+  {
+    id: "timetablegrid-0524",
+    code: "NEC-TIMETABLEGRID-0524",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 524",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 94,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_524"]
+  },
+  {
+    id: "timetablegrid-0525",
+    code: "NEC-TIMETABLEGRID-0525",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 525",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 70,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_525"]
+  },
+  {
+    id: "timetablegrid-0526",
+    code: "NEC-TIMETABLEGRID-0526",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 526",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 71,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_526"]
+  },
+  {
+    id: "timetablegrid-0527",
+    code: "NEC-TIMETABLEGRID-0527",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 527",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 72,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_527"]
+  },
+  {
+    id: "timetablegrid-0528",
+    code: "NEC-TIMETABLEGRID-0528",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 528",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 73,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_528"]
+  },
+  {
+    id: "timetablegrid-0529",
+    code: "NEC-TIMETABLEGRID-0529",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 529",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 74,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_529"]
+  },
+  {
+    id: "timetablegrid-0530",
+    code: "NEC-TIMETABLEGRID-0530",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 530",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_530"]
+  },
+  {
+    id: "timetablegrid-0531",
+    code: "NEC-TIMETABLEGRID-0531",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 531",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 76,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_531"]
+  },
+  {
+    id: "timetablegrid-0532",
+    code: "NEC-TIMETABLEGRID-0532",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 532",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 77,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_532"]
+  },
+  {
+    id: "timetablegrid-0533",
+    code: "NEC-TIMETABLEGRID-0533",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 533",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 78,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_533"]
+  },
+  {
+    id: "timetablegrid-0534",
+    code: "NEC-TIMETABLEGRID-0534",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 534",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 79,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_534"]
+  },
+  {
+    id: "timetablegrid-0535",
+    code: "NEC-TIMETABLEGRID-0535",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 535",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 80,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_535"]
+  },
+  {
+    id: "timetablegrid-0536",
+    code: "NEC-TIMETABLEGRID-0536",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 536",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 81,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_536"]
+  },
+  {
+    id: "timetablegrid-0537",
+    code: "NEC-TIMETABLEGRID-0537",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 537",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 82,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_537"]
+  },
+  {
+    id: "timetablegrid-0538",
+    code: "NEC-TIMETABLEGRID-0538",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 538",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 83,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_538"]
+  },
+  {
+    id: "timetablegrid-0539",
+    code: "NEC-TIMETABLEGRID-0539",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 539",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 84,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_539"]
+  },
+  {
+    id: "timetablegrid-0540",
+    code: "NEC-TIMETABLEGRID-0540",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 540",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 85,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_540"]
+  },
+  {
+    id: "timetablegrid-0541",
+    code: "NEC-TIMETABLEGRID-0541",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 541",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 86,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_541"]
+  },
+  {
+    id: "timetablegrid-0542",
+    code: "NEC-TIMETABLEGRID-0542",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 542",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_542"]
+  },
+  {
+    id: "timetablegrid-0543",
+    code: "NEC-TIMETABLEGRID-0543",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 543",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 88,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_543"]
+  },
+  {
+    id: "timetablegrid-0544",
+    code: "NEC-TIMETABLEGRID-0544",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 544",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 89,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_544"]
+  },
+  {
+    id: "timetablegrid-0545",
+    code: "NEC-TIMETABLEGRID-0545",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 545",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 90,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_545"]
+  },
+  {
+    id: "timetablegrid-0546",
+    code: "NEC-TIMETABLEGRID-0546",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 546",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 91,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_546"]
+  },
+  {
+    id: "timetablegrid-0547",
+    code: "NEC-TIMETABLEGRID-0547",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 547",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 92,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_547"]
+  },
+  {
+    id: "timetablegrid-0548",
+    code: "NEC-TIMETABLEGRID-0548",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 548",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 93,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_548"]
+  },
+  {
+    id: "timetablegrid-0549",
+    code: "NEC-TIMETABLEGRID-0549",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 549",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 94,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_549"]
+  },
+  {
+    id: "timetablegrid-0550",
+    code: "NEC-TIMETABLEGRID-0550",
+    title: "Weekly Timetable Grid and Batch Viewer - Item 550",
+    category: "TIMETABLEGRID_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 70,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_550"]
+  },
 ];
 
 export function filterTIMETABLEGRIDBySemester(semester: number): AcademicEntityItem[] {

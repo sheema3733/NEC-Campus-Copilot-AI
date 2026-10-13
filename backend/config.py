@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 
 # Load environment variables from .env file
 BASE_DIR = Path(__file__).resolve().parent
-ENV_PATH = BASE_DIR / ".env"
+ENV_PATH = BASE_DIR / ".env" if (BASE_DIR / ".env").exists() else BASE_DIR / "example.env"
 load_dotenv(dotenv_path=ENV_PATH)
 
 # Groq API settings

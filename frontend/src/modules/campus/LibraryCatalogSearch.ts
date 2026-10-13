@@ -6821,6 +6821,2006 @@ export const CAMPUSSERVICES_REGISTRY: AcademicEntityItem[] = [
     },
     tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_425"]
   },
+  {
+    id: "campusservices-0426",
+    code: "NEC-CAMPUSSERVICES-0426",
+    title: "Campus Services Library and Transport Hub - Item 426",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 71,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_426"]
+  },
+  {
+    id: "campusservices-0427",
+    code: "NEC-CAMPUSSERVICES-0427",
+    title: "Campus Services Library and Transport Hub - Item 427",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 72,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_427"]
+  },
+  {
+    id: "campusservices-0428",
+    code: "NEC-CAMPUSSERVICES-0428",
+    title: "Campus Services Library and Transport Hub - Item 428",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 73,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_428"]
+  },
+  {
+    id: "campusservices-0429",
+    code: "NEC-CAMPUSSERVICES-0429",
+    title: "Campus Services Library and Transport Hub - Item 429",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 74,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_429"]
+  },
+  {
+    id: "campusservices-0430",
+    code: "NEC-CAMPUSSERVICES-0430",
+    title: "Campus Services Library and Transport Hub - Item 430",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_430"]
+  },
+  {
+    id: "campusservices-0431",
+    code: "NEC-CAMPUSSERVICES-0431",
+    title: "Campus Services Library and Transport Hub - Item 431",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 76,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_431"]
+  },
+  {
+    id: "campusservices-0432",
+    code: "NEC-CAMPUSSERVICES-0432",
+    title: "Campus Services Library and Transport Hub - Item 432",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 77,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_432"]
+  },
+  {
+    id: "campusservices-0433",
+    code: "NEC-CAMPUSSERVICES-0433",
+    title: "Campus Services Library and Transport Hub - Item 433",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 78,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_433"]
+  },
+  {
+    id: "campusservices-0434",
+    code: "NEC-CAMPUSSERVICES-0434",
+    title: "Campus Services Library and Transport Hub - Item 434",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 79,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_434"]
+  },
+  {
+    id: "campusservices-0435",
+    code: "NEC-CAMPUSSERVICES-0435",
+    title: "Campus Services Library and Transport Hub - Item 435",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 80,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_435"]
+  },
+  {
+    id: "campusservices-0436",
+    code: "NEC-CAMPUSSERVICES-0436",
+    title: "Campus Services Library and Transport Hub - Item 436",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 81,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_436"]
+  },
+  {
+    id: "campusservices-0437",
+    code: "NEC-CAMPUSSERVICES-0437",
+    title: "Campus Services Library and Transport Hub - Item 437",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 82,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_437"]
+  },
+  {
+    id: "campusservices-0438",
+    code: "NEC-CAMPUSSERVICES-0438",
+    title: "Campus Services Library and Transport Hub - Item 438",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 83,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_438"]
+  },
+  {
+    id: "campusservices-0439",
+    code: "NEC-CAMPUSSERVICES-0439",
+    title: "Campus Services Library and Transport Hub - Item 439",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 84,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_439"]
+  },
+  {
+    id: "campusservices-0440",
+    code: "NEC-CAMPUSSERVICES-0440",
+    title: "Campus Services Library and Transport Hub - Item 440",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 85,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_440"]
+  },
+  {
+    id: "campusservices-0441",
+    code: "NEC-CAMPUSSERVICES-0441",
+    title: "Campus Services Library and Transport Hub - Item 441",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 86,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_441"]
+  },
+  {
+    id: "campusservices-0442",
+    code: "NEC-CAMPUSSERVICES-0442",
+    title: "Campus Services Library and Transport Hub - Item 442",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_442"]
+  },
+  {
+    id: "campusservices-0443",
+    code: "NEC-CAMPUSSERVICES-0443",
+    title: "Campus Services Library and Transport Hub - Item 443",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 88,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_443"]
+  },
+  {
+    id: "campusservices-0444",
+    code: "NEC-CAMPUSSERVICES-0444",
+    title: "Campus Services Library and Transport Hub - Item 444",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 89,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_444"]
+  },
+  {
+    id: "campusservices-0445",
+    code: "NEC-CAMPUSSERVICES-0445",
+    title: "Campus Services Library and Transport Hub - Item 445",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 90,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_445"]
+  },
+  {
+    id: "campusservices-0446",
+    code: "NEC-CAMPUSSERVICES-0446",
+    title: "Campus Services Library and Transport Hub - Item 446",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 91,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_446"]
+  },
+  {
+    id: "campusservices-0447",
+    code: "NEC-CAMPUSSERVICES-0447",
+    title: "Campus Services Library and Transport Hub - Item 447",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 92,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_447"]
+  },
+  {
+    id: "campusservices-0448",
+    code: "NEC-CAMPUSSERVICES-0448",
+    title: "Campus Services Library and Transport Hub - Item 448",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 93,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_448"]
+  },
+  {
+    id: "campusservices-0449",
+    code: "NEC-CAMPUSSERVICES-0449",
+    title: "Campus Services Library and Transport Hub - Item 449",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 94,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_449"]
+  },
+  {
+    id: "campusservices-0450",
+    code: "NEC-CAMPUSSERVICES-0450",
+    title: "Campus Services Library and Transport Hub - Item 450",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 70,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_450"]
+  },
+  {
+    id: "campusservices-0451",
+    code: "NEC-CAMPUSSERVICES-0451",
+    title: "Campus Services Library and Transport Hub - Item 451",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 71,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_451"]
+  },
+  {
+    id: "campusservices-0452",
+    code: "NEC-CAMPUSSERVICES-0452",
+    title: "Campus Services Library and Transport Hub - Item 452",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 72,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_452"]
+  },
+  {
+    id: "campusservices-0453",
+    code: "NEC-CAMPUSSERVICES-0453",
+    title: "Campus Services Library and Transport Hub - Item 453",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 73,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_453"]
+  },
+  {
+    id: "campusservices-0454",
+    code: "NEC-CAMPUSSERVICES-0454",
+    title: "Campus Services Library and Transport Hub - Item 454",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 74,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_454"]
+  },
+  {
+    id: "campusservices-0455",
+    code: "NEC-CAMPUSSERVICES-0455",
+    title: "Campus Services Library and Transport Hub - Item 455",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_455"]
+  },
+  {
+    id: "campusservices-0456",
+    code: "NEC-CAMPUSSERVICES-0456",
+    title: "Campus Services Library and Transport Hub - Item 456",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 76,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_456"]
+  },
+  {
+    id: "campusservices-0457",
+    code: "NEC-CAMPUSSERVICES-0457",
+    title: "Campus Services Library and Transport Hub - Item 457",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 77,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_457"]
+  },
+  {
+    id: "campusservices-0458",
+    code: "NEC-CAMPUSSERVICES-0458",
+    title: "Campus Services Library and Transport Hub - Item 458",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 78,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_458"]
+  },
+  {
+    id: "campusservices-0459",
+    code: "NEC-CAMPUSSERVICES-0459",
+    title: "Campus Services Library and Transport Hub - Item 459",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 79,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_459"]
+  },
+  {
+    id: "campusservices-0460",
+    code: "NEC-CAMPUSSERVICES-0460",
+    title: "Campus Services Library and Transport Hub - Item 460",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 80,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_460"]
+  },
+  {
+    id: "campusservices-0461",
+    code: "NEC-CAMPUSSERVICES-0461",
+    title: "Campus Services Library and Transport Hub - Item 461",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 81,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_461"]
+  },
+  {
+    id: "campusservices-0462",
+    code: "NEC-CAMPUSSERVICES-0462",
+    title: "Campus Services Library and Transport Hub - Item 462",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 82,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_462"]
+  },
+  {
+    id: "campusservices-0463",
+    code: "NEC-CAMPUSSERVICES-0463",
+    title: "Campus Services Library and Transport Hub - Item 463",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 83,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_463"]
+  },
+  {
+    id: "campusservices-0464",
+    code: "NEC-CAMPUSSERVICES-0464",
+    title: "Campus Services Library and Transport Hub - Item 464",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 84,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_464"]
+  },
+  {
+    id: "campusservices-0465",
+    code: "NEC-CAMPUSSERVICES-0465",
+    title: "Campus Services Library and Transport Hub - Item 465",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 85,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_465"]
+  },
+  {
+    id: "campusservices-0466",
+    code: "NEC-CAMPUSSERVICES-0466",
+    title: "Campus Services Library and Transport Hub - Item 466",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 86,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_466"]
+  },
+  {
+    id: "campusservices-0467",
+    code: "NEC-CAMPUSSERVICES-0467",
+    title: "Campus Services Library and Transport Hub - Item 467",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_467"]
+  },
+  {
+    id: "campusservices-0468",
+    code: "NEC-CAMPUSSERVICES-0468",
+    title: "Campus Services Library and Transport Hub - Item 468",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 88,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_468"]
+  },
+  {
+    id: "campusservices-0469",
+    code: "NEC-CAMPUSSERVICES-0469",
+    title: "Campus Services Library and Transport Hub - Item 469",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 89,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_469"]
+  },
+  {
+    id: "campusservices-0470",
+    code: "NEC-CAMPUSSERVICES-0470",
+    title: "Campus Services Library and Transport Hub - Item 470",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 90,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_470"]
+  },
+  {
+    id: "campusservices-0471",
+    code: "NEC-CAMPUSSERVICES-0471",
+    title: "Campus Services Library and Transport Hub - Item 471",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 91,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_471"]
+  },
+  {
+    id: "campusservices-0472",
+    code: "NEC-CAMPUSSERVICES-0472",
+    title: "Campus Services Library and Transport Hub - Item 472",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 92,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_472"]
+  },
+  {
+    id: "campusservices-0473",
+    code: "NEC-CAMPUSSERVICES-0473",
+    title: "Campus Services Library and Transport Hub - Item 473",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 93,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_473"]
+  },
+  {
+    id: "campusservices-0474",
+    code: "NEC-CAMPUSSERVICES-0474",
+    title: "Campus Services Library and Transport Hub - Item 474",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 94,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_474"]
+  },
+  {
+    id: "campusservices-0475",
+    code: "NEC-CAMPUSSERVICES-0475",
+    title: "Campus Services Library and Transport Hub - Item 475",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 70,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_475"]
+  },
+  {
+    id: "campusservices-0476",
+    code: "NEC-CAMPUSSERVICES-0476",
+    title: "Campus Services Library and Transport Hub - Item 476",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 71,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_476"]
+  },
+  {
+    id: "campusservices-0477",
+    code: "NEC-CAMPUSSERVICES-0477",
+    title: "Campus Services Library and Transport Hub - Item 477",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 72,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_477"]
+  },
+  {
+    id: "campusservices-0478",
+    code: "NEC-CAMPUSSERVICES-0478",
+    title: "Campus Services Library and Transport Hub - Item 478",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 73,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_478"]
+  },
+  {
+    id: "campusservices-0479",
+    code: "NEC-CAMPUSSERVICES-0479",
+    title: "Campus Services Library and Transport Hub - Item 479",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 74,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_479"]
+  },
+  {
+    id: "campusservices-0480",
+    code: "NEC-CAMPUSSERVICES-0480",
+    title: "Campus Services Library and Transport Hub - Item 480",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 75,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_480"]
+  },
+  {
+    id: "campusservices-0481",
+    code: "NEC-CAMPUSSERVICES-0481",
+    title: "Campus Services Library and Transport Hub - Item 481",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 76,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_481"]
+  },
+  {
+    id: "campusservices-0482",
+    code: "NEC-CAMPUSSERVICES-0482",
+    title: "Campus Services Library and Transport Hub - Item 482",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 77,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_482"]
+  },
+  {
+    id: "campusservices-0483",
+    code: "NEC-CAMPUSSERVICES-0483",
+    title: "Campus Services Library and Transport Hub - Item 483",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 78,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_483"]
+  },
+  {
+    id: "campusservices-0484",
+    code: "NEC-CAMPUSSERVICES-0484",
+    title: "Campus Services Library and Transport Hub - Item 484",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 79,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_484"]
+  },
+  {
+    id: "campusservices-0485",
+    code: "NEC-CAMPUSSERVICES-0485",
+    title: "Campus Services Library and Transport Hub - Item 485",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 80,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_485"]
+  },
+  {
+    id: "campusservices-0486",
+    code: "NEC-CAMPUSSERVICES-0486",
+    title: "Campus Services Library and Transport Hub - Item 486",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 81,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_486"]
+  },
+  {
+    id: "campusservices-0487",
+    code: "NEC-CAMPUSSERVICES-0487",
+    title: "Campus Services Library and Transport Hub - Item 487",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 82,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_487"]
+  },
+  {
+    id: "campusservices-0488",
+    code: "NEC-CAMPUSSERVICES-0488",
+    title: "Campus Services Library and Transport Hub - Item 488",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 83,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_488"]
+  },
+  {
+    id: "campusservices-0489",
+    code: "NEC-CAMPUSSERVICES-0489",
+    title: "Campus Services Library and Transport Hub - Item 489",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 84,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_489"]
+  },
+  {
+    id: "campusservices-0490",
+    code: "NEC-CAMPUSSERVICES-0490",
+    title: "Campus Services Library and Transport Hub - Item 490",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 85,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_490"]
+  },
+  {
+    id: "campusservices-0491",
+    code: "NEC-CAMPUSSERVICES-0491",
+    title: "Campus Services Library and Transport Hub - Item 491",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 86,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_491"]
+  },
+  {
+    id: "campusservices-0492",
+    code: "NEC-CAMPUSSERVICES-0492",
+    title: "Campus Services Library and Transport Hub - Item 492",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 87,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_492"]
+  },
+  {
+    id: "campusservices-0493",
+    code: "NEC-CAMPUSSERVICES-0493",
+    title: "Campus Services Library and Transport Hub - Item 493",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 88,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_493"]
+  },
+  {
+    id: "campusservices-0494",
+    code: "NEC-CAMPUSSERVICES-0494",
+    title: "Campus Services Library and Transport Hub - Item 494",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 89,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_494"]
+  },
+  {
+    id: "campusservices-0495",
+    code: "NEC-CAMPUSSERVICES-0495",
+    title: "Campus Services Library and Transport Hub - Item 495",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 90,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_495"]
+  },
+  {
+    id: "campusservices-0496",
+    code: "NEC-CAMPUSSERVICES-0496",
+    title: "Campus Services Library and Transport Hub - Item 496",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 91,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_496"]
+  },
+  {
+    id: "campusservices-0497",
+    code: "NEC-CAMPUSSERVICES-0497",
+    title: "Campus Services Library and Transport Hub - Item 497",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 92,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_497"]
+  },
+  {
+    id: "campusservices-0498",
+    code: "NEC-CAMPUSSERVICES-0498",
+    title: "Campus Services Library and Transport Hub - Item 498",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 93,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_498"]
+  },
+  {
+    id: "campusservices-0499",
+    code: "NEC-CAMPUSSERVICES-0499",
+    title: "Campus Services Library and Transport Hub - Item 499",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 94,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_499"]
+  },
+  {
+    id: "campusservices-0500",
+    code: "NEC-CAMPUSSERVICES-0500",
+    title: "Campus Services Library and Transport Hub - Item 500",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 70,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_500"]
+  },
+  {
+    id: "campusservices-0501",
+    code: "NEC-CAMPUSSERVICES-0501",
+    title: "Campus Services Library and Transport Hub - Item 501",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 71,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_501"]
+  },
+  {
+    id: "campusservices-0502",
+    code: "NEC-CAMPUSSERVICES-0502",
+    title: "Campus Services Library and Transport Hub - Item 502",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 72,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_502"]
+  },
+  {
+    id: "campusservices-0503",
+    code: "NEC-CAMPUSSERVICES-0503",
+    title: "Campus Services Library and Transport Hub - Item 503",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 73,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_503"]
+  },
+  {
+    id: "campusservices-0504",
+    code: "NEC-CAMPUSSERVICES-0504",
+    title: "Campus Services Library and Transport Hub - Item 504",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 74,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_504"]
+  },
+  {
+    id: "campusservices-0505",
+    code: "NEC-CAMPUSSERVICES-0505",
+    title: "Campus Services Library and Transport Hub - Item 505",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_505"]
+  },
+  {
+    id: "campusservices-0506",
+    code: "NEC-CAMPUSSERVICES-0506",
+    title: "Campus Services Library and Transport Hub - Item 506",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 76,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_506"]
+  },
+  {
+    id: "campusservices-0507",
+    code: "NEC-CAMPUSSERVICES-0507",
+    title: "Campus Services Library and Transport Hub - Item 507",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 77,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_507"]
+  },
+  {
+    id: "campusservices-0508",
+    code: "NEC-CAMPUSSERVICES-0508",
+    title: "Campus Services Library and Transport Hub - Item 508",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 78,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_508"]
+  },
+  {
+    id: "campusservices-0509",
+    code: "NEC-CAMPUSSERVICES-0509",
+    title: "Campus Services Library and Transport Hub - Item 509",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 79,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_509"]
+  },
+  {
+    id: "campusservices-0510",
+    code: "NEC-CAMPUSSERVICES-0510",
+    title: "Campus Services Library and Transport Hub - Item 510",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 80,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_510"]
+  },
+  {
+    id: "campusservices-0511",
+    code: "NEC-CAMPUSSERVICES-0511",
+    title: "Campus Services Library and Transport Hub - Item 511",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 81,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_511"]
+  },
+  {
+    id: "campusservices-0512",
+    code: "NEC-CAMPUSSERVICES-0512",
+    title: "Campus Services Library and Transport Hub - Item 512",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 82,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_512"]
+  },
+  {
+    id: "campusservices-0513",
+    code: "NEC-CAMPUSSERVICES-0513",
+    title: "Campus Services Library and Transport Hub - Item 513",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 83,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_513"]
+  },
+  {
+    id: "campusservices-0514",
+    code: "NEC-CAMPUSSERVICES-0514",
+    title: "Campus Services Library and Transport Hub - Item 514",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 84,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_514"]
+  },
+  {
+    id: "campusservices-0515",
+    code: "NEC-CAMPUSSERVICES-0515",
+    title: "Campus Services Library and Transport Hub - Item 515",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 85,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_515"]
+  },
+  {
+    id: "campusservices-0516",
+    code: "NEC-CAMPUSSERVICES-0516",
+    title: "Campus Services Library and Transport Hub - Item 516",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 86,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_516"]
+  },
+  {
+    id: "campusservices-0517",
+    code: "NEC-CAMPUSSERVICES-0517",
+    title: "Campus Services Library and Transport Hub - Item 517",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_517"]
+  },
+  {
+    id: "campusservices-0518",
+    code: "NEC-CAMPUSSERVICES-0518",
+    title: "Campus Services Library and Transport Hub - Item 518",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 88,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_518"]
+  },
+  {
+    id: "campusservices-0519",
+    code: "NEC-CAMPUSSERVICES-0519",
+    title: "Campus Services Library and Transport Hub - Item 519",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 89,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_519"]
+  },
+  {
+    id: "campusservices-0520",
+    code: "NEC-CAMPUSSERVICES-0520",
+    title: "Campus Services Library and Transport Hub - Item 520",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 90,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_520"]
+  },
+  {
+    id: "campusservices-0521",
+    code: "NEC-CAMPUSSERVICES-0521",
+    title: "Campus Services Library and Transport Hub - Item 521",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 91,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_521"]
+  },
+  {
+    id: "campusservices-0522",
+    code: "NEC-CAMPUSSERVICES-0522",
+    title: "Campus Services Library and Transport Hub - Item 522",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 92,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_522"]
+  },
+  {
+    id: "campusservices-0523",
+    code: "NEC-CAMPUSSERVICES-0523",
+    title: "Campus Services Library and Transport Hub - Item 523",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 93,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_523"]
+  },
+  {
+    id: "campusservices-0524",
+    code: "NEC-CAMPUSSERVICES-0524",
+    title: "Campus Services Library and Transport Hub - Item 524",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 94,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_524"]
+  },
+  {
+    id: "campusservices-0525",
+    code: "NEC-CAMPUSSERVICES-0525",
+    title: "Campus Services Library and Transport Hub - Item 525",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 70,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_525"]
+  },
+  {
+    id: "campusservices-0526",
+    code: "NEC-CAMPUSSERVICES-0526",
+    title: "Campus Services Library and Transport Hub - Item 526",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 71,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_526"]
+  },
+  {
+    id: "campusservices-0527",
+    code: "NEC-CAMPUSSERVICES-0527",
+    title: "Campus Services Library and Transport Hub - Item 527",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 72,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_527"]
+  },
+  {
+    id: "campusservices-0528",
+    code: "NEC-CAMPUSSERVICES-0528",
+    title: "Campus Services Library and Transport Hub - Item 528",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 73,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_528"]
+  },
+  {
+    id: "campusservices-0529",
+    code: "NEC-CAMPUSSERVICES-0529",
+    title: "Campus Services Library and Transport Hub - Item 529",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 74,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_529"]
+  },
+  {
+    id: "campusservices-0530",
+    code: "NEC-CAMPUSSERVICES-0530",
+    title: "Campus Services Library and Transport Hub - Item 530",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_530"]
+  },
+  {
+    id: "campusservices-0531",
+    code: "NEC-CAMPUSSERVICES-0531",
+    title: "Campus Services Library and Transport Hub - Item 531",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 76,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_531"]
+  },
+  {
+    id: "campusservices-0532",
+    code: "NEC-CAMPUSSERVICES-0532",
+    title: "Campus Services Library and Transport Hub - Item 532",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 77,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_532"]
+  },
+  {
+    id: "campusservices-0533",
+    code: "NEC-CAMPUSSERVICES-0533",
+    title: "Campus Services Library and Transport Hub - Item 533",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 78,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_533"]
+  },
+  {
+    id: "campusservices-0534",
+    code: "NEC-CAMPUSSERVICES-0534",
+    title: "Campus Services Library and Transport Hub - Item 534",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 79,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_534"]
+  },
+  {
+    id: "campusservices-0535",
+    code: "NEC-CAMPUSSERVICES-0535",
+    title: "Campus Services Library and Transport Hub - Item 535",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 80,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_535"]
+  },
+  {
+    id: "campusservices-0536",
+    code: "NEC-CAMPUSSERVICES-0536",
+    title: "Campus Services Library and Transport Hub - Item 536",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 81,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_536"]
+  },
+  {
+    id: "campusservices-0537",
+    code: "NEC-CAMPUSSERVICES-0537",
+    title: "Campus Services Library and Transport Hub - Item 537",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 82,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_537"]
+  },
+  {
+    id: "campusservices-0538",
+    code: "NEC-CAMPUSSERVICES-0538",
+    title: "Campus Services Library and Transport Hub - Item 538",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 83,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_538"]
+  },
+  {
+    id: "campusservices-0539",
+    code: "NEC-CAMPUSSERVICES-0539",
+    title: "Campus Services Library and Transport Hub - Item 539",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 84,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_539"]
+  },
+  {
+    id: "campusservices-0540",
+    code: "NEC-CAMPUSSERVICES-0540",
+    title: "Campus Services Library and Transport Hub - Item 540",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 85,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_540"]
+  },
+  {
+    id: "campusservices-0541",
+    code: "NEC-CAMPUSSERVICES-0541",
+    title: "Campus Services Library and Transport Hub - Item 541",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 86,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_541"]
+  },
+  {
+    id: "campusservices-0542",
+    code: "NEC-CAMPUSSERVICES-0542",
+    title: "Campus Services Library and Transport Hub - Item 542",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_542"]
+  },
+  {
+    id: "campusservices-0543",
+    code: "NEC-CAMPUSSERVICES-0543",
+    title: "Campus Services Library and Transport Hub - Item 543",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 88,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_543"]
+  },
+  {
+    id: "campusservices-0544",
+    code: "NEC-CAMPUSSERVICES-0544",
+    title: "Campus Services Library and Transport Hub - Item 544",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 89,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_544"]
+  },
+  {
+    id: "campusservices-0545",
+    code: "NEC-CAMPUSSERVICES-0545",
+    title: "Campus Services Library and Transport Hub - Item 545",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 90,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_545"]
+  },
+  {
+    id: "campusservices-0546",
+    code: "NEC-CAMPUSSERVICES-0546",
+    title: "Campus Services Library and Transport Hub - Item 546",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 91,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_546"]
+  },
+  {
+    id: "campusservices-0547",
+    code: "NEC-CAMPUSSERVICES-0547",
+    title: "Campus Services Library and Transport Hub - Item 547",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 92,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_547"]
+  },
+  {
+    id: "campusservices-0548",
+    code: "NEC-CAMPUSSERVICES-0548",
+    title: "Campus Services Library and Transport Hub - Item 548",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 93,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_548"]
+  },
+  {
+    id: "campusservices-0549",
+    code: "NEC-CAMPUSSERVICES-0549",
+    title: "Campus Services Library and Transport Hub - Item 549",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 94,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_549"]
+  },
+  {
+    id: "campusservices-0550",
+    code: "NEC-CAMPUSSERVICES-0550",
+    title: "Campus Services Library and Transport Hub - Item 550",
+    category: "CAMPUSSERVICES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 70,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_550"]
+  },
 ];
 
 export function filterCAMPUSSERVICESBySemester(semester: number): AcademicEntityItem[] {

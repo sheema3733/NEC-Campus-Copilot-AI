@@ -6821,6 +6821,2006 @@ export const GPASIMULATORUI_REGISTRY: AcademicEntityItem[] = [
     },
     tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_425"]
   },
+  {
+    id: "gpasimulatorui-0426",
+    code: "NEC-GPASIMULATORUI-0426",
+    title: "Academic Advising GPA Simulator Widget - Item 426",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 71,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_426"]
+  },
+  {
+    id: "gpasimulatorui-0427",
+    code: "NEC-GPASIMULATORUI-0427",
+    title: "Academic Advising GPA Simulator Widget - Item 427",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 72,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_427"]
+  },
+  {
+    id: "gpasimulatorui-0428",
+    code: "NEC-GPASIMULATORUI-0428",
+    title: "Academic Advising GPA Simulator Widget - Item 428",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 73,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_428"]
+  },
+  {
+    id: "gpasimulatorui-0429",
+    code: "NEC-GPASIMULATORUI-0429",
+    title: "Academic Advising GPA Simulator Widget - Item 429",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 74,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_429"]
+  },
+  {
+    id: "gpasimulatorui-0430",
+    code: "NEC-GPASIMULATORUI-0430",
+    title: "Academic Advising GPA Simulator Widget - Item 430",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_430"]
+  },
+  {
+    id: "gpasimulatorui-0431",
+    code: "NEC-GPASIMULATORUI-0431",
+    title: "Academic Advising GPA Simulator Widget - Item 431",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 76,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_431"]
+  },
+  {
+    id: "gpasimulatorui-0432",
+    code: "NEC-GPASIMULATORUI-0432",
+    title: "Academic Advising GPA Simulator Widget - Item 432",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 77,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_432"]
+  },
+  {
+    id: "gpasimulatorui-0433",
+    code: "NEC-GPASIMULATORUI-0433",
+    title: "Academic Advising GPA Simulator Widget - Item 433",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 78,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_433"]
+  },
+  {
+    id: "gpasimulatorui-0434",
+    code: "NEC-GPASIMULATORUI-0434",
+    title: "Academic Advising GPA Simulator Widget - Item 434",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 79,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_434"]
+  },
+  {
+    id: "gpasimulatorui-0435",
+    code: "NEC-GPASIMULATORUI-0435",
+    title: "Academic Advising GPA Simulator Widget - Item 435",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 80,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_435"]
+  },
+  {
+    id: "gpasimulatorui-0436",
+    code: "NEC-GPASIMULATORUI-0436",
+    title: "Academic Advising GPA Simulator Widget - Item 436",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 81,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_436"]
+  },
+  {
+    id: "gpasimulatorui-0437",
+    code: "NEC-GPASIMULATORUI-0437",
+    title: "Academic Advising GPA Simulator Widget - Item 437",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 82,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_437"]
+  },
+  {
+    id: "gpasimulatorui-0438",
+    code: "NEC-GPASIMULATORUI-0438",
+    title: "Academic Advising GPA Simulator Widget - Item 438",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 83,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_438"]
+  },
+  {
+    id: "gpasimulatorui-0439",
+    code: "NEC-GPASIMULATORUI-0439",
+    title: "Academic Advising GPA Simulator Widget - Item 439",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 84,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_439"]
+  },
+  {
+    id: "gpasimulatorui-0440",
+    code: "NEC-GPASIMULATORUI-0440",
+    title: "Academic Advising GPA Simulator Widget - Item 440",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 85,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_440"]
+  },
+  {
+    id: "gpasimulatorui-0441",
+    code: "NEC-GPASIMULATORUI-0441",
+    title: "Academic Advising GPA Simulator Widget - Item 441",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 86,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_441"]
+  },
+  {
+    id: "gpasimulatorui-0442",
+    code: "NEC-GPASIMULATORUI-0442",
+    title: "Academic Advising GPA Simulator Widget - Item 442",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_442"]
+  },
+  {
+    id: "gpasimulatorui-0443",
+    code: "NEC-GPASIMULATORUI-0443",
+    title: "Academic Advising GPA Simulator Widget - Item 443",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 88,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_443"]
+  },
+  {
+    id: "gpasimulatorui-0444",
+    code: "NEC-GPASIMULATORUI-0444",
+    title: "Academic Advising GPA Simulator Widget - Item 444",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 89,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_444"]
+  },
+  {
+    id: "gpasimulatorui-0445",
+    code: "NEC-GPASIMULATORUI-0445",
+    title: "Academic Advising GPA Simulator Widget - Item 445",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 90,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_445"]
+  },
+  {
+    id: "gpasimulatorui-0446",
+    code: "NEC-GPASIMULATORUI-0446",
+    title: "Academic Advising GPA Simulator Widget - Item 446",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 91,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_446"]
+  },
+  {
+    id: "gpasimulatorui-0447",
+    code: "NEC-GPASIMULATORUI-0447",
+    title: "Academic Advising GPA Simulator Widget - Item 447",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 92,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_447"]
+  },
+  {
+    id: "gpasimulatorui-0448",
+    code: "NEC-GPASIMULATORUI-0448",
+    title: "Academic Advising GPA Simulator Widget - Item 448",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 93,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_448"]
+  },
+  {
+    id: "gpasimulatorui-0449",
+    code: "NEC-GPASIMULATORUI-0449",
+    title: "Academic Advising GPA Simulator Widget - Item 449",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 94,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_449"]
+  },
+  {
+    id: "gpasimulatorui-0450",
+    code: "NEC-GPASIMULATORUI-0450",
+    title: "Academic Advising GPA Simulator Widget - Item 450",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 70,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_450"]
+  },
+  {
+    id: "gpasimulatorui-0451",
+    code: "NEC-GPASIMULATORUI-0451",
+    title: "Academic Advising GPA Simulator Widget - Item 451",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 71,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_451"]
+  },
+  {
+    id: "gpasimulatorui-0452",
+    code: "NEC-GPASIMULATORUI-0452",
+    title: "Academic Advising GPA Simulator Widget - Item 452",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 72,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_452"]
+  },
+  {
+    id: "gpasimulatorui-0453",
+    code: "NEC-GPASIMULATORUI-0453",
+    title: "Academic Advising GPA Simulator Widget - Item 453",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 73,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_453"]
+  },
+  {
+    id: "gpasimulatorui-0454",
+    code: "NEC-GPASIMULATORUI-0454",
+    title: "Academic Advising GPA Simulator Widget - Item 454",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 74,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_454"]
+  },
+  {
+    id: "gpasimulatorui-0455",
+    code: "NEC-GPASIMULATORUI-0455",
+    title: "Academic Advising GPA Simulator Widget - Item 455",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_455"]
+  },
+  {
+    id: "gpasimulatorui-0456",
+    code: "NEC-GPASIMULATORUI-0456",
+    title: "Academic Advising GPA Simulator Widget - Item 456",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 76,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_456"]
+  },
+  {
+    id: "gpasimulatorui-0457",
+    code: "NEC-GPASIMULATORUI-0457",
+    title: "Academic Advising GPA Simulator Widget - Item 457",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 77,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_457"]
+  },
+  {
+    id: "gpasimulatorui-0458",
+    code: "NEC-GPASIMULATORUI-0458",
+    title: "Academic Advising GPA Simulator Widget - Item 458",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 78,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_458"]
+  },
+  {
+    id: "gpasimulatorui-0459",
+    code: "NEC-GPASIMULATORUI-0459",
+    title: "Academic Advising GPA Simulator Widget - Item 459",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 79,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_459"]
+  },
+  {
+    id: "gpasimulatorui-0460",
+    code: "NEC-GPASIMULATORUI-0460",
+    title: "Academic Advising GPA Simulator Widget - Item 460",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 80,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_460"]
+  },
+  {
+    id: "gpasimulatorui-0461",
+    code: "NEC-GPASIMULATORUI-0461",
+    title: "Academic Advising GPA Simulator Widget - Item 461",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 81,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_461"]
+  },
+  {
+    id: "gpasimulatorui-0462",
+    code: "NEC-GPASIMULATORUI-0462",
+    title: "Academic Advising GPA Simulator Widget - Item 462",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 82,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_462"]
+  },
+  {
+    id: "gpasimulatorui-0463",
+    code: "NEC-GPASIMULATORUI-0463",
+    title: "Academic Advising GPA Simulator Widget - Item 463",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 83,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_463"]
+  },
+  {
+    id: "gpasimulatorui-0464",
+    code: "NEC-GPASIMULATORUI-0464",
+    title: "Academic Advising GPA Simulator Widget - Item 464",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 84,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_464"]
+  },
+  {
+    id: "gpasimulatorui-0465",
+    code: "NEC-GPASIMULATORUI-0465",
+    title: "Academic Advising GPA Simulator Widget - Item 465",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 85,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_465"]
+  },
+  {
+    id: "gpasimulatorui-0466",
+    code: "NEC-GPASIMULATORUI-0466",
+    title: "Academic Advising GPA Simulator Widget - Item 466",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 86,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_466"]
+  },
+  {
+    id: "gpasimulatorui-0467",
+    code: "NEC-GPASIMULATORUI-0467",
+    title: "Academic Advising GPA Simulator Widget - Item 467",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_467"]
+  },
+  {
+    id: "gpasimulatorui-0468",
+    code: "NEC-GPASIMULATORUI-0468",
+    title: "Academic Advising GPA Simulator Widget - Item 468",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 88,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_468"]
+  },
+  {
+    id: "gpasimulatorui-0469",
+    code: "NEC-GPASIMULATORUI-0469",
+    title: "Academic Advising GPA Simulator Widget - Item 469",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 89,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_469"]
+  },
+  {
+    id: "gpasimulatorui-0470",
+    code: "NEC-GPASIMULATORUI-0470",
+    title: "Academic Advising GPA Simulator Widget - Item 470",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 90,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_470"]
+  },
+  {
+    id: "gpasimulatorui-0471",
+    code: "NEC-GPASIMULATORUI-0471",
+    title: "Academic Advising GPA Simulator Widget - Item 471",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 91,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_471"]
+  },
+  {
+    id: "gpasimulatorui-0472",
+    code: "NEC-GPASIMULATORUI-0472",
+    title: "Academic Advising GPA Simulator Widget - Item 472",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 92,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_472"]
+  },
+  {
+    id: "gpasimulatorui-0473",
+    code: "NEC-GPASIMULATORUI-0473",
+    title: "Academic Advising GPA Simulator Widget - Item 473",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 93,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_473"]
+  },
+  {
+    id: "gpasimulatorui-0474",
+    code: "NEC-GPASIMULATORUI-0474",
+    title: "Academic Advising GPA Simulator Widget - Item 474",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 94,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_474"]
+  },
+  {
+    id: "gpasimulatorui-0475",
+    code: "NEC-GPASIMULATORUI-0475",
+    title: "Academic Advising GPA Simulator Widget - Item 475",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 70,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_475"]
+  },
+  {
+    id: "gpasimulatorui-0476",
+    code: "NEC-GPASIMULATORUI-0476",
+    title: "Academic Advising GPA Simulator Widget - Item 476",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 71,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_476"]
+  },
+  {
+    id: "gpasimulatorui-0477",
+    code: "NEC-GPASIMULATORUI-0477",
+    title: "Academic Advising GPA Simulator Widget - Item 477",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 72,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_477"]
+  },
+  {
+    id: "gpasimulatorui-0478",
+    code: "NEC-GPASIMULATORUI-0478",
+    title: "Academic Advising GPA Simulator Widget - Item 478",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 73,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_478"]
+  },
+  {
+    id: "gpasimulatorui-0479",
+    code: "NEC-GPASIMULATORUI-0479",
+    title: "Academic Advising GPA Simulator Widget - Item 479",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 74,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_479"]
+  },
+  {
+    id: "gpasimulatorui-0480",
+    code: "NEC-GPASIMULATORUI-0480",
+    title: "Academic Advising GPA Simulator Widget - Item 480",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 75,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_480"]
+  },
+  {
+    id: "gpasimulatorui-0481",
+    code: "NEC-GPASIMULATORUI-0481",
+    title: "Academic Advising GPA Simulator Widget - Item 481",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 76,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_481"]
+  },
+  {
+    id: "gpasimulatorui-0482",
+    code: "NEC-GPASIMULATORUI-0482",
+    title: "Academic Advising GPA Simulator Widget - Item 482",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 77,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_482"]
+  },
+  {
+    id: "gpasimulatorui-0483",
+    code: "NEC-GPASIMULATORUI-0483",
+    title: "Academic Advising GPA Simulator Widget - Item 483",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 78,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_483"]
+  },
+  {
+    id: "gpasimulatorui-0484",
+    code: "NEC-GPASIMULATORUI-0484",
+    title: "Academic Advising GPA Simulator Widget - Item 484",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 79,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_484"]
+  },
+  {
+    id: "gpasimulatorui-0485",
+    code: "NEC-GPASIMULATORUI-0485",
+    title: "Academic Advising GPA Simulator Widget - Item 485",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 80,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_485"]
+  },
+  {
+    id: "gpasimulatorui-0486",
+    code: "NEC-GPASIMULATORUI-0486",
+    title: "Academic Advising GPA Simulator Widget - Item 486",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 81,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_486"]
+  },
+  {
+    id: "gpasimulatorui-0487",
+    code: "NEC-GPASIMULATORUI-0487",
+    title: "Academic Advising GPA Simulator Widget - Item 487",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 82,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_487"]
+  },
+  {
+    id: "gpasimulatorui-0488",
+    code: "NEC-GPASIMULATORUI-0488",
+    title: "Academic Advising GPA Simulator Widget - Item 488",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 83,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_488"]
+  },
+  {
+    id: "gpasimulatorui-0489",
+    code: "NEC-GPASIMULATORUI-0489",
+    title: "Academic Advising GPA Simulator Widget - Item 489",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 84,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_489"]
+  },
+  {
+    id: "gpasimulatorui-0490",
+    code: "NEC-GPASIMULATORUI-0490",
+    title: "Academic Advising GPA Simulator Widget - Item 490",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 85,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_490"]
+  },
+  {
+    id: "gpasimulatorui-0491",
+    code: "NEC-GPASIMULATORUI-0491",
+    title: "Academic Advising GPA Simulator Widget - Item 491",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 86,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_491"]
+  },
+  {
+    id: "gpasimulatorui-0492",
+    code: "NEC-GPASIMULATORUI-0492",
+    title: "Academic Advising GPA Simulator Widget - Item 492",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 87,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_492"]
+  },
+  {
+    id: "gpasimulatorui-0493",
+    code: "NEC-GPASIMULATORUI-0493",
+    title: "Academic Advising GPA Simulator Widget - Item 493",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 88,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_493"]
+  },
+  {
+    id: "gpasimulatorui-0494",
+    code: "NEC-GPASIMULATORUI-0494",
+    title: "Academic Advising GPA Simulator Widget - Item 494",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 89,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_494"]
+  },
+  {
+    id: "gpasimulatorui-0495",
+    code: "NEC-GPASIMULATORUI-0495",
+    title: "Academic Advising GPA Simulator Widget - Item 495",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 90,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_495"]
+  },
+  {
+    id: "gpasimulatorui-0496",
+    code: "NEC-GPASIMULATORUI-0496",
+    title: "Academic Advising GPA Simulator Widget - Item 496",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 91,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_496"]
+  },
+  {
+    id: "gpasimulatorui-0497",
+    code: "NEC-GPASIMULATORUI-0497",
+    title: "Academic Advising GPA Simulator Widget - Item 497",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 92,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_497"]
+  },
+  {
+    id: "gpasimulatorui-0498",
+    code: "NEC-GPASIMULATORUI-0498",
+    title: "Academic Advising GPA Simulator Widget - Item 498",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 93,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_498"]
+  },
+  {
+    id: "gpasimulatorui-0499",
+    code: "NEC-GPASIMULATORUI-0499",
+    title: "Academic Advising GPA Simulator Widget - Item 499",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 94,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_499"]
+  },
+  {
+    id: "gpasimulatorui-0500",
+    code: "NEC-GPASIMULATORUI-0500",
+    title: "Academic Advising GPA Simulator Widget - Item 500",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 70,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_500"]
+  },
+  {
+    id: "gpasimulatorui-0501",
+    code: "NEC-GPASIMULATORUI-0501",
+    title: "Academic Advising GPA Simulator Widget - Item 501",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 71,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_501"]
+  },
+  {
+    id: "gpasimulatorui-0502",
+    code: "NEC-GPASIMULATORUI-0502",
+    title: "Academic Advising GPA Simulator Widget - Item 502",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 72,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_502"]
+  },
+  {
+    id: "gpasimulatorui-0503",
+    code: "NEC-GPASIMULATORUI-0503",
+    title: "Academic Advising GPA Simulator Widget - Item 503",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 73,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_503"]
+  },
+  {
+    id: "gpasimulatorui-0504",
+    code: "NEC-GPASIMULATORUI-0504",
+    title: "Academic Advising GPA Simulator Widget - Item 504",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 74,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_504"]
+  },
+  {
+    id: "gpasimulatorui-0505",
+    code: "NEC-GPASIMULATORUI-0505",
+    title: "Academic Advising GPA Simulator Widget - Item 505",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_505"]
+  },
+  {
+    id: "gpasimulatorui-0506",
+    code: "NEC-GPASIMULATORUI-0506",
+    title: "Academic Advising GPA Simulator Widget - Item 506",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 76,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_506"]
+  },
+  {
+    id: "gpasimulatorui-0507",
+    code: "NEC-GPASIMULATORUI-0507",
+    title: "Academic Advising GPA Simulator Widget - Item 507",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 77,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_507"]
+  },
+  {
+    id: "gpasimulatorui-0508",
+    code: "NEC-GPASIMULATORUI-0508",
+    title: "Academic Advising GPA Simulator Widget - Item 508",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 78,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_508"]
+  },
+  {
+    id: "gpasimulatorui-0509",
+    code: "NEC-GPASIMULATORUI-0509",
+    title: "Academic Advising GPA Simulator Widget - Item 509",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 79,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_509"]
+  },
+  {
+    id: "gpasimulatorui-0510",
+    code: "NEC-GPASIMULATORUI-0510",
+    title: "Academic Advising GPA Simulator Widget - Item 510",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 80,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_510"]
+  },
+  {
+    id: "gpasimulatorui-0511",
+    code: "NEC-GPASIMULATORUI-0511",
+    title: "Academic Advising GPA Simulator Widget - Item 511",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 81,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_511"]
+  },
+  {
+    id: "gpasimulatorui-0512",
+    code: "NEC-GPASIMULATORUI-0512",
+    title: "Academic Advising GPA Simulator Widget - Item 512",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 82,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_512"]
+  },
+  {
+    id: "gpasimulatorui-0513",
+    code: "NEC-GPASIMULATORUI-0513",
+    title: "Academic Advising GPA Simulator Widget - Item 513",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 83,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_513"]
+  },
+  {
+    id: "gpasimulatorui-0514",
+    code: "NEC-GPASIMULATORUI-0514",
+    title: "Academic Advising GPA Simulator Widget - Item 514",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 84,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_514"]
+  },
+  {
+    id: "gpasimulatorui-0515",
+    code: "NEC-GPASIMULATORUI-0515",
+    title: "Academic Advising GPA Simulator Widget - Item 515",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 85,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_515"]
+  },
+  {
+    id: "gpasimulatorui-0516",
+    code: "NEC-GPASIMULATORUI-0516",
+    title: "Academic Advising GPA Simulator Widget - Item 516",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 86,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_516"]
+  },
+  {
+    id: "gpasimulatorui-0517",
+    code: "NEC-GPASIMULATORUI-0517",
+    title: "Academic Advising GPA Simulator Widget - Item 517",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_517"]
+  },
+  {
+    id: "gpasimulatorui-0518",
+    code: "NEC-GPASIMULATORUI-0518",
+    title: "Academic Advising GPA Simulator Widget - Item 518",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 88,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_518"]
+  },
+  {
+    id: "gpasimulatorui-0519",
+    code: "NEC-GPASIMULATORUI-0519",
+    title: "Academic Advising GPA Simulator Widget - Item 519",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 89,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_519"]
+  },
+  {
+    id: "gpasimulatorui-0520",
+    code: "NEC-GPASIMULATORUI-0520",
+    title: "Academic Advising GPA Simulator Widget - Item 520",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 90,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_520"]
+  },
+  {
+    id: "gpasimulatorui-0521",
+    code: "NEC-GPASIMULATORUI-0521",
+    title: "Academic Advising GPA Simulator Widget - Item 521",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 91,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_521"]
+  },
+  {
+    id: "gpasimulatorui-0522",
+    code: "NEC-GPASIMULATORUI-0522",
+    title: "Academic Advising GPA Simulator Widget - Item 522",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 92,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_522"]
+  },
+  {
+    id: "gpasimulatorui-0523",
+    code: "NEC-GPASIMULATORUI-0523",
+    title: "Academic Advising GPA Simulator Widget - Item 523",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 93,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_523"]
+  },
+  {
+    id: "gpasimulatorui-0524",
+    code: "NEC-GPASIMULATORUI-0524",
+    title: "Academic Advising GPA Simulator Widget - Item 524",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 94,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_524"]
+  },
+  {
+    id: "gpasimulatorui-0525",
+    code: "NEC-GPASIMULATORUI-0525",
+    title: "Academic Advising GPA Simulator Widget - Item 525",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 70,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_525"]
+  },
+  {
+    id: "gpasimulatorui-0526",
+    code: "NEC-GPASIMULATORUI-0526",
+    title: "Academic Advising GPA Simulator Widget - Item 526",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 71,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_526"]
+  },
+  {
+    id: "gpasimulatorui-0527",
+    code: "NEC-GPASIMULATORUI-0527",
+    title: "Academic Advising GPA Simulator Widget - Item 527",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 72,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_527"]
+  },
+  {
+    id: "gpasimulatorui-0528",
+    code: "NEC-GPASIMULATORUI-0528",
+    title: "Academic Advising GPA Simulator Widget - Item 528",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 73,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_528"]
+  },
+  {
+    id: "gpasimulatorui-0529",
+    code: "NEC-GPASIMULATORUI-0529",
+    title: "Academic Advising GPA Simulator Widget - Item 529",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 74,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_529"]
+  },
+  {
+    id: "gpasimulatorui-0530",
+    code: "NEC-GPASIMULATORUI-0530",
+    title: "Academic Advising GPA Simulator Widget - Item 530",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_530"]
+  },
+  {
+    id: "gpasimulatorui-0531",
+    code: "NEC-GPASIMULATORUI-0531",
+    title: "Academic Advising GPA Simulator Widget - Item 531",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 76,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_531"]
+  },
+  {
+    id: "gpasimulatorui-0532",
+    code: "NEC-GPASIMULATORUI-0532",
+    title: "Academic Advising GPA Simulator Widget - Item 532",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 77,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_532"]
+  },
+  {
+    id: "gpasimulatorui-0533",
+    code: "NEC-GPASIMULATORUI-0533",
+    title: "Academic Advising GPA Simulator Widget - Item 533",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 78,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_533"]
+  },
+  {
+    id: "gpasimulatorui-0534",
+    code: "NEC-GPASIMULATORUI-0534",
+    title: "Academic Advising GPA Simulator Widget - Item 534",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 79,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_534"]
+  },
+  {
+    id: "gpasimulatorui-0535",
+    code: "NEC-GPASIMULATORUI-0535",
+    title: "Academic Advising GPA Simulator Widget - Item 535",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 80,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_535"]
+  },
+  {
+    id: "gpasimulatorui-0536",
+    code: "NEC-GPASIMULATORUI-0536",
+    title: "Academic Advising GPA Simulator Widget - Item 536",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 81,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_536"]
+  },
+  {
+    id: "gpasimulatorui-0537",
+    code: "NEC-GPASIMULATORUI-0537",
+    title: "Academic Advising GPA Simulator Widget - Item 537",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 82,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_537"]
+  },
+  {
+    id: "gpasimulatorui-0538",
+    code: "NEC-GPASIMULATORUI-0538",
+    title: "Academic Advising GPA Simulator Widget - Item 538",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 83,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_538"]
+  },
+  {
+    id: "gpasimulatorui-0539",
+    code: "NEC-GPASIMULATORUI-0539",
+    title: "Academic Advising GPA Simulator Widget - Item 539",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 84,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_539"]
+  },
+  {
+    id: "gpasimulatorui-0540",
+    code: "NEC-GPASIMULATORUI-0540",
+    title: "Academic Advising GPA Simulator Widget - Item 540",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 85,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_540"]
+  },
+  {
+    id: "gpasimulatorui-0541",
+    code: "NEC-GPASIMULATORUI-0541",
+    title: "Academic Advising GPA Simulator Widget - Item 541",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 86,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_541"]
+  },
+  {
+    id: "gpasimulatorui-0542",
+    code: "NEC-GPASIMULATORUI-0542",
+    title: "Academic Advising GPA Simulator Widget - Item 542",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_542"]
+  },
+  {
+    id: "gpasimulatorui-0543",
+    code: "NEC-GPASIMULATORUI-0543",
+    title: "Academic Advising GPA Simulator Widget - Item 543",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 88,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_543"]
+  },
+  {
+    id: "gpasimulatorui-0544",
+    code: "NEC-GPASIMULATORUI-0544",
+    title: "Academic Advising GPA Simulator Widget - Item 544",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 89,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_544"]
+  },
+  {
+    id: "gpasimulatorui-0545",
+    code: "NEC-GPASIMULATORUI-0545",
+    title: "Academic Advising GPA Simulator Widget - Item 545",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 90,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_545"]
+  },
+  {
+    id: "gpasimulatorui-0546",
+    code: "NEC-GPASIMULATORUI-0546",
+    title: "Academic Advising GPA Simulator Widget - Item 546",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 91,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_546"]
+  },
+  {
+    id: "gpasimulatorui-0547",
+    code: "NEC-GPASIMULATORUI-0547",
+    title: "Academic Advising GPA Simulator Widget - Item 547",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 92,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_547"]
+  },
+  {
+    id: "gpasimulatorui-0548",
+    code: "NEC-GPASIMULATORUI-0548",
+    title: "Academic Advising GPA Simulator Widget - Item 548",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 93,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_548"]
+  },
+  {
+    id: "gpasimulatorui-0549",
+    code: "NEC-GPASIMULATORUI-0549",
+    title: "Academic Advising GPA Simulator Widget - Item 549",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 94,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_549"]
+  },
+  {
+    id: "gpasimulatorui-0550",
+    code: "NEC-GPASIMULATORUI-0550",
+    title: "Academic Advising GPA Simulator Widget - Item 550",
+    category: "GPASIMULATORUI_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 70,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_550"]
+  },
 ];
 
 export function filterGPASIMULATORUIBySemester(semester: number): AcademicEntityItem[] {

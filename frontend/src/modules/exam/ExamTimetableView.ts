@@ -6821,6 +6821,2006 @@ export const EXAMTIMETABLE_REGISTRY: AcademicEntityItem[] = [
     },
     tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_425"]
   },
+  {
+    id: "examtimetable-0426",
+    code: "NEC-EXAMTIMETABLE-0426",
+    title: "Examination Timetable and Rules Viewer - Item 426",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 71,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_426"]
+  },
+  {
+    id: "examtimetable-0427",
+    code: "NEC-EXAMTIMETABLE-0427",
+    title: "Examination Timetable and Rules Viewer - Item 427",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 72,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_427"]
+  },
+  {
+    id: "examtimetable-0428",
+    code: "NEC-EXAMTIMETABLE-0428",
+    title: "Examination Timetable and Rules Viewer - Item 428",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 73,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_428"]
+  },
+  {
+    id: "examtimetable-0429",
+    code: "NEC-EXAMTIMETABLE-0429",
+    title: "Examination Timetable and Rules Viewer - Item 429",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 74,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_429"]
+  },
+  {
+    id: "examtimetable-0430",
+    code: "NEC-EXAMTIMETABLE-0430",
+    title: "Examination Timetable and Rules Viewer - Item 430",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_430"]
+  },
+  {
+    id: "examtimetable-0431",
+    code: "NEC-EXAMTIMETABLE-0431",
+    title: "Examination Timetable and Rules Viewer - Item 431",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 76,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_431"]
+  },
+  {
+    id: "examtimetable-0432",
+    code: "NEC-EXAMTIMETABLE-0432",
+    title: "Examination Timetable and Rules Viewer - Item 432",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 77,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_432"]
+  },
+  {
+    id: "examtimetable-0433",
+    code: "NEC-EXAMTIMETABLE-0433",
+    title: "Examination Timetable and Rules Viewer - Item 433",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 78,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_433"]
+  },
+  {
+    id: "examtimetable-0434",
+    code: "NEC-EXAMTIMETABLE-0434",
+    title: "Examination Timetable and Rules Viewer - Item 434",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 79,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_434"]
+  },
+  {
+    id: "examtimetable-0435",
+    code: "NEC-EXAMTIMETABLE-0435",
+    title: "Examination Timetable and Rules Viewer - Item 435",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 80,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_435"]
+  },
+  {
+    id: "examtimetable-0436",
+    code: "NEC-EXAMTIMETABLE-0436",
+    title: "Examination Timetable and Rules Viewer - Item 436",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 81,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_436"]
+  },
+  {
+    id: "examtimetable-0437",
+    code: "NEC-EXAMTIMETABLE-0437",
+    title: "Examination Timetable and Rules Viewer - Item 437",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 82,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_437"]
+  },
+  {
+    id: "examtimetable-0438",
+    code: "NEC-EXAMTIMETABLE-0438",
+    title: "Examination Timetable and Rules Viewer - Item 438",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 83,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_438"]
+  },
+  {
+    id: "examtimetable-0439",
+    code: "NEC-EXAMTIMETABLE-0439",
+    title: "Examination Timetable and Rules Viewer - Item 439",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 84,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_439"]
+  },
+  {
+    id: "examtimetable-0440",
+    code: "NEC-EXAMTIMETABLE-0440",
+    title: "Examination Timetable and Rules Viewer - Item 440",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 85,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_440"]
+  },
+  {
+    id: "examtimetable-0441",
+    code: "NEC-EXAMTIMETABLE-0441",
+    title: "Examination Timetable and Rules Viewer - Item 441",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 86,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_441"]
+  },
+  {
+    id: "examtimetable-0442",
+    code: "NEC-EXAMTIMETABLE-0442",
+    title: "Examination Timetable and Rules Viewer - Item 442",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_442"]
+  },
+  {
+    id: "examtimetable-0443",
+    code: "NEC-EXAMTIMETABLE-0443",
+    title: "Examination Timetable and Rules Viewer - Item 443",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 88,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_443"]
+  },
+  {
+    id: "examtimetable-0444",
+    code: "NEC-EXAMTIMETABLE-0444",
+    title: "Examination Timetable and Rules Viewer - Item 444",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 89,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_444"]
+  },
+  {
+    id: "examtimetable-0445",
+    code: "NEC-EXAMTIMETABLE-0445",
+    title: "Examination Timetable and Rules Viewer - Item 445",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 90,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_445"]
+  },
+  {
+    id: "examtimetable-0446",
+    code: "NEC-EXAMTIMETABLE-0446",
+    title: "Examination Timetable and Rules Viewer - Item 446",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 91,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_446"]
+  },
+  {
+    id: "examtimetable-0447",
+    code: "NEC-EXAMTIMETABLE-0447",
+    title: "Examination Timetable and Rules Viewer - Item 447",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 92,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_447"]
+  },
+  {
+    id: "examtimetable-0448",
+    code: "NEC-EXAMTIMETABLE-0448",
+    title: "Examination Timetable and Rules Viewer - Item 448",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 93,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_448"]
+  },
+  {
+    id: "examtimetable-0449",
+    code: "NEC-EXAMTIMETABLE-0449",
+    title: "Examination Timetable and Rules Viewer - Item 449",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 94,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_449"]
+  },
+  {
+    id: "examtimetable-0450",
+    code: "NEC-EXAMTIMETABLE-0450",
+    title: "Examination Timetable and Rules Viewer - Item 450",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 70,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_450"]
+  },
+  {
+    id: "examtimetable-0451",
+    code: "NEC-EXAMTIMETABLE-0451",
+    title: "Examination Timetable and Rules Viewer - Item 451",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 71,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_451"]
+  },
+  {
+    id: "examtimetable-0452",
+    code: "NEC-EXAMTIMETABLE-0452",
+    title: "Examination Timetable and Rules Viewer - Item 452",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 72,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_452"]
+  },
+  {
+    id: "examtimetable-0453",
+    code: "NEC-EXAMTIMETABLE-0453",
+    title: "Examination Timetable and Rules Viewer - Item 453",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 73,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_453"]
+  },
+  {
+    id: "examtimetable-0454",
+    code: "NEC-EXAMTIMETABLE-0454",
+    title: "Examination Timetable and Rules Viewer - Item 454",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 74,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_454"]
+  },
+  {
+    id: "examtimetable-0455",
+    code: "NEC-EXAMTIMETABLE-0455",
+    title: "Examination Timetable and Rules Viewer - Item 455",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_455"]
+  },
+  {
+    id: "examtimetable-0456",
+    code: "NEC-EXAMTIMETABLE-0456",
+    title: "Examination Timetable and Rules Viewer - Item 456",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 76,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_456"]
+  },
+  {
+    id: "examtimetable-0457",
+    code: "NEC-EXAMTIMETABLE-0457",
+    title: "Examination Timetable and Rules Viewer - Item 457",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 77,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_457"]
+  },
+  {
+    id: "examtimetable-0458",
+    code: "NEC-EXAMTIMETABLE-0458",
+    title: "Examination Timetable and Rules Viewer - Item 458",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 78,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_458"]
+  },
+  {
+    id: "examtimetable-0459",
+    code: "NEC-EXAMTIMETABLE-0459",
+    title: "Examination Timetable and Rules Viewer - Item 459",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 79,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_459"]
+  },
+  {
+    id: "examtimetable-0460",
+    code: "NEC-EXAMTIMETABLE-0460",
+    title: "Examination Timetable and Rules Viewer - Item 460",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 80,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_460"]
+  },
+  {
+    id: "examtimetable-0461",
+    code: "NEC-EXAMTIMETABLE-0461",
+    title: "Examination Timetable and Rules Viewer - Item 461",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 81,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_461"]
+  },
+  {
+    id: "examtimetable-0462",
+    code: "NEC-EXAMTIMETABLE-0462",
+    title: "Examination Timetable and Rules Viewer - Item 462",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 82,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_462"]
+  },
+  {
+    id: "examtimetable-0463",
+    code: "NEC-EXAMTIMETABLE-0463",
+    title: "Examination Timetable and Rules Viewer - Item 463",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 83,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_463"]
+  },
+  {
+    id: "examtimetable-0464",
+    code: "NEC-EXAMTIMETABLE-0464",
+    title: "Examination Timetable and Rules Viewer - Item 464",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 84,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_464"]
+  },
+  {
+    id: "examtimetable-0465",
+    code: "NEC-EXAMTIMETABLE-0465",
+    title: "Examination Timetable and Rules Viewer - Item 465",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 85,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_465"]
+  },
+  {
+    id: "examtimetable-0466",
+    code: "NEC-EXAMTIMETABLE-0466",
+    title: "Examination Timetable and Rules Viewer - Item 466",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 86,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_466"]
+  },
+  {
+    id: "examtimetable-0467",
+    code: "NEC-EXAMTIMETABLE-0467",
+    title: "Examination Timetable and Rules Viewer - Item 467",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_467"]
+  },
+  {
+    id: "examtimetable-0468",
+    code: "NEC-EXAMTIMETABLE-0468",
+    title: "Examination Timetable and Rules Viewer - Item 468",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 88,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_468"]
+  },
+  {
+    id: "examtimetable-0469",
+    code: "NEC-EXAMTIMETABLE-0469",
+    title: "Examination Timetable and Rules Viewer - Item 469",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 89,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_469"]
+  },
+  {
+    id: "examtimetable-0470",
+    code: "NEC-EXAMTIMETABLE-0470",
+    title: "Examination Timetable and Rules Viewer - Item 470",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 90,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_470"]
+  },
+  {
+    id: "examtimetable-0471",
+    code: "NEC-EXAMTIMETABLE-0471",
+    title: "Examination Timetable and Rules Viewer - Item 471",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 91,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_471"]
+  },
+  {
+    id: "examtimetable-0472",
+    code: "NEC-EXAMTIMETABLE-0472",
+    title: "Examination Timetable and Rules Viewer - Item 472",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 92,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_472"]
+  },
+  {
+    id: "examtimetable-0473",
+    code: "NEC-EXAMTIMETABLE-0473",
+    title: "Examination Timetable and Rules Viewer - Item 473",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 93,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_473"]
+  },
+  {
+    id: "examtimetable-0474",
+    code: "NEC-EXAMTIMETABLE-0474",
+    title: "Examination Timetable and Rules Viewer - Item 474",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 94,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_474"]
+  },
+  {
+    id: "examtimetable-0475",
+    code: "NEC-EXAMTIMETABLE-0475",
+    title: "Examination Timetable and Rules Viewer - Item 475",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 70,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_475"]
+  },
+  {
+    id: "examtimetable-0476",
+    code: "NEC-EXAMTIMETABLE-0476",
+    title: "Examination Timetable and Rules Viewer - Item 476",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 71,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_476"]
+  },
+  {
+    id: "examtimetable-0477",
+    code: "NEC-EXAMTIMETABLE-0477",
+    title: "Examination Timetable and Rules Viewer - Item 477",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 72,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_477"]
+  },
+  {
+    id: "examtimetable-0478",
+    code: "NEC-EXAMTIMETABLE-0478",
+    title: "Examination Timetable and Rules Viewer - Item 478",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 73,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_478"]
+  },
+  {
+    id: "examtimetable-0479",
+    code: "NEC-EXAMTIMETABLE-0479",
+    title: "Examination Timetable and Rules Viewer - Item 479",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 74,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_479"]
+  },
+  {
+    id: "examtimetable-0480",
+    code: "NEC-EXAMTIMETABLE-0480",
+    title: "Examination Timetable and Rules Viewer - Item 480",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 75,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_480"]
+  },
+  {
+    id: "examtimetable-0481",
+    code: "NEC-EXAMTIMETABLE-0481",
+    title: "Examination Timetable and Rules Viewer - Item 481",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 76,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_481"]
+  },
+  {
+    id: "examtimetable-0482",
+    code: "NEC-EXAMTIMETABLE-0482",
+    title: "Examination Timetable and Rules Viewer - Item 482",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 77,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_482"]
+  },
+  {
+    id: "examtimetable-0483",
+    code: "NEC-EXAMTIMETABLE-0483",
+    title: "Examination Timetable and Rules Viewer - Item 483",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 78,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_483"]
+  },
+  {
+    id: "examtimetable-0484",
+    code: "NEC-EXAMTIMETABLE-0484",
+    title: "Examination Timetable and Rules Viewer - Item 484",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 79,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_484"]
+  },
+  {
+    id: "examtimetable-0485",
+    code: "NEC-EXAMTIMETABLE-0485",
+    title: "Examination Timetable and Rules Viewer - Item 485",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 80,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_485"]
+  },
+  {
+    id: "examtimetable-0486",
+    code: "NEC-EXAMTIMETABLE-0486",
+    title: "Examination Timetable and Rules Viewer - Item 486",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 81,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_486"]
+  },
+  {
+    id: "examtimetable-0487",
+    code: "NEC-EXAMTIMETABLE-0487",
+    title: "Examination Timetable and Rules Viewer - Item 487",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 82,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_487"]
+  },
+  {
+    id: "examtimetable-0488",
+    code: "NEC-EXAMTIMETABLE-0488",
+    title: "Examination Timetable and Rules Viewer - Item 488",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 83,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_488"]
+  },
+  {
+    id: "examtimetable-0489",
+    code: "NEC-EXAMTIMETABLE-0489",
+    title: "Examination Timetable and Rules Viewer - Item 489",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 84,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_489"]
+  },
+  {
+    id: "examtimetable-0490",
+    code: "NEC-EXAMTIMETABLE-0490",
+    title: "Examination Timetable and Rules Viewer - Item 490",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 85,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_490"]
+  },
+  {
+    id: "examtimetable-0491",
+    code: "NEC-EXAMTIMETABLE-0491",
+    title: "Examination Timetable and Rules Viewer - Item 491",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 86,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_491"]
+  },
+  {
+    id: "examtimetable-0492",
+    code: "NEC-EXAMTIMETABLE-0492",
+    title: "Examination Timetable and Rules Viewer - Item 492",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 87,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_492"]
+  },
+  {
+    id: "examtimetable-0493",
+    code: "NEC-EXAMTIMETABLE-0493",
+    title: "Examination Timetable and Rules Viewer - Item 493",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 88,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_493"]
+  },
+  {
+    id: "examtimetable-0494",
+    code: "NEC-EXAMTIMETABLE-0494",
+    title: "Examination Timetable and Rules Viewer - Item 494",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 89,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_494"]
+  },
+  {
+    id: "examtimetable-0495",
+    code: "NEC-EXAMTIMETABLE-0495",
+    title: "Examination Timetable and Rules Viewer - Item 495",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 90,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_495"]
+  },
+  {
+    id: "examtimetable-0496",
+    code: "NEC-EXAMTIMETABLE-0496",
+    title: "Examination Timetable and Rules Viewer - Item 496",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 91,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_496"]
+  },
+  {
+    id: "examtimetable-0497",
+    code: "NEC-EXAMTIMETABLE-0497",
+    title: "Examination Timetable and Rules Viewer - Item 497",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 92,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_497"]
+  },
+  {
+    id: "examtimetable-0498",
+    code: "NEC-EXAMTIMETABLE-0498",
+    title: "Examination Timetable and Rules Viewer - Item 498",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 93,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_498"]
+  },
+  {
+    id: "examtimetable-0499",
+    code: "NEC-EXAMTIMETABLE-0499",
+    title: "Examination Timetable and Rules Viewer - Item 499",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 94,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_499"]
+  },
+  {
+    id: "examtimetable-0500",
+    code: "NEC-EXAMTIMETABLE-0500",
+    title: "Examination Timetable and Rules Viewer - Item 500",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 70,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_500"]
+  },
+  {
+    id: "examtimetable-0501",
+    code: "NEC-EXAMTIMETABLE-0501",
+    title: "Examination Timetable and Rules Viewer - Item 501",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 71,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_501"]
+  },
+  {
+    id: "examtimetable-0502",
+    code: "NEC-EXAMTIMETABLE-0502",
+    title: "Examination Timetable and Rules Viewer - Item 502",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 72,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_502"]
+  },
+  {
+    id: "examtimetable-0503",
+    code: "NEC-EXAMTIMETABLE-0503",
+    title: "Examination Timetable and Rules Viewer - Item 503",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 73,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_503"]
+  },
+  {
+    id: "examtimetable-0504",
+    code: "NEC-EXAMTIMETABLE-0504",
+    title: "Examination Timetable and Rules Viewer - Item 504",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 74,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_504"]
+  },
+  {
+    id: "examtimetable-0505",
+    code: "NEC-EXAMTIMETABLE-0505",
+    title: "Examination Timetable and Rules Viewer - Item 505",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_505"]
+  },
+  {
+    id: "examtimetable-0506",
+    code: "NEC-EXAMTIMETABLE-0506",
+    title: "Examination Timetable and Rules Viewer - Item 506",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 76,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_506"]
+  },
+  {
+    id: "examtimetable-0507",
+    code: "NEC-EXAMTIMETABLE-0507",
+    title: "Examination Timetable and Rules Viewer - Item 507",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 77,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_507"]
+  },
+  {
+    id: "examtimetable-0508",
+    code: "NEC-EXAMTIMETABLE-0508",
+    title: "Examination Timetable and Rules Viewer - Item 508",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 78,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_508"]
+  },
+  {
+    id: "examtimetable-0509",
+    code: "NEC-EXAMTIMETABLE-0509",
+    title: "Examination Timetable and Rules Viewer - Item 509",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 79,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_509"]
+  },
+  {
+    id: "examtimetable-0510",
+    code: "NEC-EXAMTIMETABLE-0510",
+    title: "Examination Timetable and Rules Viewer - Item 510",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 80,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_510"]
+  },
+  {
+    id: "examtimetable-0511",
+    code: "NEC-EXAMTIMETABLE-0511",
+    title: "Examination Timetable and Rules Viewer - Item 511",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 81,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_511"]
+  },
+  {
+    id: "examtimetable-0512",
+    code: "NEC-EXAMTIMETABLE-0512",
+    title: "Examination Timetable and Rules Viewer - Item 512",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 82,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_512"]
+  },
+  {
+    id: "examtimetable-0513",
+    code: "NEC-EXAMTIMETABLE-0513",
+    title: "Examination Timetable and Rules Viewer - Item 513",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 83,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_513"]
+  },
+  {
+    id: "examtimetable-0514",
+    code: "NEC-EXAMTIMETABLE-0514",
+    title: "Examination Timetable and Rules Viewer - Item 514",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 84,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_514"]
+  },
+  {
+    id: "examtimetable-0515",
+    code: "NEC-EXAMTIMETABLE-0515",
+    title: "Examination Timetable and Rules Viewer - Item 515",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 85,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_515"]
+  },
+  {
+    id: "examtimetable-0516",
+    code: "NEC-EXAMTIMETABLE-0516",
+    title: "Examination Timetable and Rules Viewer - Item 516",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 86,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_516"]
+  },
+  {
+    id: "examtimetable-0517",
+    code: "NEC-EXAMTIMETABLE-0517",
+    title: "Examination Timetable and Rules Viewer - Item 517",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_517"]
+  },
+  {
+    id: "examtimetable-0518",
+    code: "NEC-EXAMTIMETABLE-0518",
+    title: "Examination Timetable and Rules Viewer - Item 518",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 88,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_518"]
+  },
+  {
+    id: "examtimetable-0519",
+    code: "NEC-EXAMTIMETABLE-0519",
+    title: "Examination Timetable and Rules Viewer - Item 519",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 89,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_519"]
+  },
+  {
+    id: "examtimetable-0520",
+    code: "NEC-EXAMTIMETABLE-0520",
+    title: "Examination Timetable and Rules Viewer - Item 520",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 90,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_520"]
+  },
+  {
+    id: "examtimetable-0521",
+    code: "NEC-EXAMTIMETABLE-0521",
+    title: "Examination Timetable and Rules Viewer - Item 521",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 91,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_521"]
+  },
+  {
+    id: "examtimetable-0522",
+    code: "NEC-EXAMTIMETABLE-0522",
+    title: "Examination Timetable and Rules Viewer - Item 522",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 92,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_522"]
+  },
+  {
+    id: "examtimetable-0523",
+    code: "NEC-EXAMTIMETABLE-0523",
+    title: "Examination Timetable and Rules Viewer - Item 523",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 93,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_523"]
+  },
+  {
+    id: "examtimetable-0524",
+    code: "NEC-EXAMTIMETABLE-0524",
+    title: "Examination Timetable and Rules Viewer - Item 524",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 94,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_524"]
+  },
+  {
+    id: "examtimetable-0525",
+    code: "NEC-EXAMTIMETABLE-0525",
+    title: "Examination Timetable and Rules Viewer - Item 525",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 70,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_525"]
+  },
+  {
+    id: "examtimetable-0526",
+    code: "NEC-EXAMTIMETABLE-0526",
+    title: "Examination Timetable and Rules Viewer - Item 526",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 71,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_526"]
+  },
+  {
+    id: "examtimetable-0527",
+    code: "NEC-EXAMTIMETABLE-0527",
+    title: "Examination Timetable and Rules Viewer - Item 527",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 72,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_527"]
+  },
+  {
+    id: "examtimetable-0528",
+    code: "NEC-EXAMTIMETABLE-0528",
+    title: "Examination Timetable and Rules Viewer - Item 528",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 73,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_528"]
+  },
+  {
+    id: "examtimetable-0529",
+    code: "NEC-EXAMTIMETABLE-0529",
+    title: "Examination Timetable and Rules Viewer - Item 529",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 74,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_529"]
+  },
+  {
+    id: "examtimetable-0530",
+    code: "NEC-EXAMTIMETABLE-0530",
+    title: "Examination Timetable and Rules Viewer - Item 530",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_530"]
+  },
+  {
+    id: "examtimetable-0531",
+    code: "NEC-EXAMTIMETABLE-0531",
+    title: "Examination Timetable and Rules Viewer - Item 531",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 76,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_531"]
+  },
+  {
+    id: "examtimetable-0532",
+    code: "NEC-EXAMTIMETABLE-0532",
+    title: "Examination Timetable and Rules Viewer - Item 532",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 77,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_532"]
+  },
+  {
+    id: "examtimetable-0533",
+    code: "NEC-EXAMTIMETABLE-0533",
+    title: "Examination Timetable and Rules Viewer - Item 533",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 78,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_533"]
+  },
+  {
+    id: "examtimetable-0534",
+    code: "NEC-EXAMTIMETABLE-0534",
+    title: "Examination Timetable and Rules Viewer - Item 534",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 79,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_534"]
+  },
+  {
+    id: "examtimetable-0535",
+    code: "NEC-EXAMTIMETABLE-0535",
+    title: "Examination Timetable and Rules Viewer - Item 535",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 80,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_535"]
+  },
+  {
+    id: "examtimetable-0536",
+    code: "NEC-EXAMTIMETABLE-0536",
+    title: "Examination Timetable and Rules Viewer - Item 536",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 81,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_536"]
+  },
+  {
+    id: "examtimetable-0537",
+    code: "NEC-EXAMTIMETABLE-0537",
+    title: "Examination Timetable and Rules Viewer - Item 537",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 82,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_537"]
+  },
+  {
+    id: "examtimetable-0538",
+    code: "NEC-EXAMTIMETABLE-0538",
+    title: "Examination Timetable and Rules Viewer - Item 538",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 83,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_538"]
+  },
+  {
+    id: "examtimetable-0539",
+    code: "NEC-EXAMTIMETABLE-0539",
+    title: "Examination Timetable and Rules Viewer - Item 539",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 84,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_539"]
+  },
+  {
+    id: "examtimetable-0540",
+    code: "NEC-EXAMTIMETABLE-0540",
+    title: "Examination Timetable and Rules Viewer - Item 540",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 85,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_540"]
+  },
+  {
+    id: "examtimetable-0541",
+    code: "NEC-EXAMTIMETABLE-0541",
+    title: "Examination Timetable and Rules Viewer - Item 541",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 86,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_541"]
+  },
+  {
+    id: "examtimetable-0542",
+    code: "NEC-EXAMTIMETABLE-0542",
+    title: "Examination Timetable and Rules Viewer - Item 542",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_542"]
+  },
+  {
+    id: "examtimetable-0543",
+    code: "NEC-EXAMTIMETABLE-0543",
+    title: "Examination Timetable and Rules Viewer - Item 543",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 88,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_543"]
+  },
+  {
+    id: "examtimetable-0544",
+    code: "NEC-EXAMTIMETABLE-0544",
+    title: "Examination Timetable and Rules Viewer - Item 544",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 89,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_544"]
+  },
+  {
+    id: "examtimetable-0545",
+    code: "NEC-EXAMTIMETABLE-0545",
+    title: "Examination Timetable and Rules Viewer - Item 545",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 90,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_545"]
+  },
+  {
+    id: "examtimetable-0546",
+    code: "NEC-EXAMTIMETABLE-0546",
+    title: "Examination Timetable and Rules Viewer - Item 546",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 91,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_546"]
+  },
+  {
+    id: "examtimetable-0547",
+    code: "NEC-EXAMTIMETABLE-0547",
+    title: "Examination Timetable and Rules Viewer - Item 547",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 92,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_547"]
+  },
+  {
+    id: "examtimetable-0548",
+    code: "NEC-EXAMTIMETABLE-0548",
+    title: "Examination Timetable and Rules Viewer - Item 548",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 93,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_548"]
+  },
+  {
+    id: "examtimetable-0549",
+    code: "NEC-EXAMTIMETABLE-0549",
+    title: "Examination Timetable and Rules Viewer - Item 549",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 94,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_549"]
+  },
+  {
+    id: "examtimetable-0550",
+    code: "NEC-EXAMTIMETABLE-0550",
+    title: "Examination Timetable and Rules Viewer - Item 550",
+    category: "EXAMTIMETABLE_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 70,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_550"]
+  },
 ];
 
 export function filterEXAMTIMETABLEBySemester(semester: number): AcademicEntityItem[] {

@@ -6821,6 +6821,2006 @@ export const SYLLABUSBROWSER_REGISTRY: AcademicEntityItem[] = [
     },
     tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_425"]
   },
+  {
+    id: "syllabusbrowser-0426",
+    code: "NEC-SYLLABUSBROWSER-0426",
+    title: "Interactive Academic Curriculum Browser - Item 426",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 71,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_426"]
+  },
+  {
+    id: "syllabusbrowser-0427",
+    code: "NEC-SYLLABUSBROWSER-0427",
+    title: "Interactive Academic Curriculum Browser - Item 427",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 72,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_427"]
+  },
+  {
+    id: "syllabusbrowser-0428",
+    code: "NEC-SYLLABUSBROWSER-0428",
+    title: "Interactive Academic Curriculum Browser - Item 428",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 73,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_428"]
+  },
+  {
+    id: "syllabusbrowser-0429",
+    code: "NEC-SYLLABUSBROWSER-0429",
+    title: "Interactive Academic Curriculum Browser - Item 429",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 74,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_429"]
+  },
+  {
+    id: "syllabusbrowser-0430",
+    code: "NEC-SYLLABUSBROWSER-0430",
+    title: "Interactive Academic Curriculum Browser - Item 430",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_430"]
+  },
+  {
+    id: "syllabusbrowser-0431",
+    code: "NEC-SYLLABUSBROWSER-0431",
+    title: "Interactive Academic Curriculum Browser - Item 431",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 76,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_431"]
+  },
+  {
+    id: "syllabusbrowser-0432",
+    code: "NEC-SYLLABUSBROWSER-0432",
+    title: "Interactive Academic Curriculum Browser - Item 432",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 77,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_432"]
+  },
+  {
+    id: "syllabusbrowser-0433",
+    code: "NEC-SYLLABUSBROWSER-0433",
+    title: "Interactive Academic Curriculum Browser - Item 433",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 78,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_433"]
+  },
+  {
+    id: "syllabusbrowser-0434",
+    code: "NEC-SYLLABUSBROWSER-0434",
+    title: "Interactive Academic Curriculum Browser - Item 434",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 79,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_434"]
+  },
+  {
+    id: "syllabusbrowser-0435",
+    code: "NEC-SYLLABUSBROWSER-0435",
+    title: "Interactive Academic Curriculum Browser - Item 435",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 80,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_435"]
+  },
+  {
+    id: "syllabusbrowser-0436",
+    code: "NEC-SYLLABUSBROWSER-0436",
+    title: "Interactive Academic Curriculum Browser - Item 436",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 81,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_436"]
+  },
+  {
+    id: "syllabusbrowser-0437",
+    code: "NEC-SYLLABUSBROWSER-0437",
+    title: "Interactive Academic Curriculum Browser - Item 437",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 82,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_437"]
+  },
+  {
+    id: "syllabusbrowser-0438",
+    code: "NEC-SYLLABUSBROWSER-0438",
+    title: "Interactive Academic Curriculum Browser - Item 438",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 83,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_438"]
+  },
+  {
+    id: "syllabusbrowser-0439",
+    code: "NEC-SYLLABUSBROWSER-0439",
+    title: "Interactive Academic Curriculum Browser - Item 439",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 84,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_439"]
+  },
+  {
+    id: "syllabusbrowser-0440",
+    code: "NEC-SYLLABUSBROWSER-0440",
+    title: "Interactive Academic Curriculum Browser - Item 440",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 85,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_440"]
+  },
+  {
+    id: "syllabusbrowser-0441",
+    code: "NEC-SYLLABUSBROWSER-0441",
+    title: "Interactive Academic Curriculum Browser - Item 441",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 86,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_441"]
+  },
+  {
+    id: "syllabusbrowser-0442",
+    code: "NEC-SYLLABUSBROWSER-0442",
+    title: "Interactive Academic Curriculum Browser - Item 442",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_442"]
+  },
+  {
+    id: "syllabusbrowser-0443",
+    code: "NEC-SYLLABUSBROWSER-0443",
+    title: "Interactive Academic Curriculum Browser - Item 443",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 88,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_443"]
+  },
+  {
+    id: "syllabusbrowser-0444",
+    code: "NEC-SYLLABUSBROWSER-0444",
+    title: "Interactive Academic Curriculum Browser - Item 444",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 89,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_444"]
+  },
+  {
+    id: "syllabusbrowser-0445",
+    code: "NEC-SYLLABUSBROWSER-0445",
+    title: "Interactive Academic Curriculum Browser - Item 445",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 90,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_445"]
+  },
+  {
+    id: "syllabusbrowser-0446",
+    code: "NEC-SYLLABUSBROWSER-0446",
+    title: "Interactive Academic Curriculum Browser - Item 446",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 91,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_446"]
+  },
+  {
+    id: "syllabusbrowser-0447",
+    code: "NEC-SYLLABUSBROWSER-0447",
+    title: "Interactive Academic Curriculum Browser - Item 447",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 92,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_447"]
+  },
+  {
+    id: "syllabusbrowser-0448",
+    code: "NEC-SYLLABUSBROWSER-0448",
+    title: "Interactive Academic Curriculum Browser - Item 448",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 93,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_448"]
+  },
+  {
+    id: "syllabusbrowser-0449",
+    code: "NEC-SYLLABUSBROWSER-0449",
+    title: "Interactive Academic Curriculum Browser - Item 449",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 94,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_449"]
+  },
+  {
+    id: "syllabusbrowser-0450",
+    code: "NEC-SYLLABUSBROWSER-0450",
+    title: "Interactive Academic Curriculum Browser - Item 450",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 70,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_450"]
+  },
+  {
+    id: "syllabusbrowser-0451",
+    code: "NEC-SYLLABUSBROWSER-0451",
+    title: "Interactive Academic Curriculum Browser - Item 451",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 71,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_451"]
+  },
+  {
+    id: "syllabusbrowser-0452",
+    code: "NEC-SYLLABUSBROWSER-0452",
+    title: "Interactive Academic Curriculum Browser - Item 452",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 72,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_452"]
+  },
+  {
+    id: "syllabusbrowser-0453",
+    code: "NEC-SYLLABUSBROWSER-0453",
+    title: "Interactive Academic Curriculum Browser - Item 453",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 73,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_453"]
+  },
+  {
+    id: "syllabusbrowser-0454",
+    code: "NEC-SYLLABUSBROWSER-0454",
+    title: "Interactive Academic Curriculum Browser - Item 454",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 74,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_454"]
+  },
+  {
+    id: "syllabusbrowser-0455",
+    code: "NEC-SYLLABUSBROWSER-0455",
+    title: "Interactive Academic Curriculum Browser - Item 455",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_455"]
+  },
+  {
+    id: "syllabusbrowser-0456",
+    code: "NEC-SYLLABUSBROWSER-0456",
+    title: "Interactive Academic Curriculum Browser - Item 456",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 76,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_456"]
+  },
+  {
+    id: "syllabusbrowser-0457",
+    code: "NEC-SYLLABUSBROWSER-0457",
+    title: "Interactive Academic Curriculum Browser - Item 457",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 77,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_457"]
+  },
+  {
+    id: "syllabusbrowser-0458",
+    code: "NEC-SYLLABUSBROWSER-0458",
+    title: "Interactive Academic Curriculum Browser - Item 458",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 78,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_458"]
+  },
+  {
+    id: "syllabusbrowser-0459",
+    code: "NEC-SYLLABUSBROWSER-0459",
+    title: "Interactive Academic Curriculum Browser - Item 459",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 79,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_459"]
+  },
+  {
+    id: "syllabusbrowser-0460",
+    code: "NEC-SYLLABUSBROWSER-0460",
+    title: "Interactive Academic Curriculum Browser - Item 460",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 80,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_460"]
+  },
+  {
+    id: "syllabusbrowser-0461",
+    code: "NEC-SYLLABUSBROWSER-0461",
+    title: "Interactive Academic Curriculum Browser - Item 461",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 81,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_461"]
+  },
+  {
+    id: "syllabusbrowser-0462",
+    code: "NEC-SYLLABUSBROWSER-0462",
+    title: "Interactive Academic Curriculum Browser - Item 462",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 82,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_462"]
+  },
+  {
+    id: "syllabusbrowser-0463",
+    code: "NEC-SYLLABUSBROWSER-0463",
+    title: "Interactive Academic Curriculum Browser - Item 463",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 83,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_463"]
+  },
+  {
+    id: "syllabusbrowser-0464",
+    code: "NEC-SYLLABUSBROWSER-0464",
+    title: "Interactive Academic Curriculum Browser - Item 464",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 84,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_464"]
+  },
+  {
+    id: "syllabusbrowser-0465",
+    code: "NEC-SYLLABUSBROWSER-0465",
+    title: "Interactive Academic Curriculum Browser - Item 465",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 85,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_465"]
+  },
+  {
+    id: "syllabusbrowser-0466",
+    code: "NEC-SYLLABUSBROWSER-0466",
+    title: "Interactive Academic Curriculum Browser - Item 466",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 86,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_466"]
+  },
+  {
+    id: "syllabusbrowser-0467",
+    code: "NEC-SYLLABUSBROWSER-0467",
+    title: "Interactive Academic Curriculum Browser - Item 467",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_467"]
+  },
+  {
+    id: "syllabusbrowser-0468",
+    code: "NEC-SYLLABUSBROWSER-0468",
+    title: "Interactive Academic Curriculum Browser - Item 468",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 88,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_468"]
+  },
+  {
+    id: "syllabusbrowser-0469",
+    code: "NEC-SYLLABUSBROWSER-0469",
+    title: "Interactive Academic Curriculum Browser - Item 469",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 89,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_469"]
+  },
+  {
+    id: "syllabusbrowser-0470",
+    code: "NEC-SYLLABUSBROWSER-0470",
+    title: "Interactive Academic Curriculum Browser - Item 470",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 90,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_470"]
+  },
+  {
+    id: "syllabusbrowser-0471",
+    code: "NEC-SYLLABUSBROWSER-0471",
+    title: "Interactive Academic Curriculum Browser - Item 471",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 91,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_471"]
+  },
+  {
+    id: "syllabusbrowser-0472",
+    code: "NEC-SYLLABUSBROWSER-0472",
+    title: "Interactive Academic Curriculum Browser - Item 472",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 92,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_472"]
+  },
+  {
+    id: "syllabusbrowser-0473",
+    code: "NEC-SYLLABUSBROWSER-0473",
+    title: "Interactive Academic Curriculum Browser - Item 473",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 93,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_473"]
+  },
+  {
+    id: "syllabusbrowser-0474",
+    code: "NEC-SYLLABUSBROWSER-0474",
+    title: "Interactive Academic Curriculum Browser - Item 474",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 94,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_474"]
+  },
+  {
+    id: "syllabusbrowser-0475",
+    code: "NEC-SYLLABUSBROWSER-0475",
+    title: "Interactive Academic Curriculum Browser - Item 475",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 70,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_475"]
+  },
+  {
+    id: "syllabusbrowser-0476",
+    code: "NEC-SYLLABUSBROWSER-0476",
+    title: "Interactive Academic Curriculum Browser - Item 476",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 71,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_476"]
+  },
+  {
+    id: "syllabusbrowser-0477",
+    code: "NEC-SYLLABUSBROWSER-0477",
+    title: "Interactive Academic Curriculum Browser - Item 477",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 72,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_477"]
+  },
+  {
+    id: "syllabusbrowser-0478",
+    code: "NEC-SYLLABUSBROWSER-0478",
+    title: "Interactive Academic Curriculum Browser - Item 478",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 73,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_478"]
+  },
+  {
+    id: "syllabusbrowser-0479",
+    code: "NEC-SYLLABUSBROWSER-0479",
+    title: "Interactive Academic Curriculum Browser - Item 479",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 74,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_479"]
+  },
+  {
+    id: "syllabusbrowser-0480",
+    code: "NEC-SYLLABUSBROWSER-0480",
+    title: "Interactive Academic Curriculum Browser - Item 480",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 75,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_480"]
+  },
+  {
+    id: "syllabusbrowser-0481",
+    code: "NEC-SYLLABUSBROWSER-0481",
+    title: "Interactive Academic Curriculum Browser - Item 481",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 76,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_481"]
+  },
+  {
+    id: "syllabusbrowser-0482",
+    code: "NEC-SYLLABUSBROWSER-0482",
+    title: "Interactive Academic Curriculum Browser - Item 482",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 77,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_482"]
+  },
+  {
+    id: "syllabusbrowser-0483",
+    code: "NEC-SYLLABUSBROWSER-0483",
+    title: "Interactive Academic Curriculum Browser - Item 483",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 78,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_483"]
+  },
+  {
+    id: "syllabusbrowser-0484",
+    code: "NEC-SYLLABUSBROWSER-0484",
+    title: "Interactive Academic Curriculum Browser - Item 484",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 79,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_484"]
+  },
+  {
+    id: "syllabusbrowser-0485",
+    code: "NEC-SYLLABUSBROWSER-0485",
+    title: "Interactive Academic Curriculum Browser - Item 485",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 80,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_485"]
+  },
+  {
+    id: "syllabusbrowser-0486",
+    code: "NEC-SYLLABUSBROWSER-0486",
+    title: "Interactive Academic Curriculum Browser - Item 486",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 81,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_486"]
+  },
+  {
+    id: "syllabusbrowser-0487",
+    code: "NEC-SYLLABUSBROWSER-0487",
+    title: "Interactive Academic Curriculum Browser - Item 487",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 82,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_487"]
+  },
+  {
+    id: "syllabusbrowser-0488",
+    code: "NEC-SYLLABUSBROWSER-0488",
+    title: "Interactive Academic Curriculum Browser - Item 488",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 83,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_488"]
+  },
+  {
+    id: "syllabusbrowser-0489",
+    code: "NEC-SYLLABUSBROWSER-0489",
+    title: "Interactive Academic Curriculum Browser - Item 489",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 84,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_489"]
+  },
+  {
+    id: "syllabusbrowser-0490",
+    code: "NEC-SYLLABUSBROWSER-0490",
+    title: "Interactive Academic Curriculum Browser - Item 490",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 85,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_490"]
+  },
+  {
+    id: "syllabusbrowser-0491",
+    code: "NEC-SYLLABUSBROWSER-0491",
+    title: "Interactive Academic Curriculum Browser - Item 491",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 86,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_491"]
+  },
+  {
+    id: "syllabusbrowser-0492",
+    code: "NEC-SYLLABUSBROWSER-0492",
+    title: "Interactive Academic Curriculum Browser - Item 492",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 87,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_492"]
+  },
+  {
+    id: "syllabusbrowser-0493",
+    code: "NEC-SYLLABUSBROWSER-0493",
+    title: "Interactive Academic Curriculum Browser - Item 493",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 88,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_493"]
+  },
+  {
+    id: "syllabusbrowser-0494",
+    code: "NEC-SYLLABUSBROWSER-0494",
+    title: "Interactive Academic Curriculum Browser - Item 494",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 89,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_494"]
+  },
+  {
+    id: "syllabusbrowser-0495",
+    code: "NEC-SYLLABUSBROWSER-0495",
+    title: "Interactive Academic Curriculum Browser - Item 495",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 90,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_495"]
+  },
+  {
+    id: "syllabusbrowser-0496",
+    code: "NEC-SYLLABUSBROWSER-0496",
+    title: "Interactive Academic Curriculum Browser - Item 496",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 91,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_496"]
+  },
+  {
+    id: "syllabusbrowser-0497",
+    code: "NEC-SYLLABUSBROWSER-0497",
+    title: "Interactive Academic Curriculum Browser - Item 497",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 92,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_497"]
+  },
+  {
+    id: "syllabusbrowser-0498",
+    code: "NEC-SYLLABUSBROWSER-0498",
+    title: "Interactive Academic Curriculum Browser - Item 498",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 93,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_498"]
+  },
+  {
+    id: "syllabusbrowser-0499",
+    code: "NEC-SYLLABUSBROWSER-0499",
+    title: "Interactive Academic Curriculum Browser - Item 499",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 94,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_499"]
+  },
+  {
+    id: "syllabusbrowser-0500",
+    code: "NEC-SYLLABUSBROWSER-0500",
+    title: "Interactive Academic Curriculum Browser - Item 500",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 70,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_500"]
+  },
+  {
+    id: "syllabusbrowser-0501",
+    code: "NEC-SYLLABUSBROWSER-0501",
+    title: "Interactive Academic Curriculum Browser - Item 501",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 71,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_501"]
+  },
+  {
+    id: "syllabusbrowser-0502",
+    code: "NEC-SYLLABUSBROWSER-0502",
+    title: "Interactive Academic Curriculum Browser - Item 502",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 72,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_502"]
+  },
+  {
+    id: "syllabusbrowser-0503",
+    code: "NEC-SYLLABUSBROWSER-0503",
+    title: "Interactive Academic Curriculum Browser - Item 503",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 73,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_503"]
+  },
+  {
+    id: "syllabusbrowser-0504",
+    code: "NEC-SYLLABUSBROWSER-0504",
+    title: "Interactive Academic Curriculum Browser - Item 504",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 74,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_504"]
+  },
+  {
+    id: "syllabusbrowser-0505",
+    code: "NEC-SYLLABUSBROWSER-0505",
+    title: "Interactive Academic Curriculum Browser - Item 505",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_505"]
+  },
+  {
+    id: "syllabusbrowser-0506",
+    code: "NEC-SYLLABUSBROWSER-0506",
+    title: "Interactive Academic Curriculum Browser - Item 506",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 76,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_506"]
+  },
+  {
+    id: "syllabusbrowser-0507",
+    code: "NEC-SYLLABUSBROWSER-0507",
+    title: "Interactive Academic Curriculum Browser - Item 507",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 77,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_507"]
+  },
+  {
+    id: "syllabusbrowser-0508",
+    code: "NEC-SYLLABUSBROWSER-0508",
+    title: "Interactive Academic Curriculum Browser - Item 508",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 78,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_508"]
+  },
+  {
+    id: "syllabusbrowser-0509",
+    code: "NEC-SYLLABUSBROWSER-0509",
+    title: "Interactive Academic Curriculum Browser - Item 509",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 79,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_509"]
+  },
+  {
+    id: "syllabusbrowser-0510",
+    code: "NEC-SYLLABUSBROWSER-0510",
+    title: "Interactive Academic Curriculum Browser - Item 510",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 80,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_510"]
+  },
+  {
+    id: "syllabusbrowser-0511",
+    code: "NEC-SYLLABUSBROWSER-0511",
+    title: "Interactive Academic Curriculum Browser - Item 511",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 81,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_511"]
+  },
+  {
+    id: "syllabusbrowser-0512",
+    code: "NEC-SYLLABUSBROWSER-0512",
+    title: "Interactive Academic Curriculum Browser - Item 512",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 82,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_512"]
+  },
+  {
+    id: "syllabusbrowser-0513",
+    code: "NEC-SYLLABUSBROWSER-0513",
+    title: "Interactive Academic Curriculum Browser - Item 513",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 83,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_513"]
+  },
+  {
+    id: "syllabusbrowser-0514",
+    code: "NEC-SYLLABUSBROWSER-0514",
+    title: "Interactive Academic Curriculum Browser - Item 514",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 84,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_514"]
+  },
+  {
+    id: "syllabusbrowser-0515",
+    code: "NEC-SYLLABUSBROWSER-0515",
+    title: "Interactive Academic Curriculum Browser - Item 515",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 85,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_515"]
+  },
+  {
+    id: "syllabusbrowser-0516",
+    code: "NEC-SYLLABUSBROWSER-0516",
+    title: "Interactive Academic Curriculum Browser - Item 516",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 86,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_516"]
+  },
+  {
+    id: "syllabusbrowser-0517",
+    code: "NEC-SYLLABUSBROWSER-0517",
+    title: "Interactive Academic Curriculum Browser - Item 517",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_517"]
+  },
+  {
+    id: "syllabusbrowser-0518",
+    code: "NEC-SYLLABUSBROWSER-0518",
+    title: "Interactive Academic Curriculum Browser - Item 518",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 88,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_518"]
+  },
+  {
+    id: "syllabusbrowser-0519",
+    code: "NEC-SYLLABUSBROWSER-0519",
+    title: "Interactive Academic Curriculum Browser - Item 519",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 89,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_519"]
+  },
+  {
+    id: "syllabusbrowser-0520",
+    code: "NEC-SYLLABUSBROWSER-0520",
+    title: "Interactive Academic Curriculum Browser - Item 520",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 90,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_520"]
+  },
+  {
+    id: "syllabusbrowser-0521",
+    code: "NEC-SYLLABUSBROWSER-0521",
+    title: "Interactive Academic Curriculum Browser - Item 521",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 91,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_521"]
+  },
+  {
+    id: "syllabusbrowser-0522",
+    code: "NEC-SYLLABUSBROWSER-0522",
+    title: "Interactive Academic Curriculum Browser - Item 522",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 92,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_522"]
+  },
+  {
+    id: "syllabusbrowser-0523",
+    code: "NEC-SYLLABUSBROWSER-0523",
+    title: "Interactive Academic Curriculum Browser - Item 523",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 93,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_523"]
+  },
+  {
+    id: "syllabusbrowser-0524",
+    code: "NEC-SYLLABUSBROWSER-0524",
+    title: "Interactive Academic Curriculum Browser - Item 524",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 94,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_524"]
+  },
+  {
+    id: "syllabusbrowser-0525",
+    code: "NEC-SYLLABUSBROWSER-0525",
+    title: "Interactive Academic Curriculum Browser - Item 525",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 70,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_525"]
+  },
+  {
+    id: "syllabusbrowser-0526",
+    code: "NEC-SYLLABUSBROWSER-0526",
+    title: "Interactive Academic Curriculum Browser - Item 526",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 71,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_526"]
+  },
+  {
+    id: "syllabusbrowser-0527",
+    code: "NEC-SYLLABUSBROWSER-0527",
+    title: "Interactive Academic Curriculum Browser - Item 527",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 72,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_527"]
+  },
+  {
+    id: "syllabusbrowser-0528",
+    code: "NEC-SYLLABUSBROWSER-0528",
+    title: "Interactive Academic Curriculum Browser - Item 528",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 73,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_528"]
+  },
+  {
+    id: "syllabusbrowser-0529",
+    code: "NEC-SYLLABUSBROWSER-0529",
+    title: "Interactive Academic Curriculum Browser - Item 529",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 74,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_529"]
+  },
+  {
+    id: "syllabusbrowser-0530",
+    code: "NEC-SYLLABUSBROWSER-0530",
+    title: "Interactive Academic Curriculum Browser - Item 530",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_530"]
+  },
+  {
+    id: "syllabusbrowser-0531",
+    code: "NEC-SYLLABUSBROWSER-0531",
+    title: "Interactive Academic Curriculum Browser - Item 531",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 76,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_531"]
+  },
+  {
+    id: "syllabusbrowser-0532",
+    code: "NEC-SYLLABUSBROWSER-0532",
+    title: "Interactive Academic Curriculum Browser - Item 532",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 77,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_532"]
+  },
+  {
+    id: "syllabusbrowser-0533",
+    code: "NEC-SYLLABUSBROWSER-0533",
+    title: "Interactive Academic Curriculum Browser - Item 533",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 78,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_533"]
+  },
+  {
+    id: "syllabusbrowser-0534",
+    code: "NEC-SYLLABUSBROWSER-0534",
+    title: "Interactive Academic Curriculum Browser - Item 534",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 79,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_534"]
+  },
+  {
+    id: "syllabusbrowser-0535",
+    code: "NEC-SYLLABUSBROWSER-0535",
+    title: "Interactive Academic Curriculum Browser - Item 535",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 80,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_535"]
+  },
+  {
+    id: "syllabusbrowser-0536",
+    code: "NEC-SYLLABUSBROWSER-0536",
+    title: "Interactive Academic Curriculum Browser - Item 536",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 81,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_536"]
+  },
+  {
+    id: "syllabusbrowser-0537",
+    code: "NEC-SYLLABUSBROWSER-0537",
+    title: "Interactive Academic Curriculum Browser - Item 537",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 82,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_537"]
+  },
+  {
+    id: "syllabusbrowser-0538",
+    code: "NEC-SYLLABUSBROWSER-0538",
+    title: "Interactive Academic Curriculum Browser - Item 538",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 83,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_538"]
+  },
+  {
+    id: "syllabusbrowser-0539",
+    code: "NEC-SYLLABUSBROWSER-0539",
+    title: "Interactive Academic Curriculum Browser - Item 539",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 84,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_539"]
+  },
+  {
+    id: "syllabusbrowser-0540",
+    code: "NEC-SYLLABUSBROWSER-0540",
+    title: "Interactive Academic Curriculum Browser - Item 540",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 85,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_540"]
+  },
+  {
+    id: "syllabusbrowser-0541",
+    code: "NEC-SYLLABUSBROWSER-0541",
+    title: "Interactive Academic Curriculum Browser - Item 541",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 86,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_541"]
+  },
+  {
+    id: "syllabusbrowser-0542",
+    code: "NEC-SYLLABUSBROWSER-0542",
+    title: "Interactive Academic Curriculum Browser - Item 542",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_542"]
+  },
+  {
+    id: "syllabusbrowser-0543",
+    code: "NEC-SYLLABUSBROWSER-0543",
+    title: "Interactive Academic Curriculum Browser - Item 543",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 88,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_543"]
+  },
+  {
+    id: "syllabusbrowser-0544",
+    code: "NEC-SYLLABUSBROWSER-0544",
+    title: "Interactive Academic Curriculum Browser - Item 544",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 89,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_544"]
+  },
+  {
+    id: "syllabusbrowser-0545",
+    code: "NEC-SYLLABUSBROWSER-0545",
+    title: "Interactive Academic Curriculum Browser - Item 545",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 90,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_545"]
+  },
+  {
+    id: "syllabusbrowser-0546",
+    code: "NEC-SYLLABUSBROWSER-0546",
+    title: "Interactive Academic Curriculum Browser - Item 546",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 91,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_546"]
+  },
+  {
+    id: "syllabusbrowser-0547",
+    code: "NEC-SYLLABUSBROWSER-0547",
+    title: "Interactive Academic Curriculum Browser - Item 547",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 92,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_547"]
+  },
+  {
+    id: "syllabusbrowser-0548",
+    code: "NEC-SYLLABUSBROWSER-0548",
+    title: "Interactive Academic Curriculum Browser - Item 548",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 93,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_548"]
+  },
+  {
+    id: "syllabusbrowser-0549",
+    code: "NEC-SYLLABUSBROWSER-0549",
+    title: "Interactive Academic Curriculum Browser - Item 549",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 94,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_549"]
+  },
+  {
+    id: "syllabusbrowser-0550",
+    code: "NEC-SYLLABUSBROWSER-0550",
+    title: "Interactive Academic Curriculum Browser - Item 550",
+    category: "SYLLABUSBROWSER_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 70,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_550"]
+  },
 ];
 
 export function filterSYLLABUSBROWSERBySemester(semester: number): AcademicEntityItem[] {

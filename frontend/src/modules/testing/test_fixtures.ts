@@ -6821,6 +6821,2006 @@ export const TESTFIXTURES_REGISTRY: AcademicEntityItem[] = [
     },
     tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_425"]
   },
+  {
+    id: "testfixtures-0426",
+    code: "NEC-TESTFIXTURES-0426",
+    title: "Frontend Test Fixtures and Harness - Item 426",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 71,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_426"]
+  },
+  {
+    id: "testfixtures-0427",
+    code: "NEC-TESTFIXTURES-0427",
+    title: "Frontend Test Fixtures and Harness - Item 427",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 72,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_427"]
+  },
+  {
+    id: "testfixtures-0428",
+    code: "NEC-TESTFIXTURES-0428",
+    title: "Frontend Test Fixtures and Harness - Item 428",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 73,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_428"]
+  },
+  {
+    id: "testfixtures-0429",
+    code: "NEC-TESTFIXTURES-0429",
+    title: "Frontend Test Fixtures and Harness - Item 429",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 74,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_429"]
+  },
+  {
+    id: "testfixtures-0430",
+    code: "NEC-TESTFIXTURES-0430",
+    title: "Frontend Test Fixtures and Harness - Item 430",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_430"]
+  },
+  {
+    id: "testfixtures-0431",
+    code: "NEC-TESTFIXTURES-0431",
+    title: "Frontend Test Fixtures and Harness - Item 431",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 76,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_431"]
+  },
+  {
+    id: "testfixtures-0432",
+    code: "NEC-TESTFIXTURES-0432",
+    title: "Frontend Test Fixtures and Harness - Item 432",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 77,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_432"]
+  },
+  {
+    id: "testfixtures-0433",
+    code: "NEC-TESTFIXTURES-0433",
+    title: "Frontend Test Fixtures and Harness - Item 433",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 78,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_433"]
+  },
+  {
+    id: "testfixtures-0434",
+    code: "NEC-TESTFIXTURES-0434",
+    title: "Frontend Test Fixtures and Harness - Item 434",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 79,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_434"]
+  },
+  {
+    id: "testfixtures-0435",
+    code: "NEC-TESTFIXTURES-0435",
+    title: "Frontend Test Fixtures and Harness - Item 435",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 80,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_435"]
+  },
+  {
+    id: "testfixtures-0436",
+    code: "NEC-TESTFIXTURES-0436",
+    title: "Frontend Test Fixtures and Harness - Item 436",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 81,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_436"]
+  },
+  {
+    id: "testfixtures-0437",
+    code: "NEC-TESTFIXTURES-0437",
+    title: "Frontend Test Fixtures and Harness - Item 437",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 82,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_437"]
+  },
+  {
+    id: "testfixtures-0438",
+    code: "NEC-TESTFIXTURES-0438",
+    title: "Frontend Test Fixtures and Harness - Item 438",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 83,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_438"]
+  },
+  {
+    id: "testfixtures-0439",
+    code: "NEC-TESTFIXTURES-0439",
+    title: "Frontend Test Fixtures and Harness - Item 439",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 84,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_439"]
+  },
+  {
+    id: "testfixtures-0440",
+    code: "NEC-TESTFIXTURES-0440",
+    title: "Frontend Test Fixtures and Harness - Item 440",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 85,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_440"]
+  },
+  {
+    id: "testfixtures-0441",
+    code: "NEC-TESTFIXTURES-0441",
+    title: "Frontend Test Fixtures and Harness - Item 441",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 86,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_441"]
+  },
+  {
+    id: "testfixtures-0442",
+    code: "NEC-TESTFIXTURES-0442",
+    title: "Frontend Test Fixtures and Harness - Item 442",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_442"]
+  },
+  {
+    id: "testfixtures-0443",
+    code: "NEC-TESTFIXTURES-0443",
+    title: "Frontend Test Fixtures and Harness - Item 443",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 88,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_443"]
+  },
+  {
+    id: "testfixtures-0444",
+    code: "NEC-TESTFIXTURES-0444",
+    title: "Frontend Test Fixtures and Harness - Item 444",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 89,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_444"]
+  },
+  {
+    id: "testfixtures-0445",
+    code: "NEC-TESTFIXTURES-0445",
+    title: "Frontend Test Fixtures and Harness - Item 445",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 90,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_445"]
+  },
+  {
+    id: "testfixtures-0446",
+    code: "NEC-TESTFIXTURES-0446",
+    title: "Frontend Test Fixtures and Harness - Item 446",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 91,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_446"]
+  },
+  {
+    id: "testfixtures-0447",
+    code: "NEC-TESTFIXTURES-0447",
+    title: "Frontend Test Fixtures and Harness - Item 447",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 92,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_447"]
+  },
+  {
+    id: "testfixtures-0448",
+    code: "NEC-TESTFIXTURES-0448",
+    title: "Frontend Test Fixtures and Harness - Item 448",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 93,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_448"]
+  },
+  {
+    id: "testfixtures-0449",
+    code: "NEC-TESTFIXTURES-0449",
+    title: "Frontend Test Fixtures and Harness - Item 449",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 94,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_449"]
+  },
+  {
+    id: "testfixtures-0450",
+    code: "NEC-TESTFIXTURES-0450",
+    title: "Frontend Test Fixtures and Harness - Item 450",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 70,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_450"]
+  },
+  {
+    id: "testfixtures-0451",
+    code: "NEC-TESTFIXTURES-0451",
+    title: "Frontend Test Fixtures and Harness - Item 451",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 71,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_451"]
+  },
+  {
+    id: "testfixtures-0452",
+    code: "NEC-TESTFIXTURES-0452",
+    title: "Frontend Test Fixtures and Harness - Item 452",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 72,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_452"]
+  },
+  {
+    id: "testfixtures-0453",
+    code: "NEC-TESTFIXTURES-0453",
+    title: "Frontend Test Fixtures and Harness - Item 453",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 73,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_453"]
+  },
+  {
+    id: "testfixtures-0454",
+    code: "NEC-TESTFIXTURES-0454",
+    title: "Frontend Test Fixtures and Harness - Item 454",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 74,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_454"]
+  },
+  {
+    id: "testfixtures-0455",
+    code: "NEC-TESTFIXTURES-0455",
+    title: "Frontend Test Fixtures and Harness - Item 455",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_455"]
+  },
+  {
+    id: "testfixtures-0456",
+    code: "NEC-TESTFIXTURES-0456",
+    title: "Frontend Test Fixtures and Harness - Item 456",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 76,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_456"]
+  },
+  {
+    id: "testfixtures-0457",
+    code: "NEC-TESTFIXTURES-0457",
+    title: "Frontend Test Fixtures and Harness - Item 457",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 77,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_457"]
+  },
+  {
+    id: "testfixtures-0458",
+    code: "NEC-TESTFIXTURES-0458",
+    title: "Frontend Test Fixtures and Harness - Item 458",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 78,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_458"]
+  },
+  {
+    id: "testfixtures-0459",
+    code: "NEC-TESTFIXTURES-0459",
+    title: "Frontend Test Fixtures and Harness - Item 459",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 79,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_459"]
+  },
+  {
+    id: "testfixtures-0460",
+    code: "NEC-TESTFIXTURES-0460",
+    title: "Frontend Test Fixtures and Harness - Item 460",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 80,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_460"]
+  },
+  {
+    id: "testfixtures-0461",
+    code: "NEC-TESTFIXTURES-0461",
+    title: "Frontend Test Fixtures and Harness - Item 461",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 81,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_461"]
+  },
+  {
+    id: "testfixtures-0462",
+    code: "NEC-TESTFIXTURES-0462",
+    title: "Frontend Test Fixtures and Harness - Item 462",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 82,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_462"]
+  },
+  {
+    id: "testfixtures-0463",
+    code: "NEC-TESTFIXTURES-0463",
+    title: "Frontend Test Fixtures and Harness - Item 463",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 83,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_463"]
+  },
+  {
+    id: "testfixtures-0464",
+    code: "NEC-TESTFIXTURES-0464",
+    title: "Frontend Test Fixtures and Harness - Item 464",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 84,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_464"]
+  },
+  {
+    id: "testfixtures-0465",
+    code: "NEC-TESTFIXTURES-0465",
+    title: "Frontend Test Fixtures and Harness - Item 465",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 85,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_465"]
+  },
+  {
+    id: "testfixtures-0466",
+    code: "NEC-TESTFIXTURES-0466",
+    title: "Frontend Test Fixtures and Harness - Item 466",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 86,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_466"]
+  },
+  {
+    id: "testfixtures-0467",
+    code: "NEC-TESTFIXTURES-0467",
+    title: "Frontend Test Fixtures and Harness - Item 467",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_467"]
+  },
+  {
+    id: "testfixtures-0468",
+    code: "NEC-TESTFIXTURES-0468",
+    title: "Frontend Test Fixtures and Harness - Item 468",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 88,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_468"]
+  },
+  {
+    id: "testfixtures-0469",
+    code: "NEC-TESTFIXTURES-0469",
+    title: "Frontend Test Fixtures and Harness - Item 469",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 89,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_469"]
+  },
+  {
+    id: "testfixtures-0470",
+    code: "NEC-TESTFIXTURES-0470",
+    title: "Frontend Test Fixtures and Harness - Item 470",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 90,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_470"]
+  },
+  {
+    id: "testfixtures-0471",
+    code: "NEC-TESTFIXTURES-0471",
+    title: "Frontend Test Fixtures and Harness - Item 471",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 91,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_471"]
+  },
+  {
+    id: "testfixtures-0472",
+    code: "NEC-TESTFIXTURES-0472",
+    title: "Frontend Test Fixtures and Harness - Item 472",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 92,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_472"]
+  },
+  {
+    id: "testfixtures-0473",
+    code: "NEC-TESTFIXTURES-0473",
+    title: "Frontend Test Fixtures and Harness - Item 473",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 93,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_473"]
+  },
+  {
+    id: "testfixtures-0474",
+    code: "NEC-TESTFIXTURES-0474",
+    title: "Frontend Test Fixtures and Harness - Item 474",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 94,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_474"]
+  },
+  {
+    id: "testfixtures-0475",
+    code: "NEC-TESTFIXTURES-0475",
+    title: "Frontend Test Fixtures and Harness - Item 475",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 70,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_475"]
+  },
+  {
+    id: "testfixtures-0476",
+    code: "NEC-TESTFIXTURES-0476",
+    title: "Frontend Test Fixtures and Harness - Item 476",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 71,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_476"]
+  },
+  {
+    id: "testfixtures-0477",
+    code: "NEC-TESTFIXTURES-0477",
+    title: "Frontend Test Fixtures and Harness - Item 477",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 72,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_477"]
+  },
+  {
+    id: "testfixtures-0478",
+    code: "NEC-TESTFIXTURES-0478",
+    title: "Frontend Test Fixtures and Harness - Item 478",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 73,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_478"]
+  },
+  {
+    id: "testfixtures-0479",
+    code: "NEC-TESTFIXTURES-0479",
+    title: "Frontend Test Fixtures and Harness - Item 479",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 74,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_479"]
+  },
+  {
+    id: "testfixtures-0480",
+    code: "NEC-TESTFIXTURES-0480",
+    title: "Frontend Test Fixtures and Harness - Item 480",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 75,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_480"]
+  },
+  {
+    id: "testfixtures-0481",
+    code: "NEC-TESTFIXTURES-0481",
+    title: "Frontend Test Fixtures and Harness - Item 481",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 76,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_481"]
+  },
+  {
+    id: "testfixtures-0482",
+    code: "NEC-TESTFIXTURES-0482",
+    title: "Frontend Test Fixtures and Harness - Item 482",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 77,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_482"]
+  },
+  {
+    id: "testfixtures-0483",
+    code: "NEC-TESTFIXTURES-0483",
+    title: "Frontend Test Fixtures and Harness - Item 483",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 78,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_483"]
+  },
+  {
+    id: "testfixtures-0484",
+    code: "NEC-TESTFIXTURES-0484",
+    title: "Frontend Test Fixtures and Harness - Item 484",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 79,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_484"]
+  },
+  {
+    id: "testfixtures-0485",
+    code: "NEC-TESTFIXTURES-0485",
+    title: "Frontend Test Fixtures and Harness - Item 485",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 80,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_485"]
+  },
+  {
+    id: "testfixtures-0486",
+    code: "NEC-TESTFIXTURES-0486",
+    title: "Frontend Test Fixtures and Harness - Item 486",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 81,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_486"]
+  },
+  {
+    id: "testfixtures-0487",
+    code: "NEC-TESTFIXTURES-0487",
+    title: "Frontend Test Fixtures and Harness - Item 487",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 82,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_487"]
+  },
+  {
+    id: "testfixtures-0488",
+    code: "NEC-TESTFIXTURES-0488",
+    title: "Frontend Test Fixtures and Harness - Item 488",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 83,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_488"]
+  },
+  {
+    id: "testfixtures-0489",
+    code: "NEC-TESTFIXTURES-0489",
+    title: "Frontend Test Fixtures and Harness - Item 489",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 84,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_489"]
+  },
+  {
+    id: "testfixtures-0490",
+    code: "NEC-TESTFIXTURES-0490",
+    title: "Frontend Test Fixtures and Harness - Item 490",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 85,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_490"]
+  },
+  {
+    id: "testfixtures-0491",
+    code: "NEC-TESTFIXTURES-0491",
+    title: "Frontend Test Fixtures and Harness - Item 491",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 86,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_491"]
+  },
+  {
+    id: "testfixtures-0492",
+    code: "NEC-TESTFIXTURES-0492",
+    title: "Frontend Test Fixtures and Harness - Item 492",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 87,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_492"]
+  },
+  {
+    id: "testfixtures-0493",
+    code: "NEC-TESTFIXTURES-0493",
+    title: "Frontend Test Fixtures and Harness - Item 493",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 88,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_493"]
+  },
+  {
+    id: "testfixtures-0494",
+    code: "NEC-TESTFIXTURES-0494",
+    title: "Frontend Test Fixtures and Harness - Item 494",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 89,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_494"]
+  },
+  {
+    id: "testfixtures-0495",
+    code: "NEC-TESTFIXTURES-0495",
+    title: "Frontend Test Fixtures and Harness - Item 495",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 90,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_495"]
+  },
+  {
+    id: "testfixtures-0496",
+    code: "NEC-TESTFIXTURES-0496",
+    title: "Frontend Test Fixtures and Harness - Item 496",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 91,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_496"]
+  },
+  {
+    id: "testfixtures-0497",
+    code: "NEC-TESTFIXTURES-0497",
+    title: "Frontend Test Fixtures and Harness - Item 497",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 92,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_497"]
+  },
+  {
+    id: "testfixtures-0498",
+    code: "NEC-TESTFIXTURES-0498",
+    title: "Frontend Test Fixtures and Harness - Item 498",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 93,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_498"]
+  },
+  {
+    id: "testfixtures-0499",
+    code: "NEC-TESTFIXTURES-0499",
+    title: "Frontend Test Fixtures and Harness - Item 499",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 94,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_499"]
+  },
+  {
+    id: "testfixtures-0500",
+    code: "NEC-TESTFIXTURES-0500",
+    title: "Frontend Test Fixtures and Harness - Item 500",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 70,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_500"]
+  },
+  {
+    id: "testfixtures-0501",
+    code: "NEC-TESTFIXTURES-0501",
+    title: "Frontend Test Fixtures and Harness - Item 501",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 71,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_501"]
+  },
+  {
+    id: "testfixtures-0502",
+    code: "NEC-TESTFIXTURES-0502",
+    title: "Frontend Test Fixtures and Harness - Item 502",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 72,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_502"]
+  },
+  {
+    id: "testfixtures-0503",
+    code: "NEC-TESTFIXTURES-0503",
+    title: "Frontend Test Fixtures and Harness - Item 503",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 73,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_503"]
+  },
+  {
+    id: "testfixtures-0504",
+    code: "NEC-TESTFIXTURES-0504",
+    title: "Frontend Test Fixtures and Harness - Item 504",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 74,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_504"]
+  },
+  {
+    id: "testfixtures-0505",
+    code: "NEC-TESTFIXTURES-0505",
+    title: "Frontend Test Fixtures and Harness - Item 505",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_505"]
+  },
+  {
+    id: "testfixtures-0506",
+    code: "NEC-TESTFIXTURES-0506",
+    title: "Frontend Test Fixtures and Harness - Item 506",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 76,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_506"]
+  },
+  {
+    id: "testfixtures-0507",
+    code: "NEC-TESTFIXTURES-0507",
+    title: "Frontend Test Fixtures and Harness - Item 507",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 77,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_507"]
+  },
+  {
+    id: "testfixtures-0508",
+    code: "NEC-TESTFIXTURES-0508",
+    title: "Frontend Test Fixtures and Harness - Item 508",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 78,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_508"]
+  },
+  {
+    id: "testfixtures-0509",
+    code: "NEC-TESTFIXTURES-0509",
+    title: "Frontend Test Fixtures and Harness - Item 509",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 79,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_509"]
+  },
+  {
+    id: "testfixtures-0510",
+    code: "NEC-TESTFIXTURES-0510",
+    title: "Frontend Test Fixtures and Harness - Item 510",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 80,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_510"]
+  },
+  {
+    id: "testfixtures-0511",
+    code: "NEC-TESTFIXTURES-0511",
+    title: "Frontend Test Fixtures and Harness - Item 511",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 81,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_511"]
+  },
+  {
+    id: "testfixtures-0512",
+    code: "NEC-TESTFIXTURES-0512",
+    title: "Frontend Test Fixtures and Harness - Item 512",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 82,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_512"]
+  },
+  {
+    id: "testfixtures-0513",
+    code: "NEC-TESTFIXTURES-0513",
+    title: "Frontend Test Fixtures and Harness - Item 513",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 83,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_513"]
+  },
+  {
+    id: "testfixtures-0514",
+    code: "NEC-TESTFIXTURES-0514",
+    title: "Frontend Test Fixtures and Harness - Item 514",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 84,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_514"]
+  },
+  {
+    id: "testfixtures-0515",
+    code: "NEC-TESTFIXTURES-0515",
+    title: "Frontend Test Fixtures and Harness - Item 515",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 85,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_515"]
+  },
+  {
+    id: "testfixtures-0516",
+    code: "NEC-TESTFIXTURES-0516",
+    title: "Frontend Test Fixtures and Harness - Item 516",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 86,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_516"]
+  },
+  {
+    id: "testfixtures-0517",
+    code: "NEC-TESTFIXTURES-0517",
+    title: "Frontend Test Fixtures and Harness - Item 517",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_517"]
+  },
+  {
+    id: "testfixtures-0518",
+    code: "NEC-TESTFIXTURES-0518",
+    title: "Frontend Test Fixtures and Harness - Item 518",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 88,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_518"]
+  },
+  {
+    id: "testfixtures-0519",
+    code: "NEC-TESTFIXTURES-0519",
+    title: "Frontend Test Fixtures and Harness - Item 519",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 89,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_519"]
+  },
+  {
+    id: "testfixtures-0520",
+    code: "NEC-TESTFIXTURES-0520",
+    title: "Frontend Test Fixtures and Harness - Item 520",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 90,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_520"]
+  },
+  {
+    id: "testfixtures-0521",
+    code: "NEC-TESTFIXTURES-0521",
+    title: "Frontend Test Fixtures and Harness - Item 521",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 91,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_521"]
+  },
+  {
+    id: "testfixtures-0522",
+    code: "NEC-TESTFIXTURES-0522",
+    title: "Frontend Test Fixtures and Harness - Item 522",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 92,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_522"]
+  },
+  {
+    id: "testfixtures-0523",
+    code: "NEC-TESTFIXTURES-0523",
+    title: "Frontend Test Fixtures and Harness - Item 523",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 93,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_523"]
+  },
+  {
+    id: "testfixtures-0524",
+    code: "NEC-TESTFIXTURES-0524",
+    title: "Frontend Test Fixtures and Harness - Item 524",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 94,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_524"]
+  },
+  {
+    id: "testfixtures-0525",
+    code: "NEC-TESTFIXTURES-0525",
+    title: "Frontend Test Fixtures and Harness - Item 525",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 70,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_525"]
+  },
+  {
+    id: "testfixtures-0526",
+    code: "NEC-TESTFIXTURES-0526",
+    title: "Frontend Test Fixtures and Harness - Item 526",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 71,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_526"]
+  },
+  {
+    id: "testfixtures-0527",
+    code: "NEC-TESTFIXTURES-0527",
+    title: "Frontend Test Fixtures and Harness - Item 527",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 72,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_527"]
+  },
+  {
+    id: "testfixtures-0528",
+    code: "NEC-TESTFIXTURES-0528",
+    title: "Frontend Test Fixtures and Harness - Item 528",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 73,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_528"]
+  },
+  {
+    id: "testfixtures-0529",
+    code: "NEC-TESTFIXTURES-0529",
+    title: "Frontend Test Fixtures and Harness - Item 529",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 74,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_529"]
+  },
+  {
+    id: "testfixtures-0530",
+    code: "NEC-TESTFIXTURES-0530",
+    title: "Frontend Test Fixtures and Harness - Item 530",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_530"]
+  },
+  {
+    id: "testfixtures-0531",
+    code: "NEC-TESTFIXTURES-0531",
+    title: "Frontend Test Fixtures and Harness - Item 531",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 76,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_531"]
+  },
+  {
+    id: "testfixtures-0532",
+    code: "NEC-TESTFIXTURES-0532",
+    title: "Frontend Test Fixtures and Harness - Item 532",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 77,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_532"]
+  },
+  {
+    id: "testfixtures-0533",
+    code: "NEC-TESTFIXTURES-0533",
+    title: "Frontend Test Fixtures and Harness - Item 533",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 78,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_533"]
+  },
+  {
+    id: "testfixtures-0534",
+    code: "NEC-TESTFIXTURES-0534",
+    title: "Frontend Test Fixtures and Harness - Item 534",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 79,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_534"]
+  },
+  {
+    id: "testfixtures-0535",
+    code: "NEC-TESTFIXTURES-0535",
+    title: "Frontend Test Fixtures and Harness - Item 535",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 80,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_535"]
+  },
+  {
+    id: "testfixtures-0536",
+    code: "NEC-TESTFIXTURES-0536",
+    title: "Frontend Test Fixtures and Harness - Item 536",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 81,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_536"]
+  },
+  {
+    id: "testfixtures-0537",
+    code: "NEC-TESTFIXTURES-0537",
+    title: "Frontend Test Fixtures and Harness - Item 537",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 82,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_537"]
+  },
+  {
+    id: "testfixtures-0538",
+    code: "NEC-TESTFIXTURES-0538",
+    title: "Frontend Test Fixtures and Harness - Item 538",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 83,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_538"]
+  },
+  {
+    id: "testfixtures-0539",
+    code: "NEC-TESTFIXTURES-0539",
+    title: "Frontend Test Fixtures and Harness - Item 539",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 84,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_539"]
+  },
+  {
+    id: "testfixtures-0540",
+    code: "NEC-TESTFIXTURES-0540",
+    title: "Frontend Test Fixtures and Harness - Item 540",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 85,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_540"]
+  },
+  {
+    id: "testfixtures-0541",
+    code: "NEC-TESTFIXTURES-0541",
+    title: "Frontend Test Fixtures and Harness - Item 541",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 86,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_541"]
+  },
+  {
+    id: "testfixtures-0542",
+    code: "NEC-TESTFIXTURES-0542",
+    title: "Frontend Test Fixtures and Harness - Item 542",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_542"]
+  },
+  {
+    id: "testfixtures-0543",
+    code: "NEC-TESTFIXTURES-0543",
+    title: "Frontend Test Fixtures and Harness - Item 543",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 88,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_543"]
+  },
+  {
+    id: "testfixtures-0544",
+    code: "NEC-TESTFIXTURES-0544",
+    title: "Frontend Test Fixtures and Harness - Item 544",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 89,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_544"]
+  },
+  {
+    id: "testfixtures-0545",
+    code: "NEC-TESTFIXTURES-0545",
+    title: "Frontend Test Fixtures and Harness - Item 545",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 90,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_545"]
+  },
+  {
+    id: "testfixtures-0546",
+    code: "NEC-TESTFIXTURES-0546",
+    title: "Frontend Test Fixtures and Harness - Item 546",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 91,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_546"]
+  },
+  {
+    id: "testfixtures-0547",
+    code: "NEC-TESTFIXTURES-0547",
+    title: "Frontend Test Fixtures and Harness - Item 547",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 92,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_547"]
+  },
+  {
+    id: "testfixtures-0548",
+    code: "NEC-TESTFIXTURES-0548",
+    title: "Frontend Test Fixtures and Harness - Item 548",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 93,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_548"]
+  },
+  {
+    id: "testfixtures-0549",
+    code: "NEC-TESTFIXTURES-0549",
+    title: "Frontend Test Fixtures and Harness - Item 549",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 94,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_549"]
+  },
+  {
+    id: "testfixtures-0550",
+    code: "NEC-TESTFIXTURES-0550",
+    title: "Frontend Test Fixtures and Harness - Item 550",
+    category: "TESTFIXTURES_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 70,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_550"]
+  },
 ];
 
 export function filterTESTFIXTURESBySemester(semester: number): AcademicEntityItem[] {

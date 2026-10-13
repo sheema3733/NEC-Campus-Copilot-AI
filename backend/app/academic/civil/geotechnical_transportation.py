@@ -6539,8 +6539,2528 @@ class CIVIL_CE_GEO_Repository:
         }
 
     @classmethod
+    def get_curriculum_spec_0181(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0181",
+            "unit_number": 1,
+            "module_name": "Geotechnical & Transportation Systems - Module 181",
+            "cognitive_target": "L2_LEVEL",
+            "contact_hours": 9,
+            "key_concepts": [
+                "Concept 181.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 181.B: Architectural Paradigm and Component Interactions",
+                "Concept 181.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 1.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P181-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P181-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 181: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 2,
+                "pso_weight": 3,
+                "target_threshold_pct": 66
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0182(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0182",
+            "unit_number": 2,
+            "module_name": "Geotechnical & Transportation Systems - Module 182",
+            "cognitive_target": "L3_LEVEL",
+            "contact_hours": 10,
+            "key_concepts": [
+                "Concept 182.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 182.B: Architectural Paradigm and Component Interactions",
+                "Concept 182.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 2.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P182-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P182-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 182: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 3,
+                "pso_weight": 2,
+                "target_threshold_pct": 67
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0183(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0183",
+            "unit_number": 3,
+            "module_name": "Geotechnical & Transportation Systems - Module 183",
+            "cognitive_target": "L4_LEVEL",
+            "contact_hours": 11,
+            "key_concepts": [
+                "Concept 183.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 183.B: Architectural Paradigm and Component Interactions",
+                "Concept 183.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 3.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P183-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P183-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 183: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 1,
+                "pso_weight": 3,
+                "target_threshold_pct": 68
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0184(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0184",
+            "unit_number": 4,
+            "module_name": "Geotechnical & Transportation Systems - Module 184",
+            "cognitive_target": "L5_LEVEL",
+            "contact_hours": 12,
+            "key_concepts": [
+                "Concept 184.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 184.B: Architectural Paradigm and Component Interactions",
+                "Concept 184.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 4.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P184-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P184-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 184: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 2,
+                "pso_weight": 2,
+                "target_threshold_pct": 69
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0185(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0185",
+            "unit_number": 5,
+            "module_name": "Geotechnical & Transportation Systems - Module 185",
+            "cognitive_target": "L6_LEVEL",
+            "contact_hours": 8,
+            "key_concepts": [
+                "Concept 185.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 185.B: Architectural Paradigm and Component Interactions",
+                "Concept 185.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 5.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P185-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P185-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 185: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 3,
+                "pso_weight": 3,
+                "target_threshold_pct": 70
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0186(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0186",
+            "unit_number": 1,
+            "module_name": "Geotechnical & Transportation Systems - Module 186",
+            "cognitive_target": "L1_LEVEL",
+            "contact_hours": 9,
+            "key_concepts": [
+                "Concept 186.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 186.B: Architectural Paradigm and Component Interactions",
+                "Concept 186.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 1.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P186-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P186-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 186: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 1,
+                "pso_weight": 2,
+                "target_threshold_pct": 71
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0187(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0187",
+            "unit_number": 2,
+            "module_name": "Geotechnical & Transportation Systems - Module 187",
+            "cognitive_target": "L2_LEVEL",
+            "contact_hours": 10,
+            "key_concepts": [
+                "Concept 187.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 187.B: Architectural Paradigm and Component Interactions",
+                "Concept 187.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 2.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P187-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P187-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 187: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 2,
+                "pso_weight": 3,
+                "target_threshold_pct": 72
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0188(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0188",
+            "unit_number": 3,
+            "module_name": "Geotechnical & Transportation Systems - Module 188",
+            "cognitive_target": "L3_LEVEL",
+            "contact_hours": 11,
+            "key_concepts": [
+                "Concept 188.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 188.B: Architectural Paradigm and Component Interactions",
+                "Concept 188.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 3.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P188-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P188-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 188: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 3,
+                "pso_weight": 2,
+                "target_threshold_pct": 73
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0189(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0189",
+            "unit_number": 4,
+            "module_name": "Geotechnical & Transportation Systems - Module 189",
+            "cognitive_target": "L4_LEVEL",
+            "contact_hours": 12,
+            "key_concepts": [
+                "Concept 189.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 189.B: Architectural Paradigm and Component Interactions",
+                "Concept 189.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 4.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P189-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P189-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 189: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 1,
+                "pso_weight": 3,
+                "target_threshold_pct": 74
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0190(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0190",
+            "unit_number": 5,
+            "module_name": "Geotechnical & Transportation Systems - Module 190",
+            "cognitive_target": "L5_LEVEL",
+            "contact_hours": 8,
+            "key_concepts": [
+                "Concept 190.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 190.B: Architectural Paradigm and Component Interactions",
+                "Concept 190.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 5.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P190-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P190-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 190: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 2,
+                "pso_weight": 2,
+                "target_threshold_pct": 75
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0191(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0191",
+            "unit_number": 1,
+            "module_name": "Geotechnical & Transportation Systems - Module 191",
+            "cognitive_target": "L6_LEVEL",
+            "contact_hours": 9,
+            "key_concepts": [
+                "Concept 191.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 191.B: Architectural Paradigm and Component Interactions",
+                "Concept 191.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 1.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P191-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P191-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 191: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 3,
+                "pso_weight": 3,
+                "target_threshold_pct": 76
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0192(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0192",
+            "unit_number": 2,
+            "module_name": "Geotechnical & Transportation Systems - Module 192",
+            "cognitive_target": "L1_LEVEL",
+            "contact_hours": 10,
+            "key_concepts": [
+                "Concept 192.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 192.B: Architectural Paradigm and Component Interactions",
+                "Concept 192.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 2.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P192-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P192-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 192: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 1,
+                "pso_weight": 2,
+                "target_threshold_pct": 77
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0193(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0193",
+            "unit_number": 3,
+            "module_name": "Geotechnical & Transportation Systems - Module 193",
+            "cognitive_target": "L2_LEVEL",
+            "contact_hours": 11,
+            "key_concepts": [
+                "Concept 193.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 193.B: Architectural Paradigm and Component Interactions",
+                "Concept 193.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 3.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P193-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P193-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 193: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 2,
+                "pso_weight": 3,
+                "target_threshold_pct": 78
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0194(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0194",
+            "unit_number": 4,
+            "module_name": "Geotechnical & Transportation Systems - Module 194",
+            "cognitive_target": "L3_LEVEL",
+            "contact_hours": 12,
+            "key_concepts": [
+                "Concept 194.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 194.B: Architectural Paradigm and Component Interactions",
+                "Concept 194.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 4.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P194-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P194-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 194: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 3,
+                "pso_weight": 2,
+                "target_threshold_pct": 79
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0195(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0195",
+            "unit_number": 5,
+            "module_name": "Geotechnical & Transportation Systems - Module 195",
+            "cognitive_target": "L4_LEVEL",
+            "contact_hours": 8,
+            "key_concepts": [
+                "Concept 195.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 195.B: Architectural Paradigm and Component Interactions",
+                "Concept 195.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 5.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P195-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P195-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 195: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 1,
+                "pso_weight": 3,
+                "target_threshold_pct": 65
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0196(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0196",
+            "unit_number": 1,
+            "module_name": "Geotechnical & Transportation Systems - Module 196",
+            "cognitive_target": "L5_LEVEL",
+            "contact_hours": 9,
+            "key_concepts": [
+                "Concept 196.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 196.B: Architectural Paradigm and Component Interactions",
+                "Concept 196.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 1.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P196-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P196-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 196: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 2,
+                "pso_weight": 2,
+                "target_threshold_pct": 66
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0197(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0197",
+            "unit_number": 2,
+            "module_name": "Geotechnical & Transportation Systems - Module 197",
+            "cognitive_target": "L6_LEVEL",
+            "contact_hours": 10,
+            "key_concepts": [
+                "Concept 197.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 197.B: Architectural Paradigm and Component Interactions",
+                "Concept 197.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 2.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P197-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P197-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 197: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 3,
+                "pso_weight": 3,
+                "target_threshold_pct": 67
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0198(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0198",
+            "unit_number": 3,
+            "module_name": "Geotechnical & Transportation Systems - Module 198",
+            "cognitive_target": "L1_LEVEL",
+            "contact_hours": 11,
+            "key_concepts": [
+                "Concept 198.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 198.B: Architectural Paradigm and Component Interactions",
+                "Concept 198.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 3.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P198-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P198-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 198: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 1,
+                "pso_weight": 2,
+                "target_threshold_pct": 68
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0199(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0199",
+            "unit_number": 4,
+            "module_name": "Geotechnical & Transportation Systems - Module 199",
+            "cognitive_target": "L2_LEVEL",
+            "contact_hours": 12,
+            "key_concepts": [
+                "Concept 199.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 199.B: Architectural Paradigm and Component Interactions",
+                "Concept 199.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 4.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P199-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P199-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 199: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 2,
+                "pso_weight": 3,
+                "target_threshold_pct": 69
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0200(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0200",
+            "unit_number": 5,
+            "module_name": "Geotechnical & Transportation Systems - Module 200",
+            "cognitive_target": "L3_LEVEL",
+            "contact_hours": 8,
+            "key_concepts": [
+                "Concept 200.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 200.B: Architectural Paradigm and Component Interactions",
+                "Concept 200.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 5.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P200-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P200-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 200: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 3,
+                "pso_weight": 2,
+                "target_threshold_pct": 70
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0201(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0201",
+            "unit_number": 1,
+            "module_name": "Geotechnical & Transportation Systems - Module 201",
+            "cognitive_target": "L4_LEVEL",
+            "contact_hours": 9,
+            "key_concepts": [
+                "Concept 201.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 201.B: Architectural Paradigm and Component Interactions",
+                "Concept 201.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 1.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P201-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P201-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 201: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 1,
+                "pso_weight": 3,
+                "target_threshold_pct": 71
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0202(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0202",
+            "unit_number": 2,
+            "module_name": "Geotechnical & Transportation Systems - Module 202",
+            "cognitive_target": "L5_LEVEL",
+            "contact_hours": 10,
+            "key_concepts": [
+                "Concept 202.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 202.B: Architectural Paradigm and Component Interactions",
+                "Concept 202.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 2.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P202-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P202-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 202: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 2,
+                "pso_weight": 2,
+                "target_threshold_pct": 72
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0203(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0203",
+            "unit_number": 3,
+            "module_name": "Geotechnical & Transportation Systems - Module 203",
+            "cognitive_target": "L6_LEVEL",
+            "contact_hours": 11,
+            "key_concepts": [
+                "Concept 203.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 203.B: Architectural Paradigm and Component Interactions",
+                "Concept 203.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 3.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P203-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P203-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 203: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 3,
+                "pso_weight": 3,
+                "target_threshold_pct": 73
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0204(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0204",
+            "unit_number": 4,
+            "module_name": "Geotechnical & Transportation Systems - Module 204",
+            "cognitive_target": "L1_LEVEL",
+            "contact_hours": 12,
+            "key_concepts": [
+                "Concept 204.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 204.B: Architectural Paradigm and Component Interactions",
+                "Concept 204.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 4.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P204-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P204-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 204: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 1,
+                "pso_weight": 2,
+                "target_threshold_pct": 74
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0205(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0205",
+            "unit_number": 5,
+            "module_name": "Geotechnical & Transportation Systems - Module 205",
+            "cognitive_target": "L2_LEVEL",
+            "contact_hours": 8,
+            "key_concepts": [
+                "Concept 205.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 205.B: Architectural Paradigm and Component Interactions",
+                "Concept 205.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 5.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P205-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P205-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 205: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 2,
+                "pso_weight": 3,
+                "target_threshold_pct": 75
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0206(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0206",
+            "unit_number": 1,
+            "module_name": "Geotechnical & Transportation Systems - Module 206",
+            "cognitive_target": "L3_LEVEL",
+            "contact_hours": 9,
+            "key_concepts": [
+                "Concept 206.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 206.B: Architectural Paradigm and Component Interactions",
+                "Concept 206.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 1.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P206-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P206-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 206: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 3,
+                "pso_weight": 2,
+                "target_threshold_pct": 76
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0207(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0207",
+            "unit_number": 2,
+            "module_name": "Geotechnical & Transportation Systems - Module 207",
+            "cognitive_target": "L4_LEVEL",
+            "contact_hours": 10,
+            "key_concepts": [
+                "Concept 207.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 207.B: Architectural Paradigm and Component Interactions",
+                "Concept 207.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 2.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P207-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P207-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 207: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 1,
+                "pso_weight": 3,
+                "target_threshold_pct": 77
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0208(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0208",
+            "unit_number": 3,
+            "module_name": "Geotechnical & Transportation Systems - Module 208",
+            "cognitive_target": "L5_LEVEL",
+            "contact_hours": 11,
+            "key_concepts": [
+                "Concept 208.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 208.B: Architectural Paradigm and Component Interactions",
+                "Concept 208.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 3.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P208-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P208-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 208: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 2,
+                "pso_weight": 2,
+                "target_threshold_pct": 78
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0209(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0209",
+            "unit_number": 4,
+            "module_name": "Geotechnical & Transportation Systems - Module 209",
+            "cognitive_target": "L6_LEVEL",
+            "contact_hours": 12,
+            "key_concepts": [
+                "Concept 209.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 209.B: Architectural Paradigm and Component Interactions",
+                "Concept 209.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 4.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P209-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P209-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 209: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 3,
+                "pso_weight": 3,
+                "target_threshold_pct": 79
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0210(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0210",
+            "unit_number": 5,
+            "module_name": "Geotechnical & Transportation Systems - Module 210",
+            "cognitive_target": "L1_LEVEL",
+            "contact_hours": 8,
+            "key_concepts": [
+                "Concept 210.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 210.B: Architectural Paradigm and Component Interactions",
+                "Concept 210.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 5.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P210-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P210-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 210: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 1,
+                "pso_weight": 2,
+                "target_threshold_pct": 65
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0211(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0211",
+            "unit_number": 1,
+            "module_name": "Geotechnical & Transportation Systems - Module 211",
+            "cognitive_target": "L2_LEVEL",
+            "contact_hours": 9,
+            "key_concepts": [
+                "Concept 211.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 211.B: Architectural Paradigm and Component Interactions",
+                "Concept 211.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 1.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P211-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P211-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 211: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 2,
+                "pso_weight": 3,
+                "target_threshold_pct": 66
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0212(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0212",
+            "unit_number": 2,
+            "module_name": "Geotechnical & Transportation Systems - Module 212",
+            "cognitive_target": "L3_LEVEL",
+            "contact_hours": 10,
+            "key_concepts": [
+                "Concept 212.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 212.B: Architectural Paradigm and Component Interactions",
+                "Concept 212.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 2.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P212-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P212-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 212: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 3,
+                "pso_weight": 2,
+                "target_threshold_pct": 67
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0213(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0213",
+            "unit_number": 3,
+            "module_name": "Geotechnical & Transportation Systems - Module 213",
+            "cognitive_target": "L4_LEVEL",
+            "contact_hours": 11,
+            "key_concepts": [
+                "Concept 213.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 213.B: Architectural Paradigm and Component Interactions",
+                "Concept 213.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 3.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P213-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P213-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 213: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 1,
+                "pso_weight": 3,
+                "target_threshold_pct": 68
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0214(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0214",
+            "unit_number": 4,
+            "module_name": "Geotechnical & Transportation Systems - Module 214",
+            "cognitive_target": "L5_LEVEL",
+            "contact_hours": 12,
+            "key_concepts": [
+                "Concept 214.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 214.B: Architectural Paradigm and Component Interactions",
+                "Concept 214.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 4.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P214-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P214-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 214: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 2,
+                "pso_weight": 2,
+                "target_threshold_pct": 69
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0215(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0215",
+            "unit_number": 5,
+            "module_name": "Geotechnical & Transportation Systems - Module 215",
+            "cognitive_target": "L6_LEVEL",
+            "contact_hours": 8,
+            "key_concepts": [
+                "Concept 215.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 215.B: Architectural Paradigm and Component Interactions",
+                "Concept 215.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 5.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P215-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P215-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 215: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 3,
+                "pso_weight": 3,
+                "target_threshold_pct": 70
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0216(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0216",
+            "unit_number": 1,
+            "module_name": "Geotechnical & Transportation Systems - Module 216",
+            "cognitive_target": "L1_LEVEL",
+            "contact_hours": 9,
+            "key_concepts": [
+                "Concept 216.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 216.B: Architectural Paradigm and Component Interactions",
+                "Concept 216.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 1.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P216-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P216-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 216: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 1,
+                "pso_weight": 2,
+                "target_threshold_pct": 71
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0217(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0217",
+            "unit_number": 2,
+            "module_name": "Geotechnical & Transportation Systems - Module 217",
+            "cognitive_target": "L2_LEVEL",
+            "contact_hours": 10,
+            "key_concepts": [
+                "Concept 217.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 217.B: Architectural Paradigm and Component Interactions",
+                "Concept 217.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 2.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P217-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P217-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 217: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 2,
+                "pso_weight": 3,
+                "target_threshold_pct": 72
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0218(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0218",
+            "unit_number": 3,
+            "module_name": "Geotechnical & Transportation Systems - Module 218",
+            "cognitive_target": "L3_LEVEL",
+            "contact_hours": 11,
+            "key_concepts": [
+                "Concept 218.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 218.B: Architectural Paradigm and Component Interactions",
+                "Concept 218.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 3.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P218-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P218-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 218: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 3,
+                "pso_weight": 2,
+                "target_threshold_pct": 73
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0219(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0219",
+            "unit_number": 4,
+            "module_name": "Geotechnical & Transportation Systems - Module 219",
+            "cognitive_target": "L4_LEVEL",
+            "contact_hours": 12,
+            "key_concepts": [
+                "Concept 219.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 219.B: Architectural Paradigm and Component Interactions",
+                "Concept 219.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 4.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P219-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P219-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 219: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 1,
+                "pso_weight": 3,
+                "target_threshold_pct": 74
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0220(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0220",
+            "unit_number": 5,
+            "module_name": "Geotechnical & Transportation Systems - Module 220",
+            "cognitive_target": "L5_LEVEL",
+            "contact_hours": 8,
+            "key_concepts": [
+                "Concept 220.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 220.B: Architectural Paradigm and Component Interactions",
+                "Concept 220.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 5.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P220-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P220-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 220: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 2,
+                "pso_weight": 2,
+                "target_threshold_pct": 75
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0221(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0221",
+            "unit_number": 1,
+            "module_name": "Geotechnical & Transportation Systems - Module 221",
+            "cognitive_target": "L6_LEVEL",
+            "contact_hours": 9,
+            "key_concepts": [
+                "Concept 221.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 221.B: Architectural Paradigm and Component Interactions",
+                "Concept 221.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 1.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P221-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P221-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 221: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 3,
+                "pso_weight": 3,
+                "target_threshold_pct": 76
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0222(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0222",
+            "unit_number": 2,
+            "module_name": "Geotechnical & Transportation Systems - Module 222",
+            "cognitive_target": "L1_LEVEL",
+            "contact_hours": 10,
+            "key_concepts": [
+                "Concept 222.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 222.B: Architectural Paradigm and Component Interactions",
+                "Concept 222.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 2.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P222-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P222-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 222: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 1,
+                "pso_weight": 2,
+                "target_threshold_pct": 77
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0223(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0223",
+            "unit_number": 3,
+            "module_name": "Geotechnical & Transportation Systems - Module 223",
+            "cognitive_target": "L2_LEVEL",
+            "contact_hours": 11,
+            "key_concepts": [
+                "Concept 223.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 223.B: Architectural Paradigm and Component Interactions",
+                "Concept 223.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 3.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P223-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P223-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 223: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 2,
+                "pso_weight": 3,
+                "target_threshold_pct": 78
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0224(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0224",
+            "unit_number": 4,
+            "module_name": "Geotechnical & Transportation Systems - Module 224",
+            "cognitive_target": "L3_LEVEL",
+            "contact_hours": 12,
+            "key_concepts": [
+                "Concept 224.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 224.B: Architectural Paradigm and Component Interactions",
+                "Concept 224.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 4.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P224-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P224-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 224: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 3,
+                "pso_weight": 2,
+                "target_threshold_pct": 79
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0225(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0225",
+            "unit_number": 5,
+            "module_name": "Geotechnical & Transportation Systems - Module 225",
+            "cognitive_target": "L4_LEVEL",
+            "contact_hours": 8,
+            "key_concepts": [
+                "Concept 225.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 225.B: Architectural Paradigm and Component Interactions",
+                "Concept 225.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 5.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P225-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P225-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 225: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 1,
+                "pso_weight": 3,
+                "target_threshold_pct": 65
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0226(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0226",
+            "unit_number": 1,
+            "module_name": "Geotechnical & Transportation Systems - Module 226",
+            "cognitive_target": "L5_LEVEL",
+            "contact_hours": 9,
+            "key_concepts": [
+                "Concept 226.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 226.B: Architectural Paradigm and Component Interactions",
+                "Concept 226.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 1.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P226-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P226-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 226: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 2,
+                "pso_weight": 2,
+                "target_threshold_pct": 66
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0227(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0227",
+            "unit_number": 2,
+            "module_name": "Geotechnical & Transportation Systems - Module 227",
+            "cognitive_target": "L6_LEVEL",
+            "contact_hours": 10,
+            "key_concepts": [
+                "Concept 227.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 227.B: Architectural Paradigm and Component Interactions",
+                "Concept 227.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 2.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P227-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P227-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 227: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 3,
+                "pso_weight": 3,
+                "target_threshold_pct": 67
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0228(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0228",
+            "unit_number": 3,
+            "module_name": "Geotechnical & Transportation Systems - Module 228",
+            "cognitive_target": "L1_LEVEL",
+            "contact_hours": 11,
+            "key_concepts": [
+                "Concept 228.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 228.B: Architectural Paradigm and Component Interactions",
+                "Concept 228.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 3.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P228-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P228-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 228: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 1,
+                "pso_weight": 2,
+                "target_threshold_pct": 68
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0229(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0229",
+            "unit_number": 4,
+            "module_name": "Geotechnical & Transportation Systems - Module 229",
+            "cognitive_target": "L2_LEVEL",
+            "contact_hours": 12,
+            "key_concepts": [
+                "Concept 229.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 229.B: Architectural Paradigm and Component Interactions",
+                "Concept 229.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 4.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P229-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P229-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 229: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 2,
+                "pso_weight": 3,
+                "target_threshold_pct": 69
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0230(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0230",
+            "unit_number": 5,
+            "module_name": "Geotechnical & Transportation Systems - Module 230",
+            "cognitive_target": "L3_LEVEL",
+            "contact_hours": 8,
+            "key_concepts": [
+                "Concept 230.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 230.B: Architectural Paradigm and Component Interactions",
+                "Concept 230.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 5.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P230-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P230-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 230: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 3,
+                "pso_weight": 2,
+                "target_threshold_pct": 70
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0231(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0231",
+            "unit_number": 1,
+            "module_name": "Geotechnical & Transportation Systems - Module 231",
+            "cognitive_target": "L4_LEVEL",
+            "contact_hours": 9,
+            "key_concepts": [
+                "Concept 231.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 231.B: Architectural Paradigm and Component Interactions",
+                "Concept 231.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 1.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P231-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P231-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 231: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 1,
+                "pso_weight": 3,
+                "target_threshold_pct": 71
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0232(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0232",
+            "unit_number": 2,
+            "module_name": "Geotechnical & Transportation Systems - Module 232",
+            "cognitive_target": "L5_LEVEL",
+            "contact_hours": 10,
+            "key_concepts": [
+                "Concept 232.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 232.B: Architectural Paradigm and Component Interactions",
+                "Concept 232.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 2.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P232-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P232-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 232: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 2,
+                "pso_weight": 2,
+                "target_threshold_pct": 72
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0233(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0233",
+            "unit_number": 3,
+            "module_name": "Geotechnical & Transportation Systems - Module 233",
+            "cognitive_target": "L6_LEVEL",
+            "contact_hours": 11,
+            "key_concepts": [
+                "Concept 233.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 233.B: Architectural Paradigm and Component Interactions",
+                "Concept 233.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 3.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P233-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P233-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 233: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 3,
+                "pso_weight": 3,
+                "target_threshold_pct": 73
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0234(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0234",
+            "unit_number": 4,
+            "module_name": "Geotechnical & Transportation Systems - Module 234",
+            "cognitive_target": "L1_LEVEL",
+            "contact_hours": 12,
+            "key_concepts": [
+                "Concept 234.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 234.B: Architectural Paradigm and Component Interactions",
+                "Concept 234.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 4.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P234-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P234-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 234: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 1,
+                "pso_weight": 2,
+                "target_threshold_pct": 74
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0235(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0235",
+            "unit_number": 5,
+            "module_name": "Geotechnical & Transportation Systems - Module 235",
+            "cognitive_target": "L2_LEVEL",
+            "contact_hours": 8,
+            "key_concepts": [
+                "Concept 235.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 235.B: Architectural Paradigm and Component Interactions",
+                "Concept 235.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 5.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P235-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P235-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 235: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 2,
+                "pso_weight": 3,
+                "target_threshold_pct": 75
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0236(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0236",
+            "unit_number": 1,
+            "module_name": "Geotechnical & Transportation Systems - Module 236",
+            "cognitive_target": "L3_LEVEL",
+            "contact_hours": 9,
+            "key_concepts": [
+                "Concept 236.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 236.B: Architectural Paradigm and Component Interactions",
+                "Concept 236.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 1.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P236-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P236-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 236: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 3,
+                "pso_weight": 2,
+                "target_threshold_pct": 76
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0237(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0237",
+            "unit_number": 2,
+            "module_name": "Geotechnical & Transportation Systems - Module 237",
+            "cognitive_target": "L4_LEVEL",
+            "contact_hours": 10,
+            "key_concepts": [
+                "Concept 237.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 237.B: Architectural Paradigm and Component Interactions",
+                "Concept 237.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 2.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P237-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P237-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 237: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 1,
+                "pso_weight": 3,
+                "target_threshold_pct": 77
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0238(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0238",
+            "unit_number": 3,
+            "module_name": "Geotechnical & Transportation Systems - Module 238",
+            "cognitive_target": "L5_LEVEL",
+            "contact_hours": 11,
+            "key_concepts": [
+                "Concept 238.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 238.B: Architectural Paradigm and Component Interactions",
+                "Concept 238.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 3.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P238-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P238-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 238: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 2,
+                "pso_weight": 2,
+                "target_threshold_pct": 78
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0239(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0239",
+            "unit_number": 4,
+            "module_name": "Geotechnical & Transportation Systems - Module 239",
+            "cognitive_target": "L6_LEVEL",
+            "contact_hours": 12,
+            "key_concepts": [
+                "Concept 239.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 239.B: Architectural Paradigm and Component Interactions",
+                "Concept 239.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 4.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P239-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P239-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 239: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 3,
+                "pso_weight": 3,
+                "target_threshold_pct": 79
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0240(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0240",
+            "unit_number": 5,
+            "module_name": "Geotechnical & Transportation Systems - Module 240",
+            "cognitive_target": "L1_LEVEL",
+            "contact_hours": 8,
+            "key_concepts": [
+                "Concept 240.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 240.B: Architectural Paradigm and Component Interactions",
+                "Concept 240.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 5.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P240-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P240-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 240: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 1,
+                "pso_weight": 2,
+                "target_threshold_pct": 65
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0241(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0241",
+            "unit_number": 1,
+            "module_name": "Geotechnical & Transportation Systems - Module 241",
+            "cognitive_target": "L2_LEVEL",
+            "contact_hours": 9,
+            "key_concepts": [
+                "Concept 241.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 241.B: Architectural Paradigm and Component Interactions",
+                "Concept 241.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 1.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P241-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P241-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 241: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 2,
+                "pso_weight": 3,
+                "target_threshold_pct": 66
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0242(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0242",
+            "unit_number": 2,
+            "module_name": "Geotechnical & Transportation Systems - Module 242",
+            "cognitive_target": "L3_LEVEL",
+            "contact_hours": 10,
+            "key_concepts": [
+                "Concept 242.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 242.B: Architectural Paradigm and Component Interactions",
+                "Concept 242.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 2.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P242-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P242-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 242: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 3,
+                "pso_weight": 2,
+                "target_threshold_pct": 67
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0243(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0243",
+            "unit_number": 3,
+            "module_name": "Geotechnical & Transportation Systems - Module 243",
+            "cognitive_target": "L4_LEVEL",
+            "contact_hours": 11,
+            "key_concepts": [
+                "Concept 243.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 243.B: Architectural Paradigm and Component Interactions",
+                "Concept 243.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 3.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P243-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P243-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 243: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 1,
+                "pso_weight": 3,
+                "target_threshold_pct": 68
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0244(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0244",
+            "unit_number": 4,
+            "module_name": "Geotechnical & Transportation Systems - Module 244",
+            "cognitive_target": "L5_LEVEL",
+            "contact_hours": 12,
+            "key_concepts": [
+                "Concept 244.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 244.B: Architectural Paradigm and Component Interactions",
+                "Concept 244.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 4.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P244-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P244-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 244: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 2,
+                "pso_weight": 2,
+                "target_threshold_pct": 69
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0245(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0245",
+            "unit_number": 5,
+            "module_name": "Geotechnical & Transportation Systems - Module 245",
+            "cognitive_target": "L6_LEVEL",
+            "contact_hours": 8,
+            "key_concepts": [
+                "Concept 245.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 245.B: Architectural Paradigm and Component Interactions",
+                "Concept 245.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 5.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P245-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P245-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 245: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 3,
+                "pso_weight": 3,
+                "target_threshold_pct": 70
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0246(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0246",
+            "unit_number": 1,
+            "module_name": "Geotechnical & Transportation Systems - Module 246",
+            "cognitive_target": "L1_LEVEL",
+            "contact_hours": 9,
+            "key_concepts": [
+                "Concept 246.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 246.B: Architectural Paradigm and Component Interactions",
+                "Concept 246.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 1.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P246-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P246-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 246: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 1,
+                "pso_weight": 2,
+                "target_threshold_pct": 71
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0247(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0247",
+            "unit_number": 2,
+            "module_name": "Geotechnical & Transportation Systems - Module 247",
+            "cognitive_target": "L2_LEVEL",
+            "contact_hours": 10,
+            "key_concepts": [
+                "Concept 247.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 247.B: Architectural Paradigm and Component Interactions",
+                "Concept 247.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 2.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P247-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P247-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 247: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 2,
+                "pso_weight": 3,
+                "target_threshold_pct": 72
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0248(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0248",
+            "unit_number": 3,
+            "module_name": "Geotechnical & Transportation Systems - Module 248",
+            "cognitive_target": "L3_LEVEL",
+            "contact_hours": 11,
+            "key_concepts": [
+                "Concept 248.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 248.B: Architectural Paradigm and Component Interactions",
+                "Concept 248.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 3.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P248-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P248-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 248: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 3,
+                "pso_weight": 2,
+                "target_threshold_pct": 73
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0249(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0249",
+            "unit_number": 4,
+            "module_name": "Geotechnical & Transportation Systems - Module 249",
+            "cognitive_target": "L4_LEVEL",
+            "contact_hours": 12,
+            "key_concepts": [
+                "Concept 249.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 249.B: Architectural Paradigm and Component Interactions",
+                "Concept 249.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 4.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P249-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P249-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 249: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 1,
+                "pso_weight": 3,
+                "target_threshold_pct": 74
+            }
+        }
+
+    @classmethod
+    def get_curriculum_spec_0250(cls) -> Dict[str, Any]:
+        return {
+            "spec_id": "CIVIL-CE_GEO-S0250",
+            "unit_number": 5,
+            "module_name": "Geotechnical & Transportation Systems - Module 250",
+            "cognitive_target": "L5_LEVEL",
+            "contact_hours": 8,
+            "key_concepts": [
+                "Concept 250.A: Theoretical Foundations and Mathematical Formulation",
+                "Concept 250.B: Architectural Paradigm and Component Interactions",
+                "Concept 250.C: Industry Benchmarks and Practical Implementation Patterns"
+            ],
+            "syllabus_breakdown": {
+                "topic_overview": "Deep dive into Geotechnical & Transportation Systems domain principles for unit 5.",
+                "learning_outcomes": [
+                    "Analyze structural properties of system components in Civil Engineering.",
+                    "Formulate computational workflows adhering to NEC Autonomous standards.",
+                    "Evaluate performance trade-offs under real-world engineering constraints."
+                ],
+                "sample_problems": [
+                    {"problem_id": "P250-1", "description": "Calculate optimal parameter distribution under load.", "complexity": "Medium"},
+                    {"problem_id": "P250-2", "description": "Design modular verification routine for edge cases.", "complexity": "Hard"}
+                ],
+                "laboratory_tie_ins": [
+                    "Experiment 250: Hands-on verification in NEC departmental lab.",
+                    "Viva Voce Focus: Critical analysis of boundary criteria."
+                ]
+            },
+            "accreditation_attainment": {
+                "po_direct_weight": 2,
+                "pso_weight": 2,
+                "target_threshold_pct": 75
+            }
+        }
+
+    @classmethod
     def get_all_specifications(cls) -> List[Dict[str, Any]]:
-        return [getattr(cls, f"get_curriculum_spec_{i:04d}")() for i in range(1, 181)]
+        return [getattr(cls, f"get_curriculum_spec_{i:04d}")() for i in range(1, 251)]
 
     @classmethod
     def filter_by_unit(cls, unit_number: int) -> List[Dict[str, Any]]:

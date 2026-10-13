@@ -86,8 +86,7 @@ NEC_Campus_Copilot_AI/
 │   ├── data_loader.py         # CSV & text data parser
 │   ├── config.py              # Configuration loader with safe fallbacks
 │   ├── requirements.txt       # Python dependencies
-│   ├── .env                   # Active environment configuration
-│   ├── .env.example           # Environment template with placeholders
+│   ├── example.env            # Environment template with placeholders (no committed secrets)
 │   └── data/                  # Official NEC academic data
 │       ├── docs/              # 10 unit materials (dbms_unit1-5, java_unit1-5) + official syllabi & rules
 │       ├── materials/pdf/     # 10 compiled PDF documents for DBMS & Java

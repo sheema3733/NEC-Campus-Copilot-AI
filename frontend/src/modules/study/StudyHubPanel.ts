@@ -6821,6 +6821,2006 @@ export const STUDYHUB_REGISTRY: AcademicEntityItem[] = [
     },
     tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_425"]
   },
+  {
+    id: "studyhub-0426",
+    code: "NEC-STUDYHUB-0426",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 426",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 71,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_426"]
+  },
+  {
+    id: "studyhub-0427",
+    code: "NEC-STUDYHUB-0427",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 427",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 72,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_427"]
+  },
+  {
+    id: "studyhub-0428",
+    code: "NEC-STUDYHUB-0428",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 428",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 73,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_428"]
+  },
+  {
+    id: "studyhub-0429",
+    code: "NEC-STUDYHUB-0429",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 429",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 74,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_429"]
+  },
+  {
+    id: "studyhub-0430",
+    code: "NEC-STUDYHUB-0430",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 430",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_430"]
+  },
+  {
+    id: "studyhub-0431",
+    code: "NEC-STUDYHUB-0431",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 431",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 76,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_431"]
+  },
+  {
+    id: "studyhub-0432",
+    code: "NEC-STUDYHUB-0432",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 432",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 77,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_432"]
+  },
+  {
+    id: "studyhub-0433",
+    code: "NEC-STUDYHUB-0433",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 433",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 78,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_433"]
+  },
+  {
+    id: "studyhub-0434",
+    code: "NEC-STUDYHUB-0434",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 434",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 79,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_434"]
+  },
+  {
+    id: "studyhub-0435",
+    code: "NEC-STUDYHUB-0435",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 435",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 80,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_435"]
+  },
+  {
+    id: "studyhub-0436",
+    code: "NEC-STUDYHUB-0436",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 436",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 81,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_436"]
+  },
+  {
+    id: "studyhub-0437",
+    code: "NEC-STUDYHUB-0437",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 437",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 82,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_437"]
+  },
+  {
+    id: "studyhub-0438",
+    code: "NEC-STUDYHUB-0438",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 438",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 83,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_438"]
+  },
+  {
+    id: "studyhub-0439",
+    code: "NEC-STUDYHUB-0439",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 439",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 84,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_439"]
+  },
+  {
+    id: "studyhub-0440",
+    code: "NEC-STUDYHUB-0440",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 440",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 85,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_440"]
+  },
+  {
+    id: "studyhub-0441",
+    code: "NEC-STUDYHUB-0441",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 441",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 86,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_441"]
+  },
+  {
+    id: "studyhub-0442",
+    code: "NEC-STUDYHUB-0442",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 442",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_442"]
+  },
+  {
+    id: "studyhub-0443",
+    code: "NEC-STUDYHUB-0443",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 443",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 88,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_443"]
+  },
+  {
+    id: "studyhub-0444",
+    code: "NEC-STUDYHUB-0444",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 444",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 89,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_444"]
+  },
+  {
+    id: "studyhub-0445",
+    code: "NEC-STUDYHUB-0445",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 445",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 90,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_445"]
+  },
+  {
+    id: "studyhub-0446",
+    code: "NEC-STUDYHUB-0446",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 446",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 91,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_446"]
+  },
+  {
+    id: "studyhub-0447",
+    code: "NEC-STUDYHUB-0447",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 447",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 92,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_447"]
+  },
+  {
+    id: "studyhub-0448",
+    code: "NEC-STUDYHUB-0448",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 448",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 93,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_448"]
+  },
+  {
+    id: "studyhub-0449",
+    code: "NEC-STUDYHUB-0449",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 449",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 94,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_449"]
+  },
+  {
+    id: "studyhub-0450",
+    code: "NEC-STUDYHUB-0450",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 450",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 70,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_450"]
+  },
+  {
+    id: "studyhub-0451",
+    code: "NEC-STUDYHUB-0451",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 451",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 71,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_451"]
+  },
+  {
+    id: "studyhub-0452",
+    code: "NEC-STUDYHUB-0452",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 452",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 72,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_452"]
+  },
+  {
+    id: "studyhub-0453",
+    code: "NEC-STUDYHUB-0453",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 453",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 73,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_453"]
+  },
+  {
+    id: "studyhub-0454",
+    code: "NEC-STUDYHUB-0454",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 454",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 74,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_454"]
+  },
+  {
+    id: "studyhub-0455",
+    code: "NEC-STUDYHUB-0455",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 455",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_455"]
+  },
+  {
+    id: "studyhub-0456",
+    code: "NEC-STUDYHUB-0456",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 456",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 76,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_456"]
+  },
+  {
+    id: "studyhub-0457",
+    code: "NEC-STUDYHUB-0457",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 457",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 77,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_457"]
+  },
+  {
+    id: "studyhub-0458",
+    code: "NEC-STUDYHUB-0458",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 458",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 78,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_458"]
+  },
+  {
+    id: "studyhub-0459",
+    code: "NEC-STUDYHUB-0459",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 459",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 79,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_459"]
+  },
+  {
+    id: "studyhub-0460",
+    code: "NEC-STUDYHUB-0460",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 460",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 80,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_460"]
+  },
+  {
+    id: "studyhub-0461",
+    code: "NEC-STUDYHUB-0461",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 461",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 81,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_461"]
+  },
+  {
+    id: "studyhub-0462",
+    code: "NEC-STUDYHUB-0462",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 462",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 82,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_462"]
+  },
+  {
+    id: "studyhub-0463",
+    code: "NEC-STUDYHUB-0463",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 463",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 83,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_463"]
+  },
+  {
+    id: "studyhub-0464",
+    code: "NEC-STUDYHUB-0464",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 464",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 84,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_464"]
+  },
+  {
+    id: "studyhub-0465",
+    code: "NEC-STUDYHUB-0465",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 465",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 85,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_465"]
+  },
+  {
+    id: "studyhub-0466",
+    code: "NEC-STUDYHUB-0466",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 466",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 86,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_466"]
+  },
+  {
+    id: "studyhub-0467",
+    code: "NEC-STUDYHUB-0467",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 467",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_467"]
+  },
+  {
+    id: "studyhub-0468",
+    code: "NEC-STUDYHUB-0468",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 468",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 88,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_468"]
+  },
+  {
+    id: "studyhub-0469",
+    code: "NEC-STUDYHUB-0469",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 469",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 89,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_469"]
+  },
+  {
+    id: "studyhub-0470",
+    code: "NEC-STUDYHUB-0470",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 470",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 90,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_470"]
+  },
+  {
+    id: "studyhub-0471",
+    code: "NEC-STUDYHUB-0471",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 471",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 91,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_471"]
+  },
+  {
+    id: "studyhub-0472",
+    code: "NEC-STUDYHUB-0472",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 472",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 92,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_472"]
+  },
+  {
+    id: "studyhub-0473",
+    code: "NEC-STUDYHUB-0473",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 473",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 93,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_473"]
+  },
+  {
+    id: "studyhub-0474",
+    code: "NEC-STUDYHUB-0474",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 474",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 94,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_474"]
+  },
+  {
+    id: "studyhub-0475",
+    code: "NEC-STUDYHUB-0475",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 475",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 70,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_475"]
+  },
+  {
+    id: "studyhub-0476",
+    code: "NEC-STUDYHUB-0476",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 476",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 71,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_476"]
+  },
+  {
+    id: "studyhub-0477",
+    code: "NEC-STUDYHUB-0477",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 477",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 72,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_477"]
+  },
+  {
+    id: "studyhub-0478",
+    code: "NEC-STUDYHUB-0478",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 478",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 73,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_478"]
+  },
+  {
+    id: "studyhub-0479",
+    code: "NEC-STUDYHUB-0479",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 479",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 74,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_479"]
+  },
+  {
+    id: "studyhub-0480",
+    code: "NEC-STUDYHUB-0480",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 480",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 75,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_480"]
+  },
+  {
+    id: "studyhub-0481",
+    code: "NEC-STUDYHUB-0481",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 481",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 76,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_481"]
+  },
+  {
+    id: "studyhub-0482",
+    code: "NEC-STUDYHUB-0482",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 482",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 77,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_482"]
+  },
+  {
+    id: "studyhub-0483",
+    code: "NEC-STUDYHUB-0483",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 483",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 78,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_483"]
+  },
+  {
+    id: "studyhub-0484",
+    code: "NEC-STUDYHUB-0484",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 484",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 79,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_484"]
+  },
+  {
+    id: "studyhub-0485",
+    code: "NEC-STUDYHUB-0485",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 485",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 80,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_485"]
+  },
+  {
+    id: "studyhub-0486",
+    code: "NEC-STUDYHUB-0486",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 486",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 81,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_486"]
+  },
+  {
+    id: "studyhub-0487",
+    code: "NEC-STUDYHUB-0487",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 487",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 82,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_487"]
+  },
+  {
+    id: "studyhub-0488",
+    code: "NEC-STUDYHUB-0488",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 488",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 83,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_488"]
+  },
+  {
+    id: "studyhub-0489",
+    code: "NEC-STUDYHUB-0489",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 489",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 84,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_489"]
+  },
+  {
+    id: "studyhub-0490",
+    code: "NEC-STUDYHUB-0490",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 490",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 85,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_490"]
+  },
+  {
+    id: "studyhub-0491",
+    code: "NEC-STUDYHUB-0491",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 491",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 86,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_491"]
+  },
+  {
+    id: "studyhub-0492",
+    code: "NEC-STUDYHUB-0492",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 492",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 87,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_492"]
+  },
+  {
+    id: "studyhub-0493",
+    code: "NEC-STUDYHUB-0493",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 493",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 88,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_493"]
+  },
+  {
+    id: "studyhub-0494",
+    code: "NEC-STUDYHUB-0494",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 494",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 89,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_494"]
+  },
+  {
+    id: "studyhub-0495",
+    code: "NEC-STUDYHUB-0495",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 495",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 90,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_495"]
+  },
+  {
+    id: "studyhub-0496",
+    code: "NEC-STUDYHUB-0496",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 496",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 91,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_496"]
+  },
+  {
+    id: "studyhub-0497",
+    code: "NEC-STUDYHUB-0497",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 497",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 92,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_497"]
+  },
+  {
+    id: "studyhub-0498",
+    code: "NEC-STUDYHUB-0498",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 498",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 93,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_498"]
+  },
+  {
+    id: "studyhub-0499",
+    code: "NEC-STUDYHUB-0499",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 499",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 94,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_499"]
+  },
+  {
+    id: "studyhub-0500",
+    code: "NEC-STUDYHUB-0500",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 500",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 70,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_500"]
+  },
+  {
+    id: "studyhub-0501",
+    code: "NEC-STUDYHUB-0501",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 501",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 71,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_501"]
+  },
+  {
+    id: "studyhub-0502",
+    code: "NEC-STUDYHUB-0502",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 502",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 72,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_502"]
+  },
+  {
+    id: "studyhub-0503",
+    code: "NEC-STUDYHUB-0503",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 503",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 73,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_503"]
+  },
+  {
+    id: "studyhub-0504",
+    code: "NEC-STUDYHUB-0504",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 504",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 74,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_504"]
+  },
+  {
+    id: "studyhub-0505",
+    code: "NEC-STUDYHUB-0505",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 505",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_505"]
+  },
+  {
+    id: "studyhub-0506",
+    code: "NEC-STUDYHUB-0506",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 506",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 76,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_506"]
+  },
+  {
+    id: "studyhub-0507",
+    code: "NEC-STUDYHUB-0507",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 507",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 77,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_507"]
+  },
+  {
+    id: "studyhub-0508",
+    code: "NEC-STUDYHUB-0508",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 508",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 78,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_508"]
+  },
+  {
+    id: "studyhub-0509",
+    code: "NEC-STUDYHUB-0509",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 509",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 79,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_509"]
+  },
+  {
+    id: "studyhub-0510",
+    code: "NEC-STUDYHUB-0510",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 510",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 80,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_510"]
+  },
+  {
+    id: "studyhub-0511",
+    code: "NEC-STUDYHUB-0511",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 511",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 81,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_511"]
+  },
+  {
+    id: "studyhub-0512",
+    code: "NEC-STUDYHUB-0512",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 512",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 82,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_512"]
+  },
+  {
+    id: "studyhub-0513",
+    code: "NEC-STUDYHUB-0513",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 513",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 83,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_513"]
+  },
+  {
+    id: "studyhub-0514",
+    code: "NEC-STUDYHUB-0514",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 514",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 84,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_514"]
+  },
+  {
+    id: "studyhub-0515",
+    code: "NEC-STUDYHUB-0515",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 515",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 85,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_515"]
+  },
+  {
+    id: "studyhub-0516",
+    code: "NEC-STUDYHUB-0516",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 516",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 86,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_516"]
+  },
+  {
+    id: "studyhub-0517",
+    code: "NEC-STUDYHUB-0517",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 517",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_517"]
+  },
+  {
+    id: "studyhub-0518",
+    code: "NEC-STUDYHUB-0518",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 518",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 88,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_518"]
+  },
+  {
+    id: "studyhub-0519",
+    code: "NEC-STUDYHUB-0519",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 519",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 89,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_519"]
+  },
+  {
+    id: "studyhub-0520",
+    code: "NEC-STUDYHUB-0520",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 520",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 90,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_520"]
+  },
+  {
+    id: "studyhub-0521",
+    code: "NEC-STUDYHUB-0521",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 521",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 91,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_521"]
+  },
+  {
+    id: "studyhub-0522",
+    code: "NEC-STUDYHUB-0522",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 522",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 92,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_522"]
+  },
+  {
+    id: "studyhub-0523",
+    code: "NEC-STUDYHUB-0523",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 523",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 93,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_523"]
+  },
+  {
+    id: "studyhub-0524",
+    code: "NEC-STUDYHUB-0524",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 524",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 94,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_524"]
+  },
+  {
+    id: "studyhub-0525",
+    code: "NEC-STUDYHUB-0525",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 525",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 70,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_525"]
+  },
+  {
+    id: "studyhub-0526",
+    code: "NEC-STUDYHUB-0526",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 526",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 71,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_526"]
+  },
+  {
+    id: "studyhub-0527",
+    code: "NEC-STUDYHUB-0527",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 527",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 72,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_527"]
+  },
+  {
+    id: "studyhub-0528",
+    code: "NEC-STUDYHUB-0528",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 528",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 73,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_528"]
+  },
+  {
+    id: "studyhub-0529",
+    code: "NEC-STUDYHUB-0529",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 529",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 74,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_529"]
+  },
+  {
+    id: "studyhub-0530",
+    code: "NEC-STUDYHUB-0530",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 530",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 75,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_530"]
+  },
+  {
+    id: "studyhub-0531",
+    code: "NEC-STUDYHUB-0531",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 531",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 76,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_531"]
+  },
+  {
+    id: "studyhub-0532",
+    code: "NEC-STUDYHUB-0532",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 532",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 77,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_532"]
+  },
+  {
+    id: "studyhub-0533",
+    code: "NEC-STUDYHUB-0533",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 533",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 78,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_533"]
+  },
+  {
+    id: "studyhub-0534",
+    code: "NEC-STUDYHUB-0534",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 534",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 79,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_534"]
+  },
+  {
+    id: "studyhub-0535",
+    code: "NEC-STUDYHUB-0535",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 535",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 80,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_535"]
+  },
+  {
+    id: "studyhub-0536",
+    code: "NEC-STUDYHUB-0536",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 536",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 81,
+      completionRate: 96,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_536"]
+  },
+  {
+    id: "studyhub-0537",
+    code: "NEC-STUDYHUB-0537",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 537",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 82,
+      completionRate: 97,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_537"]
+  },
+  {
+    id: "studyhub-0538",
+    code: "NEC-STUDYHUB-0538",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 538",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 83,
+      completionRate: 98,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_538"]
+  },
+  {
+    id: "studyhub-0539",
+    code: "NEC-STUDYHUB-0539",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 539",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 84,
+      completionRate: 99,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_539"]
+  },
+  {
+    id: "studyhub-0540",
+    code: "NEC-STUDYHUB-0540",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 540",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 85,
+      completionRate: 85,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_540"]
+  },
+  {
+    id: "studyhub-0541",
+    code: "NEC-STUDYHUB-0541",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 541",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 86,
+      completionRate: 86,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_541"]
+  },
+  {
+    id: "studyhub-0542",
+    code: "NEC-STUDYHUB-0542",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 542",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 87,
+      completionRate: 87,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_542"]
+  },
+  {
+    id: "studyhub-0543",
+    code: "NEC-STUDYHUB-0543",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 543",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 8,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 88,
+      completionRate: 88,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_543"]
+  },
+  {
+    id: "studyhub-0544",
+    code: "NEC-STUDYHUB-0544",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 544",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 1,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 89,
+      completionRate: 89,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_544"]
+  },
+  {
+    id: "studyhub-0545",
+    code: "NEC-STUDYHUB-0545",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 545",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 2,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 90,
+      completionRate: 90,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_545"]
+  },
+  {
+    id: "studyhub-0546",
+    code: "NEC-STUDYHUB-0546",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 546",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 3,
+    credits: 3,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 91,
+      completionRate: 91,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_546"]
+  },
+  {
+    id: "studyhub-0547",
+    code: "NEC-STUDYHUB-0547",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 547",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 4,
+    credits: 4,
+    status: "PENDING",
+    metrics: {
+      targetScore: 92,
+      completionRate: 92,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_547"]
+  },
+  {
+    id: "studyhub-0548",
+    code: "NEC-STUDYHUB-0548",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 548",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 5,
+    credits: 3,
+    status: "UNDER_REVIEW",
+    metrics: {
+      targetScore: 93,
+      completionRate: 93,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_548"]
+  },
+  {
+    id: "studyhub-0549",
+    code: "NEC-STUDYHUB-0549",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 549",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 6,
+    credits: 4,
+    status: "ACTIVE",
+    metrics: {
+      targetScore: 94,
+      completionRate: 94,
+      complianceAuditPassed: true
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_549"]
+  },
+  {
+    id: "studyhub-0550",
+    code: "NEC-STUDYHUB-0550",
+    title: "Interactive 3D Study Hub and Quiz Deck - Item 550",
+    category: "STUDYHUB_CORE",
+    department: "ENGINEERING_ACADEMICS",
+    semester: 7,
+    credits: 3,
+    status: "PENDING",
+    metrics: {
+      targetScore: 70,
+      completionRate: 95,
+      complianceAuditPassed: false
+    },
+    tags: ["NEC_AUTONOMOUS", "R20_R23", "MODULE_550"]
+  },
 ];
 
 export function filterSTUDYHUBBySemester(semester: number): AcademicEntityItem[] {
